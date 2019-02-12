@@ -1,15 +1,15 @@
 ---
-author: karuang
+author: karuanag
 ms.author: karuanag
 title: Office 365 오픈소스 솔루션에 대 한 사용자 정의 학습 개요
 ms.date: 02/10/2019
 description: 사용 현황 및 조직에서 Office 365의 채택 Office 365에 대 한 사용자 정의 학습 수 가속화 하는 방법에 대해 알아봅니다. 이 솔루션에는 SharePoint Online 사용자 지정 웹 파트 및 Office 365 테 넌 트에 쉽게 구축 현대 SharePoint Online 커뮤니케이션 교육 사이트 포함 합니다.
-ms.openlocfilehash: 987e780cdfc86d60ddce4aede5919719127dc177
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886111"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951232"
 ---
 # <a name="custom-learning-for-office-365"></a>Office 365에 대 한 학습 하는 사용자 정의
 
@@ -35,9 +35,9 @@ Office 365에 대 한 학습 하는 사용자 지정에는 두가지 옵션이 �
 
 ![Office 365 웹 파트에 대 한 학습 하는 사용자 정의](media/clo365customplaylist.png)
 
-## <a name="4-easy-steps"></a>간단한 4 단계
+## <a name="3-easy-steps"></a>3 단계
 
-최신 Microsoft와 간단한 교육 솔루션을 콘텐츠 만들기를 [시작 하기](getstarted.md) 수 있도록 합니다.
+최신 Microsoft와 간단한 교육 솔루션을 콘텐츠 만들기를 [시작 하기](prereqs.md) 수 있도록 합니다.
 
 1. 솔루션 오른쪽 선택
 2. 전체 설치 &를 사용자 지정 콘텐츠
