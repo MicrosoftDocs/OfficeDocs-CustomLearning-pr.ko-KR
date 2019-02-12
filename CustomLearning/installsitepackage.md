@@ -1,20 +1,29 @@
-# <a name="install-the-custom-learning-site-package"></a><span data-ttu-id="0ad4a-101">학습 사이트 패키지 사용자 지정 설치</span><span class="sxs-lookup"><span data-stu-id="0ad4a-101">Install the Custom Learning Site Package</span></span>
+---
+author: karuanag
+ms.author: karuanag
+title: 사이트 경험 구축
+ms.date: 02/10/2019
+description: Office 365 사이트에 대 한 사용자 정의 학습 구축
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951202"
+---
+# <a name="provision-the-custom-learning-site"></a><span data-ttu-id="66ba9-103">사용자 지정 학습 사이트 구축</span><span class="sxs-lookup"><span data-stu-id="66ba9-103">Provision the Custom Learning Site</span></span>
 
-## <a name="prerequisite-for-installation"></a><span data-ttu-id="0ad4a-102">설치에 대 한 필수 구성 요소</span><span class="sxs-lookup"><span data-stu-id="0ad4a-102">Prerequisite for installation</span></span>
-
-- <span data-ttu-id="0ad4a-p101">테 넌 트에 대 한 사용자 정의 학습 사이트 패키지를 설치 하려면 Office 365 관리 권한을 갖도록 해야 합니다.  이러한 사용 권한은 Office 365 관리자와 함께 작업 하 또는 개별 사이트 모음에 대 한 만으로는 웹 파트를 설치 하지 않아도 하는 경우 됩니다.</span><span class="sxs-lookup"><span data-stu-id="0ad4a-p101">To install the Custom Learning site package for your tenant you will need to have Office 365 Administrative permissions.  If you do not have these permissions you can either work with your Office 365 Administrator or install the webpart alone for an individual site collection.</span></span>
-- <span data-ttu-id="0ad4a-p102">콘텐츠 익히기를 테스트 위치에서 패키지를 설치 하는 것이 좋습니다. 해야할 수도 있습니다.  이 방법을 사용 하는 경우 프로덕션 테 넌 트에 패키지를 다시 설치 하 고 다시 테스트 하는 동안 완료 하는 모든 사용자 지정 해야 합니다.</span><span class="sxs-lookup"><span data-stu-id="0ad4a-p102">You may want to consider installing the package in a testing location to get familiar with the content.  If you take this approach you will need to reinstall the package in your production tenant and recreate any customizations that you completed during testing.</span></span> 
-- <span data-ttu-id="0ad4a-107">웹 파트 교육 내용에 대 한 업데이트 페이지 사용자 지정 영향을 주지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="0ad4a-107">Updates to the webpart training content will not effect your page customizations.</span></span>
-- <span data-ttu-id="0ad4a-p103">SharePoint Online만 지원 합니다. 웹 파트의 SharePoint 온-프레미스 버전을 설치 하는 지원 되지 않습니다.</span><span class="sxs-lookup"><span data-stu-id="0ad4a-p103">We support SharePoint Online only. The web part is not support for installation on any version of SharePoint on premises.</span></span>
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a><span data-ttu-id="0ad4a-110">사용자 정의 학습 사이트 테 넌 트에 추가</span><span class="sxs-lookup"><span data-stu-id="0ad4a-110">Add the Custom Learning site to your tenant</span></span> 
-
-<span data-ttu-id="0ad4a-111">**1. 패키지 문서의 지침을 추가 합니다.**</span><span class="sxs-lookup"><span data-stu-id="0ad4a-111">**1. Add package instructions here**</span></span>
+1. <span data-ttu-id="66ba9-p101">이동 http://provisioning.sharepointpnp.com 하 고 설치를 사용 하 여 로그인 하는 대상 테 넌 트 하기에 대 한 자격 증명을 사용 하 여 계획 합니다. ![pnphome.png](media/pnphome.png)</span><span class="sxs-lookup"><span data-stu-id="66ba9-p101">Go to http://provisioning.sharepointpnp.com and sign in using your credentials for the targeted tenant you plan on using for the installation. ![pnphome.png](media/pnphome.png)</span></span>
+1. <span data-ttu-id="66ba9-106">조직을 대신 하 여 사용자의 동의 해제 확인 하 고 수락을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="66ba9-106">Check off Consent on behalf of your organization and select Accept.</span></span>
+1. <span data-ttu-id="66ba9-107">솔루션 갤러리에서 Office 365에 대 한 사용자 정의 학습을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="66ba9-107">Select Custom Learning for Office 365 from the solution gallery.</span></span> 
+1. <span data-ttu-id="66ba9-108">테 넌 트에 추가 선택</span><span class="sxs-lookup"><span data-stu-id="66ba9-108">Select Add to your Tenant</span></span> 
+1. <span data-ttu-id="66ba9-109">필수 / 선택 프로 비전 테 넌 트 환경에 CLO365를 설치할 준비가 되 면으로 프로 비전 페이지에서 기본 선택 항목을 조정 합니다.</span><span class="sxs-lookup"><span data-stu-id="66ba9-109">Adjust default selections on the provisioning page as required and select Provision when ready to install CLO365 into your tenant environment.</span></span>  
+1. <span data-ttu-id="66ba9-p102">프로 비전 하는 프로세스에는 최대 15 분까지 수행 됩니다. 전자 메일 (준비 페이지에서 입력 한 알림 전자 메일 주소)을 통해 알림을 받게 됩니다 사이트 액세스에 대 한 준비가 된 경우.</span><span class="sxs-lookup"><span data-stu-id="66ba9-p102">The provisioning process will take up to 15 minutes. You will be notified via email (to the notification email address you entered on the Provisioning page) when the site is ready for access.</span></span> 
+1. <span data-ttu-id="66ba9-112">한번에 로그인 한 CLO365 테 넌 트를 자주 사용에 사이트 하 고 나중에 참조할 수에 대 한 url을 복사 합니다.</span><span class="sxs-lookup"><span data-stu-id="66ba9-112">Once logged on to CLO365 in your tenant, favorite the site and copy the url for future reference.</span></span>  
 
 
-
-## <a name="next-steps"></a><span data-ttu-id="0ad4a-112">다음 단계</span><span class="sxs-lookup"><span data-stu-id="0ad4a-112">Next Steps</span></span>
-- <span data-ttu-id="0ad4a-113">웹 파트에 포함 된 [기본 콘텐츠](sitecontent.md) 를 탐색 합니다.</span><span class="sxs-lookup"><span data-stu-id="0ad4a-113">Explore the [default content](sitecontent.md) included in the webpart.</span></span>
-- <span data-ttu-id="0ad4a-114">[사용자 지정](customization.md) 하면 조직에 대 한 교육 경험 합니다.</span><span class="sxs-lookup"><span data-stu-id="0ad4a-114">[Customize](customization.md) the training experience for your organization.</span></span>
-- <span data-ttu-id="0ad4a-115">교육 솔루션의 [채택 드라이브](driveadoption.md) 를 합니다.</span><span class="sxs-lookup"><span data-stu-id="0ad4a-115">[Drive adoption](driveadoption.md) of your training solution.</span></span>
+## <a name="next-steps"></a><span data-ttu-id="66ba9-113">다음 단계</span><span class="sxs-lookup"><span data-stu-id="66ba9-113">Next Steps</span></span>
+- <span data-ttu-id="66ba9-114">웹 파트에 포함 된 [기본 콘텐츠](sitecontent.md) 를 탐색 합니다.</span><span class="sxs-lookup"><span data-stu-id="66ba9-114">Explore the [default content](sitecontent.md) included in the webpart.</span></span>
+- <span data-ttu-id="66ba9-115">[사용자 지정](customization.md) 하면 조직에 대 한 교육 경험 합니다.</span><span class="sxs-lookup"><span data-stu-id="66ba9-115">[Customize](customization.md) the training experience for your organization.</span></span>
+- <span data-ttu-id="66ba9-116">교육 솔루션의 [채택 드라이브](driveadoption.md) 를 합니다.</span><span class="sxs-lookup"><span data-stu-id="66ba9-116">[Drive adoption](driveadoption.md) of your training solution.</span></span>
 
