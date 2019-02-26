@@ -1,28 +1,28 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: 필수 구성 요소가 설치에 대 한
-ms.date: 02/10/2019
-description: 결정 사항 및 사용자 지정 학습 설치 및 설정에 대 한 필수 구성 요소 정보
-ms.openlocfilehash: cd64f59c98163f28b452a2d01bcfba9c6fee268f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+title: 설치를 위한 필수 구성 요소
+ms.date: 02/11/2019
+description: 사용자 지정 학습 설치 및 설정에 대 한 결정 및 필수 구성 요소 정보
+ms.openlocfilehash: 1a57e8fbecfbce4608c8dcb618f4fdc007467789
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952638"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989719"
 ---
 # <a name="getting-started"></a>시작
 
-Office 365에 대 한 학습 하는 사용자 정의 사용 하면 조직에 대 한 주문형 교육 솔루션을 제공할 수 있습니다.  여기서 설명할 것 필수 구성 요소가 및 의사 결정을 성공적으로 배포에 대 한 확인 해야 합니다.
+Office 365에 대 한 사용자 지정 학습을 통해 조직에 대 한 주문형 교육 솔루션을 제공할 수 있습니다.  여기에서는 배포를 성공적으로 수행 하는 데 필요한 사전 필수 구성 및 결정 사항에 대해 설명 합니다.
 
-다음 지침에 테 넌 트 환경에 설치를 CLO365 통신 사이트 서식 파일 및 사용자 정의 학습 웹 파트를 포함 하 여 Office 365 (CLO365)에 대 한 사용자 정의 학습 프로 비전 하는 방법을 간략하게 설명 합니다. 이러한 지침은 서비스를 통해 SharePoint Online 프로 비전에서 CLO365 설치 https://provisioning.sharepointpnp.com 기존 SharePoint Online 통신 사이트에만 사용 하기 위해 사용자 정의 학습 웹 파트를 설치에 관심이 있다면를 읽어보십시오는 [사용자 지정 웹 파트를 설치](installwebpart.md)하기 위한 지침입니다. 
+다음 지침에서는 테 넌 트 환경에 CLO365 커뮤니케이션 사이트 서식 파일 및 사용자 지정 학습 웹 파트의 설치를 포함 하 여 Office 365 (CLO365)에 대 한 사용자 지정 학습을 구축 하는 방법에 대해 간략하게 설명 합니다. 이 지침에서는 sharepoint online 프로 비전 서비스 https://provisioning.sharepointpnp.com 를 통해 CLO365을 설치 하는 과정을 안내 합니다. (기존 sharepoint online 통신 사이트에서 사용할 사용자 지정 학습 웹 파트만 설치 하려면 다음을 참조 하세요.) [사용자 지정 웹 파트 설치](installwebpart.md)지침 
 
-## <a name="pre-requisites"></a>필수 구성 요소
+## <a name="prerequisites"></a>필수 구성 요소
  
-[SharePoint Online 프로 비전 서비스](https://provisioning.sharepointpnp.com) 를 통해 CLO365을 성공적으로 설치 하는 다음과 같은 필수 구성 요소를 충족 해야 합니다. 
+[SharePoint Online 프로 비전 서비스](https://provisioning.sharepointpnp.com) 를 통해 CLO365을 설치 하려면 다음 사전 요구 사항을 충족 해야 합니다. 
  
-- CLO365 프로 비전 됩니다 개인에 설치에 대 한 대상 테 넌 트의 테 넌 트 관리자 여야 합니다.  
-- 테 넌 트 ' 앱 카탈로그 ' SharePoint 관리 센터의 '앱' 옵션 내에서 사용할 수 있어야 합니다. 현재 카탈로그를 참조 하십시오 앱 하지 않은 경우 하나를 만드는 방법에 대 한 지침은 앱 카탈로그 만들기 섹션입니다.  
-- CLO365 프로 비전 됩니다 개별 설치에 대 한 대상 테 넌 트의 앱 카탈로그의 기본 소유자 여야 합니다. CLO365 installer 앱 카탈로그의 기본 소유자 아닌 경우 지침에 대 한 앱 카탈로그 섹션의 기본 소유자 변경을 참조 하십시오.  
-- 
-## <a name="next-steps---service-decisionsservicedecisionsmd"></a>다음 단계- [서비스 결정](servicedecisions.md)
+- CLO365을 프로 비전 할 개인은 설치 대상 테 넌 트의 테 넌 트 관리자 여야 합니다.  
+- SharePoint 관리 센터의 ' 앱 ' 옵션 내에서 테 넌 트 ' 앱 카탈로그 '를 사용할 수 있어야 합니다. 현재 앱 카탈로그가 없는 경우 [SharePoint Online 설명서](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) 를 참조 하 여이 기능을 프로 비전 합니다.  
+- CLO365을 프로 비전 할 개인은 설치를 위해 대상 테 넌 트에 있는 앱 카탈로그의 사이트 모음 소유자 여야 합니다. CLO365 설치 관리자가 앱 카탈로그의 사이트 모음 소유자가 아닌 경우에는 [이러한 지침을 완료](addappadmin.md) 하 고 계속 진행 합니다.  
+
+### <a name="next-steps---service-decisionsservicedecisionsmd"></a>다음 단계- [서비스 결정](servicedecisions.md)

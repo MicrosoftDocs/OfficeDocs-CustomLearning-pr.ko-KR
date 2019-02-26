@@ -4,16 +4,16 @@ ms.author: karuanag
 title: 교육 환경 사용자 지정
 ms.date: 02/10/2019
 description: Office 365에 대 한 사용자 지정 학습을 통해 사용할 수 있는 다양 한 사용자 지정 사항에 대해 알아봅니다.
-ms.openlocfilehash: 035b6734665da59ed912d9ebd6a3923d1b0b9108
-ms.sourcegitcommit: 0cd0c3e230e0217dfd5d050b20050ce781b5a7c6
+ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "30050629"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30059689"
 ---
 # <a name="customize-the-training-experience"></a>교육 환경 사용자 지정
 
-테스트 3입니다. 기본적으로 사이트 환경과 웹 파트 모두 Office 365 및 Windows 10 서비스에 대 한 콘텐츠를 포함 합니다.  이러한 서비스 중 일부 또는 일부만 회사에서 사용할 수 있는 경우 사용자가 사용할 수 있는 콘텐츠를 조정할 수 있습니다.  
+테스트 4입니다. 기본적으로 사이트 환경과 웹 파트 모두 Office 365 및 Windows 10 서비스에 대 한 콘텐츠를 포함 합니다.  이러한 서비스 중 일부 또는 일부만 회사에서 사용할 수 있는 경우 사용자가 사용할 수 있는 콘텐츠를 조정할 수 있습니다.  
 
 이 사이트의 소유자가 사용할 수 있는 다양 한 종류의 사용자 지정 내용이 있습니다. 
 
