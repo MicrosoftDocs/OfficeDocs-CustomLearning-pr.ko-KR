@@ -4,19 +4,19 @@ ms.author: pkrebs
 title: SharePoint 응용 프로그램 페이지를 확인 하세요.
 ms.date: 02/15/2019
 description: 사용자 지정 학습에서 SharePoint 응용 프로그램 페이지의 기능에 대해 알아봅니다.
-ms.openlocfilehash: d92fc37376cfa09a971bb341102efff09b52de65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: acf56defe57724267028bbb130071a070f82682d
+ms.sourcegitcommit: 3eca3a7083ea165b860237da34d1567154158681
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103473"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30412302"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>SharePoint 응용 프로그램 페이지를 확인 하세요.
 
 사용자 지정 학습은 사용자 지정 학습 관리자가 알고 있어야 하는 두 가지 SharePoint 응용 프로그램 페이지를 제공 합니다. 이러한 두 페이지는 편집이 불가능 합니다. 
 
 - CustomLearningAdmin .aspx
-- CustomLearningAdmin .aspx
+- CustomLearningViewer .aspx
 
 ## <a name="customlearningadminaspx"></a>CustomLearningAdmin .aspx
 
