@@ -1,5 +1,6 @@
 # [시작 하기](index.md)
-## [사용자 지정 학습 프로 비전](installsitepackage.md)
+## [사용자 지정 학습 설치 옵션](custom_setupoptions.md)
+## [사용자 지정 학습 프로 비전](custom_provision.md)
 ## [사용자 지정 학습 사이트 탐색](sitecontent.md)
 ## [독립 실행형 웹 파트 설정](custom_manualsetup.md)
 # [학습 환경 사용자 지정](custom_overview.md)
