@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 사용자 지정 학습 업그레이드
 ms.date: 02/10/2019
 description: Office 365 수동 웹 파트 설정에 대 한 사용자 지정 학습
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411898"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523073"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>사용자 지정 학습을 위한 수동 업그레이드
 
@@ -102,12 +102,11 @@ office 365에 대 한 사용자 지정 학습은 웹 파트에 대 한 다양 �
 재생 목록이 제대로 작동 하도록 하기 위해 이전 버전의 웹 파트를 사용 하 여 만든 재생 목록을 다시 만들어야 합니다. 재생 목록을 삭제 하기 전에 새 사용자 지정 학습 웹 파트를 사용 하 여 쉽게 다시 만들 수 있도록 사용자 지정 재생 목록 및 관련 자산의 목록을 만듭니다. 재생 목록의 복사본을 만든 다음 삭제 합니다. 삭제 하기 전에 JSONData 필드를 사용 하 여 재생 목록 내용의 복사본을 만들 수 있습니다. 이를 통해 나중에 쉽게 만들 수 있습니다.
 
 
-• 사용자 지정 학습 사이트에서 설정 > 사이트 콘텐츠를 클릭 합니다. • 재생 목록을 선택한 후 줄임표를 선택 하 고 편집을 선택한 다음 JSONData 필드의 내용을 복사 하 고 메모장 이나 별도 문서에 저장 하 여 나중에 참조 하도록 합니다. 취소를 선택 합니다.
-• 재생 목록을 선택 하 고 줄임표를 선택한 다음 삭제를 선택 합니다.
-• 이제 새 웹 파트로 재생 목록을 다시 만들 준비가 되었습니다.
-Office 365 웹 파트에 대 한 새 사용자 지정 학습을 사용 하는 https://docs.microsoft.com/en-us/office365/customlearning/custom_overview방법에 대 한 지침은를 참조 하세요.
-
-## <a name="step-8---chan"></a>8 단계-Chan
+1. 사용자 지정 학습 사이트에서**사이트 콘텐츠** **설정을** > 클릭 합니다. 
+2. 재생 목록을 선택 하 고 줄임표를 선택한 다음 **편집**을 선택 하 고 **JSONData** 필드의 내용을 복사한 다음 나중에 참조 하기 위해 메모장 이나 별도의 문서에 저장 합니다. **취소**를 선택 합니다.
+3. 재생 목록을 선택 하 고 줄임표를 선택한 다음 **삭제**를 선택 합니다.
+4. 이제 새 웹 파트로 재생 목록을 다시 만들 준비가 되었습니다.
+Office 365 웹 파트에 대 한 사용자 지정 학습을 사용 하는 방법에 대 한 자세한 내용은 [학습 환경 사용자 지정 (custom_overview)을 참조 하십시오.
 
 ### <a name="next-steps"></a>다음 단계
 - 조직의 교육 환경 [사용자 지정](custom_overview.md)

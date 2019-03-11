@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 사이트 및 기본 콘텐츠 탐색
 ms.date: 02/10/2019
 description: 사용자 지정 학습 사이트 및 기본 콘텐츠 탐색
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518185"
+ms.locfileid: "30523042"
 ---
 # <a name="explore-the-custom-learning-site"></a>사용자 지정 학습 사이트 탐색
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518185"
 
 1.  웹 브라우저를 열고 office.com 또는 조직의 로그인 위치로 이동 합니다. 
 2.  사용자 이름 및 암호를 사용 하 여 로그인 합니다.
-3.  테 넌 트 관리자가 제공한 URL을 사용 하 여 사이트의 위치로 이동 하거나 Office 365 홈 페이지에서 SharePoint를 선택 합니다. 
+3.  테 넌 트 관리자가 제공한 URL을 사용 하 여 사이트 위치로 이동 하거나 Office 365 홈 페이지에서 SharePoint를 선택한 후 사이트를 선택 합니다. 
 
 ![cg-introducing-.png](media/cg-introducing.png)
 

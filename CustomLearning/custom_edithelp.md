@@ -4,23 +4,23 @@ ms.author: pkrebs
 title: 사용자 지정 학습 사이트 사용자 지정
 ms.date: 02/15/2019
 description: Office 365에 대 한 사용자 지정 학습을 통해 사용할 수 있는 다양 한 사용자 지정 사항에 대해 알아봅니다.
-ms.openlocfilehash: 998c99a9154440872b40acb8c894862ca6e0e2c6
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: e6f8ad87fcdb6cf50df2de2487d5eda6c689fd03
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103813"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30522982"
 ---
 # <a name="customize-the-site"></a>사이트 사용자 지정
 
 사용자 지정 학습 사이트는 SharePoint 통신 템플릿을 기반으로 하므로 조직의 필요에 맞게 사이트를 쉽게 수정할 수 있습니다. 사이트 이름, 로고, 메뉴 항목 및 페이지의 콘텐츠를 변경할 수 있습니다. 
 
 > [!TIP]
-> 직원의 의견을 수집 하 고 주기적으로 추가 사용자 지정을 완료 하세요.  재생 목록, 대상 웹 페이지를 특정 역할에 추가 하거나 새 서비스를 시작할 때 새 교육 콘텐츠를 설정 합니다. 
+> 직원의 의견을 수집 하 고 주기적으로 사이트를 업데이트 합니다. 예를 들어 새 이벤트를 사용할 수 있게 되 면 교육 이벤트 일정을 업데이트할 수 있습니다. 새 서비스를 시작할 때 새 서비스를 시작 하기 위해 디자인 된 콘텐츠의 숨김을 취소 하 고 대상 지정 된 교육 재생 목록을 작성할 수 있습니다. 
 
-## <a name="customize-web-pages"></a>웹 페이지 사용자 지정
+## <a name="customize-the-site-and-web-pages"></a>사이트 및 웹 페이지 사용자 지정
 
-사용자 지정 학습 사이트를 완전히 사용자 지정할 수 있습니다. 최신 sharepoint Online 사이트 내에서 페이지를 만드는 방법에 대해 잘 모르는 경우에는 support.office.com에서 [SharePoint 사이트 사용자 지정](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) 문서를 검토 하는 것이 좋습니다. 
+사용자 지정 학습 사이트를 완전히 사용자 지정할 수 있습니다. sharepoint 사이트 또는 웹 페이지를 사용자 지정 하는 방법에 대해 잘 모르는 경우에는 support.office.com에서 [sharepoint 사이트 사용자 지정](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) 문서를 검토 하는 것이 좋습니다. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>질문을 사용자 지정 하 고 도움말 보기
 

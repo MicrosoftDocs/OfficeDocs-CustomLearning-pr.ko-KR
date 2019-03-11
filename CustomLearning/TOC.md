@@ -1,7 +1,7 @@
 # [시작 하기](index.md)
 ## [사용자 지정 학습 설치 옵션](custom_setupoptions.md)
 ## [사용자 지정 학습 프로 비전](custom_provision.md)
-## [사용자 지정 학습 사이트 탐색](sitecontent.md)
+## [사용자 지정 학습 사이트 탐색](custom_exploresite.md)
 ## [독립 실행형 웹 파트 설정](custom_manualsetup.md)
 # [학습 환경 사용자 지정](custom_overview.md)
 ## [사용자 지정 학습 사이트로 이동 합니다.](custom_goto.md)
@@ -22,5 +22,6 @@
 # [드라이브 도입](driveadoption.md)
 # [사용자 의견 및 지원](feedback.md)
 # [질문과 대답](faq.md)
+# [파트너에 대 한 질문과 대답](custom_partner.md)
 # [사용자 지정 학습을 위한 수동 업그레이드](custom_upgrade.md)
 

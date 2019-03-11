@@ -1,15 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Overview
+title: 개요
 ms.date: 02/18/2019
 description: 관리자를 위한 Office 365의 사용자 지정 학습 개요
-ms.openlocfilehash: 98187038b66252523c74d88dd9bfd0f217591bc5
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: 6aee3a93a5109b37e43a7118bd98ca31e8b9ac1f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30087537"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523022"
 ---
 # <a name="customize-the-learning-experience"></a>학습 환경 사용자 지정
 
@@ -32,20 +32,23 @@ Office 365에 대 한 사용자 지정 학습 (사용자 지정 단기 학습)�
 
 ## <a name="requirements-and-permissions"></a>요구 사항 및 사용 권한
 
-이 가이드를 시작 하기 전에 SharePoint 테 넌 트 관리자가 사용자 지정 학습을 설정 했는지 확인 합니다. 설정 되어 있는지 확인 하지 않은 경우 SharePoint 테 넌 트 관리자에 게 문의 하 여 사용자 지정 학습을 설치 했는지 확인 합니다. 또한 사용자 지정 학습 SharePoint 사이트의 URL도 확인 해야 합니다. 테 넌 트 관리자이 고 사용자 지정 학습을 설치 하지 않은 경우에는 Office 365 용 사용자 학습 설치 가이드를 참조 하세요. 
+이 가이드를 시작 하기 전에 SharePoint 테 넌 트 관리자가 사용자 지정 학습을 설정 했는지 확인 합니다. 설정 되어 있는지 확인 하지 않은 경우 SharePoint 테 넌 트 관리자에 게 문의 하 여 사용자 지정 학습을 프로 비전 했는지 확인 합니다. 또한 사용자 지정 학습 SharePoint 사이트의 URL도 확인 해야 합니다. 테 넌 트 관리자이 고 사용자 지정 학습이 프로 비전 되지 않은 경우 [프로 비전 사용자 지정 학습](custom_provision.md)을 참조 하십시오. 
 
-### <a name="permissions-to-install-custom-learning"></a>사용자 지정 학습 설치 권한
+### <a name="permissions-to-provision-custom-learning"></a>사용자 지정 학습 프로 비전 사용 권한
 
-- Office 365 전역 관리자
-- SharePoint 관리자
+- 테 넌 트 관리자 (Office 365 전역 관리자 라고도 함)
+- 사이트에 대 한 소유자 권한이 있는 SharePoint 사이트 모음 관리자
 
 ### <a name="permissions-to-use-custom-learning-administration-features"></a>사용자 지정 학습 관리 기능 사용 권한
 
-- Office 365 sharepoint 관리자/sharepoint 사이트 소유자 권한
-- sharepoint 사이트 모음 관리자/sharepoint 사이트 소유자 권한
+- 사이트 모음 관리자
+- SharePoint 소유자 또는 구성원 권한
 
 ### <a name="permissions-to-use-the-custom-learning-site-as-a-user"></a>사용자로 사용자 지정 학습 사이트를 사용할 수 있는 권한
 
 - Office 365 사용자 권한/SharePoint 사이트 방문자 사용 권한 이상
 
+## <a name="get-started-with-customization"></a>사용자 지정 시작 하기
+사이트 및 웹 파트를 사용자 지정 하는 데 필요한 권한이 있는지 확인 한 후에는 사용자 지정 프로세스를 시작 해야 합니다. 
 
+- 시작 하려면 [사용자 지정 학습 사이트로 이동을](custom_goto.md)참조 하세요.
