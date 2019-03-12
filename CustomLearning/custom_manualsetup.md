@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 독립 실행형 웹 파트 설정
 ms.date: 02/10/2019
 description: Office 365 수동 웹 파트 설정에 대 한 사용자 지정 학습
-ms.openlocfilehash: f5d94d673f491d5b5778ef73d518914dbd4cdbb9
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523062"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543748"
 ---
 # <a name="stand-alone-web-part-setup"></a>독립 실행형 웹 파트 설정
 
@@ -22,7 +22,7 @@ ms.locfileid: "30523062"
 - CustomLearningAdmin 사이트 페이지로 이동 하 여 사용자 지정 콘텐츠 구성을 초기화 하기 위해 관리 웹 파트를 로드 합니다.
 
 > [!NOTE]
-> 사용자 지정 학습을 빠르고 쉽게 설정할 수 있는 방법은 [구축 사용자 지정 학습](installsitepackage.md)을 참조 하십시오.
+> 사용자 지정 학습을 빠르고 쉽게 설정할 수 있는 방법은 [구축 사용자 지정 학습](custom_provision.md)을 참조 하십시오.
 
 ## <a name="prerequisites"></a>필수 구성 요소
 사용자 지정 학습 웹 파트를 수동으로 설치 하기 위해서는 다음 필수 구성 요소를 충족 해야 합니다. 
@@ -44,13 +44,18 @@ Office 365에 대 한 사용자 지정 학습을 설정 하려면 테 넌 트 �
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>3 단계-최신 커뮤니케이션 사이트 프로 비전/식별
 기존 sharepoint communication site를 식별 하거나 sharepoint Online 테 넌 트에서 새 사이트를 프로 비전 합니다. 통신 사이트를 구축 하는 방법에 대 한 자세한 내용은 [SharePoint Online에서 커뮤니케이션 사이트 만들기](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) 및 단계에 따라 통신 사이트 만들기를 참조 하세요.
 
-## <a name="step-4---set-permissions-for-the-site"></a>4 단계-사이트에 대 한 사용 권한 설정
+## <a name="step-4---add-the-custom-learning-for-office-365-app-to-the-site"></a>4 단계-Office 365 앱에 대 한 사용자 지정 학습을 사이트에 추가
+
+1. SharePoint 사이트에서 시스템 메뉴를 클릭 한 다음 **앱 추가**를 클릭 합니다. 
+2. **앱**아래에서 **조직에서**를 클릭 한 다음 **Office 365에 대 한 사용자 지정 학습**을 클릭 합니다. 
+
+## <a name="step-5---set-permissions-for-the-site"></a>5 단계-사이트에 대 한 사용 권한 설정
 사이트에 대해 다음 권한이 설정 되어 있는지 확인 합니다.
 - **사이트 모음 관리자 또는 소유자 그룹의 일부** -처음 사용을 위해 사용자 지정 학습을 설정 하는 customconfig 목록 항목을 초기화 하는 데 필요한 사용 권한입니다. 
 - **구성원 그룹** -콘텐츠 숨기기 및 표시, 사용자 지정 재생 목록 관리 등 사용자 지정 학습을 관리 하는 데 필요한 permissons
 - **방문자 그룹** -사이트 콘텐츠를 보는 데 필요한 사용 권한 
 
-## <a name="step-5--execute-powershell-configuration-script"></a>5 단계-PowerShell 구성 스크립트 실행
+## <a name="step-6--execute-powershell-configuration-script"></a>6 단계-PowerShell 구성 스크립트 실행
 솔루션에서 사용 `CustomLearningConfiguration.ps1` 하는 세 개의 [테 넌 트 속성](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) 을 만들기 위해 실행 해야 하는 PowerShell 스크립트가 포함 됩니다. 또한 스크립트는 사이트 페이지 라이브러리에 두 개의 [단일 파트 앱 페이지](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) 를 만들어 관리자 및 사용자 웹 파트를 알려진 위치에 호스트 합니다.
 
 ### <a name="disabling-telemetry-collection"></a>원격 분석 컬렉션 사용 안 함
@@ -62,7 +67,7 @@ Office 365에 대 한 사용자 지정 학습을 설정 하려면 테 넌 트 �
 
 PowerShell 스크립트가 성공적으로 실행 되 면 사이트로 이동 하 여 처음 사용할 사용자 지정 학습을 설정 하는 **customconfig** 목록 항목을 초기화 하 고 사이트가 작동 하는지 확인 합니다.
 
-1. `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`으로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 사용자 지정 학습을 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
+- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`으로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 사용자 지정 학습을 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
 
 ![cg-adminapppage-.png](media/cg-adminapppage.png)
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 사용자 지정 학습 업그레이드
 ms.date: 02/10/2019
 description: Office 365 수동 웹 파트 설정에 대 한 사용자 지정 학습
-ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523073"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543778"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>사용자 지정 학습을 위한 수동 업그레이드
 
@@ -45,7 +45,12 @@ Office 365에 대 한 사용자 지정 학습을 설정 하려면 테 넌 트 �
 5. ZIP 파일을 저장 한 폴더에서 **webpart** 폴더를 선택 하 고 **customlearning** 을 선택 합니다.
 6. **배포**를 클릭합니다.
 
-## <a name="step-5--execute-powershell-configuration-script"></a>5 단계-PowerShell 구성 스크립트 실행
+## <a name="step-3---add-the-custom-learning-for-office-365-app-to-the-site"></a>3 단계-Office 365 앱에 대 한 사용자 지정 학습을 사이트에 추가
+
+1. SharePoint 사이트에서 시스템 메뉴를 클릭 한 다음 **앱 추가**를 클릭 합니다. 
+2. **앱**아래에서 **조직에서**를 클릭 한 다음 **Office 365에 대 한 사용자 지정 학습**을 클릭 합니다. 
+
+## <a name="step-4---execute-powershell-configuration-script"></a>4 단계-PowerShell 구성 스크립트 실행
 PowerShell 스크립트 `CustomLearningConfiguration.ps1` 는 GitHub에서의 ZIP 다운로드에 포함 됩니다. 솔루션에서 사용 하는 세 개의 [테 넌 트 속성](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) 을 만들려면 스크립트를 실행 해야 합니다. 또한이 스크립트는 사이트 페이지 라이브러리에 두 개의 [단일 파트 앱 페이지](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) 를 만들어 관리자 및 사용자 웹 파트를 알려진 위치에 호스트 합니다. 이러한 앱 페이지는 다음과 같습니다.
 
 - customadministration .aspx
@@ -57,18 +62,10 @@ PowerShell 스크립트 `CustomLearningConfiguration.ps1` 는 GitHub에서의 ZI
 ### <a name="disabling-telemetry-collection"></a>원격 분석 컬렉션 사용 안 함
 사용자 지정 학습에는 익명 원격 분석 추적 옵트인 (기본적으로 설정 됨)이 포함 됩니다. 원격 분석 추적을 해제 하려면 `CustomlearningConfiguration.ps1` `$optInTelemetry` 변수를로 `$false`설정 하도록 스크립트를 변경 하십시오.
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>6 단계-웹 파트 사용자 지정 구성 초기화
+## <a name="step-5---initialize-web-part-custom-configuration"></a>5 단계-웹 파트 사용자 지정 구성 초기화
 PowerShell 스크립트를 성공적으로 실행 한 후로 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`이동 합니다. **CustomLearningAdmin** 를 열면 처음 사용할 사용자 지정 학습을 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
 
 ![cg-adminapppage-.png](media/cg-adminapppage.png)
-
-## <a name="add-owners-to-site"></a>사이트에 소유자 추가
-테 넌 트 관리자는 사이트를 사용자 지정 하는 사용자가 될 가능성은 없으며, 사이트에 소수의 소유자를 할당 해야 합니다. 소유자는 사이트 페이지를 수정 하 고 사이트를 다시 브랜딩 할 수 있도록 사이트에 대 한 관리 권한을 가집니다. 또한 사용자 지정 학습 웹 파트를 통해 제공 되는 콘텐츠를 숨기 거 나 표시 하는 기능도 제공 됩니다. 또한 사용자 지정 재생 목록을 작성 하 고 사용자 지정 하위 범주에 할당할 수 있습니다.  
-
-1. SharePoint **설정** 메뉴에서 **사이트 사용 권한을**클릭 합니다.
-2. **고급 사용 권한 설정을**클릭 합니다.
-3. **Office 365 소유자에 대 한 사용자 지정 학습을**클릭 합니다.
-4. **새로 만들기** > **사용자를이 그룹에 추가**를 클릭 하 고 소유자를 부여할 사용자를 추가한 다음 **공유**를 클릭 합니다.
 
 이제 업그레이드가 완료 되었습니다. 환경에 맞게 사용자 지정 학습 사이트 및 웹 파트를 조정 하는 방법에 대 한 자세한 내용은 [교육 환경 사용자 지정](custom_overview.md)을 참조 하십시오.
 
