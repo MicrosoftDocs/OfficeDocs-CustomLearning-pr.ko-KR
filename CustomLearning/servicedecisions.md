@@ -4,16 +4,16 @@ ms.author: karuanag
 title: 필수 구성 요소 및 결정 사항
 ms.date: 02/10/2019
 description: 사용자 지정 학습 설치 및 설정에 대 한 결정 및 필수 구성 요소 정보
-ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
+ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989709"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30408840"
 ---
 ## <a name="service-decisions"></a>서비스 결정 사항
 
-필수 구성 요소를 충족 하 고 설치 하기 전에 implemenation에 대 한 다음과 같은 결정을 내려야 합니다.
+사용자 지정 학습에 대 한 필수 구성 요소가 충족 되었는지 확인 한 후에는 사용자 지정 학습의 implemenation에 대해 다음과 같은 사항을 결정 해야 합니다.
 
 1. **최신 인터페이스가 있는 회사의 교육 포털이 이미 있습니까?**
 
