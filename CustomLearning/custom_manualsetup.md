@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 독립 실행형 웹 파트 설정
 ms.date: 02/10/2019
 description: Office 365 수동 웹 파트 설정에 대 한 사용자 지정 학습
-ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543748"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577854"
 ---
 # <a name="stand-alone-web-part-setup"></a>독립 실행형 웹 파트 설정
 
@@ -58,10 +58,12 @@ Office 365에 대 한 사용자 지정 학습을 설정 하려면 테 넌 트 �
 ## <a name="step-6--execute-powershell-configuration-script"></a>6 단계-PowerShell 구성 스크립트 실행
 솔루션에서 사용 `CustomLearningConfiguration.ps1` 하는 세 개의 [테 넌 트 속성](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) 을 만들기 위해 실행 해야 하는 PowerShell 스크립트가 포함 됩니다. 또한 스크립트는 사이트 페이지 라이브러리에 두 개의 [단일 파트 앱 페이지](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) 를 만들어 관리자 및 사용자 웹 파트를 알려진 위치에 호스트 합니다.
 
-### <a name="disabling-telemetry-collection"></a>원격 분석 컬렉션 사용 안 함
-이 솔루션의 일부에는 기본적으로 설정 되어 있는 익명 원격 분석 추적 옵트인이 포함 되어 있습니다. 수동 설치를 수행 하는 경우 원격 분석 추적을 해제 하려면 `CustomlearningConfiguration.ps1` 스크립트를 변경 하 여 $optInTelemetry 변수를 $false로 설정 하십시오.
+1. SharePoint Online 관리 셸을 아직 다운로드 하지 않은 경우 지금 다운로드 하세요. [SharePoint Online 관리 셸 다운로드](https://go.microsoft.com/fwlink/p/?LinkId=255251)를 참조 하세요.
+2. 스크립트를 실행 하려면 PowerShell 실행 정책을 설정 해야 할 수 있습니다. 자세한 내용은 [실행 정책 정보](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)를 참조 하세요.
+3. 스크립트를 `CustomLearningConfiguration.ps1` 실행 합니다. 테 넌 트 관리자 자격 증명 외에도 스크립트는 테 넌 트 이름과 사이트 이름을 입력 하 라는 메시지를 표시 합니다. 사이트 URL에 대해 다음 예제를 고려할 때 `https://contoso.sharepoint.com/sites/O365CL`, `contoso` 은 테 넌 트 이름이 `O365CL` 며 사이트 이름입니다. 
 
-수동 설치를 수행 하지 않고 원격 분석 추적을 해제 하려는 경우에는 실행 시 원격 분석 추적 `TelemetryOptOut.ps1` 을 사용 하지 않도록 설정 하는 별도의 스크립트가 포함 되었습니다.
+### <a name="disabling-telemetry-collection"></a>원격 분석 컬렉션 사용 안 함
+이 솔루션의 일부에는 기본적으로 설정 되어 있는 익명 원격 분석 추적 옵트인이 포함 되어 있습니다. 수동 설치를 수행 하는 경우 원격 분석 추적을 해제 하려면 `CustomlearningConfiguration.ps1` 스크립트를 변경 하 여 $optInTelemetry 변수를 $false 하 고 스크립트를 실행 합니다.
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>프로 비전 성공 유효성 검사 및 customconfig 목록 초기화
 

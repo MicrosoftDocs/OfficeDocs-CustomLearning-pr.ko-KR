@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 사용자 지정 학습 사이트 구축
 ms.date: 02/10/2019
 description: SharePoint 프로 비전 엔진을 통해 Office 365 사이트에 대 한 사용자 지정 학습 프로 비전
-ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 868708f9f096c84d5ebc5f9bc4e21e558da84d2b
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543758"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577864"
 ---
 # <a name="provision-custom-learning"></a>사용자 지정 학습 프로 비전 
 
@@ -56,7 +56,7 @@ SharePoint Online 프로 비전 서비스를 사용 하 여 Office 365 테 넌 �
 
 프로비저닝이 완료 되 면 사이트를 프로 비전 한 테 넌 트 관리자가 PnP 프로 비전 서비스에서 전자 메일을 받습니다. 전자 메일에 사이트에 대 한 링크가 포함 되어 있습니다. 이때 테 넌 트 관리자는 전자 메일에 제공 된 링크를 사용 하 여 사이트에 방문 하 고 처음 사용할 수 있도록 사이트를 설정 해야 합니다.
 
-1. `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`으로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 사용자 지정 학습을 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
+- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`으로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 사용자 지정 학습을 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
 
 ![cg-adminapppage-.png](media/cg-adminapppage.png)
 
@@ -67,7 +67,7 @@ SharePoint Online 프로 비전 서비스를 사용 하 여 Office 365 테 넌 �
 2. **고급 사용 권한 설정을**클릭 합니다.
 3. **Office 365 소유자에 대 한 사용자 지정 학습을**클릭 합니다.
 4. **새로 만들기** > **사용자를이 그룹에 추가**를 클릭 한 다음 소유자가 하려는 사용자를 추가 합니다. 
-5. 링크를 추가 하 여 공유 메시지에서 [사이트를 탐색](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) 하 고 **공유**를 클릭 합니다.
+5. 링크를 추가 하 여 공유 메시지에서 [사이트를 탐색](custom_exploresite.md) 하 고 **공유**를 클릭 합니다.
 
 ### <a name="next-steps"></a>다음 단계
 - 사이트 및 웹 파트에서 제공 되는 [기본 콘텐츠](custom_exploresite.md) 를 살펴봅니다.
