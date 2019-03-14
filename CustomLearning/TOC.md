@@ -24,4 +24,3 @@
 # [질문과 대답](faq.md)
 # [파트너에 대 한 질문과 대답](custom_partner.md)
 # [사용자 지정 학습을 위한 수동 업그레이드](custom_upgrade.md)
-

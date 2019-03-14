@@ -7,20 +7,18 @@ description: office 365에 대 한 사용자 지정 학습을 통해 조직의 o
 ---
 
 # <a name="custom-learning-for-office-365"></a>Office 365에 대 한 사용자 지정 학습
-
-> [!NOTE]
-> 사용자 지정 학습은 현재 내부 테스트 중 이며 아직 공개적으로 사용할 수 없습니다. 
-
-## <a name="on-demand-custom-training-from-microsoft"></a>주문형, Microsoft의 사용자 지정 교육
 사용자 지정 학습 office 365 (사용자 지정 학습)은 조직에서 Office 365의 사용 현황 및 채택 현황을 향상 시키기 위해 설계 된 사용자 지정 가능한 주문형 교육 솔루션입니다. 
 
-![cg-introducing-.png](media/cg-introducing.png)
+## <a name="on-demand-custom-training-from-microsoft"></a>주문형, Microsoft의 사용자 지정 교육
 
 Office 365에 대 한 사용자 지정 학습은 다음과 같은 혜택을 제공 합니다.
+
 - 팀 작업 용 Toolkit 라고 하는 **완전히 사용자 지정 가능한 SharePoint Online 통신 사이트** -사용자 지정 학습 교육 포털을 사용자 지정 하 여 조직의 도움말, 지원 및 커뮤니티 콘텐츠를 추가할 수 있습니다.
 - **easy 프로비저닝** -간단한 몇 단계만 사용 하 여 SharePoint Online 프로 비전 서비스에서 사용자 지정 학습을 프로 비전 합니다.
 - **자체 교육 재생 목록을 만드는 기능** -사용자 지정 학습을 통해 환경의 고유한 요구 사항에 맞는 대상 교육 재생 목록을 만들 수 있습니다.
 - 최신 **콘텐츠** -사용자 지정 학습은 Microsoft online 콘텐츠 카탈로그를 통해 콘텐츠를 제공 하므로 사이트의 콘텐츠가 정기적으로 업데이트 됩니다.
+
+![cg-introducing-.png](media/cg-introducing.png)
 
 ## <a name="custom-learning-components"></a>사용자 지정 학습 구성 요소
 Office 365에 대 한 사용자 지정 학습은 다음과 같은 세 부분으로 구성 됩니다. 
