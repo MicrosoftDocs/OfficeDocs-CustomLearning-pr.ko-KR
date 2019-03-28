@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 사용자 지정 학습 업그레이드
 ms.date: 02/10/2019
 description: Office 365 수동 웹 파트 설정에 대 한 사용자 지정 학습
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543778"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936398"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>사용자 지정 학습을 위한 수동 업그레이드
 
@@ -80,7 +80,7 @@ office 365에 대 한 사용자 지정 학습은 웹 파트에 대 한 다양 �
 1.  사용자 지정 학습 사이트에서 **설정을**클릭 한 다음 ***페이지 추가를**클릭 합니다.
 2.  페이지에서 **+** 아이콘을 클릭 하 여 웹 파트를 추가한 다음 Office 365 웹 파트 **에 대 한 사용자 지정 학습** 을 선택 합니다. 페이지는 이제 다음과 같은 그래픽과 같습니다.
 
-[cg-adminapppage-.png](media/cg-adminapppage.png)
+![cg-adminapppage-.png](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>이전 웹 파트를 새 웹 파트로 바꾸기
 사용자 지정 학습 웹 파트를 교체 하거나 사이트를 변경 하기 전에 새 웹 파트를 사용 하는 방법에 대해 설명 하는 것 처럼 [학습 환경 사용자 지정](custom_overview.md) 문서를 읽는 것이 좋습니다. 
