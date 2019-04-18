@@ -4,10 +4,15 @@ ms.author: pkrebs
 title: Office 365 Open Source 솔루션에 대 한 사용자 지정 학습 개요
 ms.date: 02/10/2019
 description: office 365에 대 한 사용자 지정 학습을 통해 조직의 office 365 사용 현황 및 채택 속도를 향상 시키는 방법을 알아봅니다. 이 솔루션에는 사용자 지정 sharepoint online 웹 파트 및 Office 365 테 넌 트로 쉽게 프로 비전 되는 최신 sharepoint online communications 교육 사이트가 포함 됩니다.
+ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31922512"
 ---
-
-# <a name="custom-learning-for-office-365"></a>Office 365에 대 한 사용자 지정 학습
-사용자 지정 학습 office 365 (사용자 지정 학습)은 조직에서 Office 365의 사용 현황 및 채택 현황을 향상 시키기 위해 설계 된 사용자 지정 가능한 주문형 교육 솔루션입니다. 
+# <a name="custom-learning-for-office-365-beta-preview"></a>Office 365 베타 미리 보기에 대 한 사용자 지정 학습
+사용자 지정 학습 office 365 베타 미리 보기는 조직에서 Office 365의 사용 현황 및 채택 현황을 향상 시키기 위해 설계 된 사용자 지정 가능한 주문형 교육 솔루션입니다.  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>주문형, Microsoft의 사용자 지정 교육
 
