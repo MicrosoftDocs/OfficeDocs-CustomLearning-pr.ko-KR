@@ -5,11 +5,11 @@ title: 필수 구성 요소 및 결정 사항
 ms.date: 02/10/2019
 description: 사용자 지정 학습 설치 및 설정에 대 한 결정 및 필수 구성 요소 정보
 ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30408840"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055268"
 ---
 ## <a name="service-decisions"></a>서비스 결정 사항
 

@@ -5,11 +5,11 @@ title: SharePoint 응용 프로그램 페이지를 확인 하세요.
 ms.date: 02/15/2019
 description: 사용자 지정 학습에서 SharePoint 응용 프로그램 페이지의 기능에 대해 알아봅니다.
 ms.openlocfilehash: acf56defe57724267028bbb130071a070f82682d
-ms.sourcegitcommit: 3eca3a7083ea165b860237da34d1567154158681
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30412302"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055586"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>SharePoint 응용 프로그램 페이지를 확인 하세요.
 

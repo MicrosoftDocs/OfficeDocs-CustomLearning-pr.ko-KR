@@ -5,11 +5,11 @@ title: 새 하위 범주 만들기
 ms.date: 02/17/2019
 description: 사용자 지정 학습을 사용 하 여 새 하위 범주 만들기
 ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103743"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055456"
 ---
 # <a name="create-a-subcategory"></a>하위 범주 만들기 
 경우에 따라 새 하위 범주를 만들 수도 있습니다. 예를 들어 조직에서 첫 번째 요일 하위 범주가 작동 하지 않는 경우 새 하위 범주를 만든 다음 조직의 필요에 맞게 재생 목록을 추가할 수 있습니다. 
