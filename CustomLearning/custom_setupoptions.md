@@ -5,11 +5,11 @@ title: 사용자 지정 학습 설치 옵션
 ms.date: 02/11/2019
 description: 사용자 지정 학습 설정에 대 한 설치 옵션
 ms.openlocfilehash: d2bb1d98d7eceb63e0cf2bdbf9eead1289641a20
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523012"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056041"
 ---
 # <a name="custom-learning-setup-options"></a>사용자 지정 학습 설치 옵션
 Office 365에 대 한 사용자 지정 학습은 솔루션을 몇 가지 다른 방식으로 설정할 수 있는 유연성을 제공 합니다. 다음 섹션에서는 사용할 수 있는 옵션에 대해 간략하게 설명 합니다.

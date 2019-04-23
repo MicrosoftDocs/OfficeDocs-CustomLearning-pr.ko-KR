@@ -5,11 +5,11 @@ title: 재생 목록에 에셋 추가
 ms.date: 02/17/2019
 description: 사용자 지정 학습 목록에 새 자산 및 기존 에셋 추가
 ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103513"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055987"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>사용자 지정 재생 목록에 에셋 추가
 
@@ -44,7 +44,7 @@ ms.locfileid: "30103513"
 
 ![cg-addassetcreatenewpageedit-.png](media/cg-addassetcreatenewpageedit.png)
 
-7. **게시**를 클릭 합니다.
+7. **게시**를 클릭합니다.
 8. **사용자 지정 학습 관리** 페이지로 돌아갑니다. 
 9. 자산에 대 한 속성의 나머지 부분을 채운 다음 **자산 저장을 클릭 합니다.**
 
@@ -67,7 +67,7 @@ ms.locfileid: "30103513"
 
 기존 자산은 조직의 사용자 지정 학습에 이미 추가 된 Microsoft 제공 사용자 지정 학습 자산 또는 자산으로 구성 됩니다. 
 
-- 검색 상자 **** 에 검색 구를 입력 한 다음 검색 결과에서 자산을 선택 합니다. 다음은 "What is Excel?"을 입력 하 여 재생 목록에 Excel 소개 항목을 추가 하는 예제입니다.
+- 검색 상자 **** 에 검색 구를 입력 한 다음 검색 결과에서 자산을 선택 합니다. 이 예제에서 "Excel 이란?"를 입력 합니다. Excel 소개 항목을 재생 목록에 추가 합니다.
 
 ![cg-existplaylistassetsearch-.png](media/cg-existplaylistassetsearch.png)
 

@@ -5,11 +5,11 @@ title: 사용자 지정 학습 웹 파트 추가 및 편집
 ms.date: 02/17/2019
 description: SharePoint 페이지에 사용자 지정 학습 웹 파트 추가
 ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103853"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055712"
 ---
 # <a name="add-and-edit-the-custom-learning-web-part"></a>사용자 지정 학습 웹 파트 추가 및 편집
 
@@ -41,4 +41,4 @@ ms.locfileid: "30103853"
 ## <a name="add-a-title-and-publish-the-page"></a>제목 추가 및 페이지 게시
 1. 페이지의 제목 영역에 "자신만의 환경 만들기"를 입력 합니다.
 2. 제목 영역에서 **웹 파트 편집** 아이콘을 클릭 하 고 **레이아웃**에서 **일반** 을 선택한 다음 **속성** 창을 닫습니다.
-3. **게시**를 클릭 합니다.
+3. **게시**를 클릭합니다.

@@ -5,11 +5,11 @@ title: 파트너에 대 한 질문과 대답
 ms.date: 3/9/2019
 description: Office 365에 대 한 사용자 지정 학습에서 엔터프라이즈 교육 서비스를 제공 하는 회사의 파트너 제품과 비교 하는 방법은 무엇 인가요?
 ms.openlocfilehash: 5c1cdaabd3f506417607a80d7c058e61551fc332
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523605"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056354"
 ---
 # <a name="partner-frequently-asked-questions"></a>파트너에 대 한 질문과 대답
 

@@ -5,17 +5,17 @@ title: Office 365 사이트에 대 한 사용자 지정 학습으로 이동 합�
 ms.date: 02/18/2019
 description: 사용자 지정 학습 사이트로 이동 합니다.
 ms.openlocfilehash: 3964d77ea207000b2fab0320e5bf2237f6e49e2a
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103763"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056184"
 ---
 # <a name="go-to-the-custom-learning-site"></a>사용자 지정 학습 사이트로 이동 합니다.
 
 office 365 테 넌 트에 대 한 사용자 지정 학습 office 365 사이트는 해당 사이트에 액세스 하려면 office 365에 로그인 해야 합니다. 아직 Office 365에 로그인 하지 않은 경우 지금 로그인 하세요. 
 
-## <a name="sign-in-to-office-365"></a>Office 365에 로그인 
+## <a name="sign-in-to-office-365"></a>Office 365에 로그인 합니다. 
 
 1.  웹 브라우저를 열고 office.com 또는 조직의 로그인 위치로 이동 합니다. 
 2.  사용자 이름 및 암호를 사용 하 여 로그인 합니다.

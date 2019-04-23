@@ -5,11 +5,11 @@ title: 기술 숨기기 및 표시
 ms.date: 02/15/2019
 description: 기술을 숨기 거 나 표시 하는 방법
 ms.openlocfilehash: 38b814b85d4e060e5387b2173476c455cfcf7160
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30104043"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055674"
 ---
 # <a name="hide-and-show-technology"></a>기술 숨기기 및 표시
 

@@ -8,8 +8,8 @@ ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
 ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31922512"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056222"
 ---
 # <a name="custom-learning-for-office-365-beta-preview"></a>Office 365 베타 미리 보기에 대 한 사용자 지정 학습
 사용자 지정 학습 office 365 베타 미리 보기는 조직에서 Office 365의 사용 현황 및 채택 현황을 향상 시키기 위해 설계 된 사용자 지정 가능한 주문형 교육 솔루션입니다.  

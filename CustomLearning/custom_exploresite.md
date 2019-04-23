@@ -5,11 +5,11 @@ title: 사이트 및 기본 콘텐츠 탐색
 ms.date: 02/10/2019
 description: 사용자 지정 학습 사이트 및 기본 콘텐츠 탐색
 ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523042"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056454"
 ---
 # <a name="explore-the-custom-learning-site"></a>사용자 지정 학습 사이트 탐색
 

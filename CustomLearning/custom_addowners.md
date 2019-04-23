@@ -5,11 +5,11 @@ title: Office 365 사이트에 대 한 사용자 지정 학습으로 이동 합�
 ms.date: 02/18/2019
 description: 사용자 지정 학습 사이트로 이동 합니다.
 ms.openlocfilehash: 220d27d6f12f4edb26e0d46ac76cbcea12270e74
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411868"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055807"
 ---
 # <a name="add-owners-custom-learning-site"></a>소유자 사용자 지정 학습 사이트 추가
 

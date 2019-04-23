@@ -5,11 +5,11 @@ title: 새 재생 목록 만들기
 ms.date: 02/18/2019
 description: 새 재생 목록을 만드는 방법
 ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103413"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055853"
 ---
 # <a name="create-a-custom-playlist"></a>사용자 지정 재생 목록 만들기
 

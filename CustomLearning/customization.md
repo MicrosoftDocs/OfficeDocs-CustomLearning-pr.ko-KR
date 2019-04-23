@@ -5,11 +5,11 @@ title: 교육 환경 사용자 지정
 ms.date: 02/10/2019
 description: Office 365에 대 한 사용자 지정 학습을 통해 사용할 수 있는 다양 한 사용자 지정 사항에 대해 알아봅니다.
 ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30059689"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056316"
 ---
 # <a name="customize-the-training-experience"></a>교육 환경 사용자 지정
 
@@ -40,7 +40,8 @@ ms.locfileid: "30059689"
 
 1.  custom_admin 웹 사이트 ![내의 사용자 지정 학습 관리 페이지로 이동 합니다.](media/custom_admin.png)
 1. 솔루션에 포함 된 서비스의 전체 목록을 보려면 **기술** 선택
-1. 기술을 선택 하 고 **눈 기호를 클릭** 하 여이 콘텐츠를 숨깁니다.  눈동자 기호를 다시 클릭 하 여 환경 내의 콘텐츠를 표시 합니다. ![사용자 지정](media/custom_techlist.png)
+1. 기술을 선택 하 고 **눈 기호를 클릭** 하 여이 콘텐츠를 숨깁니다.  눈동자 기호를 다시 클릭 하 여 환경 내의 콘텐츠를 표시 합니다. 
+![사용자](media/custom_techlist.png)
 
 환경 내의 재생 목록 범주에 대해서도 동일한 프로세스를 반복할 수 있습니다.  재생 목록을 표시 하거나 숨기려면 범주 옵션을 선택 하면 됩니다. 
 

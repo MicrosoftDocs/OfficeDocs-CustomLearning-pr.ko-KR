@@ -5,11 +5,11 @@ title: 재생 목록 사용자 지정 및 공유
 ms.date: 02/10/2019
 description: 기존 콘텐츠 또는 새 SharePoint 페이지에서 사용자 지정 재생 목록 만들기
 ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989729"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056428"
 ---
 # <a name="customize-and-share-playlists"></a>재생 목록 사용자 지정 및 공유
 
@@ -41,12 +41,14 @@ sharepoint 페이지를 추가할 때의 이점은 조직에서 호스트 되는
 
 #### <a name="step-2-create-the-playlist"></a>2 단계: 재생 목록 만들기
 
-1. 사이트 환경에서 **사용자 지정 학습 관리** 페이지로 이동 합니다. ![custom_admin-.png](media/custom_admin.png)
+1. 사이트 환경에서 **사용자 지정 학습 관리** 페이지로 이동 합니다.
+![custom_admin-.png](media/custom_admin.png)
 1. **범주가** 선택 되어 있는지 확인 
 1. 새 재생 목록을 표시할 범주를 클릭 합니다.
 1. 범주 이름 옆에 있는 더하기 기호 ![(custom_addplay)를 클릭 합니다.](media/custom_addplay.png)
 
-1. 아래 예제와 같이 값을 입력 하 고 **만들기**를 선택 합니다. ![custom_details-.png](media/custom_details.png)
+1. 아래 예제와 같이 값을 입력 하 고 **만들기**를 선택 합니다. 
+![custom_details-.png](media/custom_details.png)
 - **제목** -재생 목록의 표시 이름입니다.
 - **Description** -배우게 되는 사항에 대 한 정보입니다.
 - **범주** -초기 선택을 기준으로 미리 선택 됩니다.
@@ -65,7 +67,8 @@ sharepoint 페이지를 추가할 때의 이점은 조직에서 호스트 되는
 이 단계에서는 Microsoft 및 만든 SharePoint 페이지의 기존 자산을 재생 목록에 추가 합니다. 
 
 1. 재생 목록에 대 한 세부 정보를 저장 한 후에는 기존 자산 검색을 사용할 수 있습니다.
-1. **검색 용어를 입력** 하 여 다른 재생 목록에서 사용할 수 있는 미리 정의 된 자산의 목록을 확인 합니다. 자산 **이름을 클릭** 하 여 새 재생 목록에 포함 합니다. ![custom_slist-.png](media/custom_slist.png)
+1. **검색 용어를 입력** 하 여 다른 재생 목록에서 사용할 수 있는 미리 정의 된 자산의 목록을 확인 합니다. 자산 **이름을 클릭** 하 여 새 재생 목록에 포함 합니다.
+![custom_slist-.png](media/custom_slist.png)
 
 이전에 만든 SharePoint 페이지를 추가 하거나 환경에서 처음부터 새로 만들 수도 있습니다.
 
