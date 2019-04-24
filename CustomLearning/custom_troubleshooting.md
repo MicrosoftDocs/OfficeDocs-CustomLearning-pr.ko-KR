@@ -5,11 +5,11 @@ title: 사용자 지정 학습 문제 해결
 ms.date: 02/10/2019
 description: 사용자 지정 학습 문제를 해결 하는 방법 알아보기
 ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 64721b7763d988d3b669eeab26fdb8b677ddc486
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/17/2019
-ms.locfileid: "30658225"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055102"
 ---
 # <a name="troubleshoot-custom-learning"></a>사용자 지정 학습 문제 해결
 
