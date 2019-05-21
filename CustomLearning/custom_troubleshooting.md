@@ -1,19 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 사용자 지정 학습 문제 해결
+title: Microsoft 365 학습 경로 문제 해결
 ms.date: 02/10/2019
-description: 사용자 지정 학습 문제를 해결 하는 방법 알아보기
-ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Microsoft 365 학습 경로 문제를 해결 하는 방법 알아보기
+ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055102"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247683"
 ---
-# <a name="troubleshoot-custom-learning"></a>사용자 지정 학습 문제 해결
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 문제 해결
 
-다음은 Office 365 또는 SharePoint Online 프로 비전 서비스에 대 한 사용자 지정 학습에서 발생할 수 있는 문제에 대 한 문제 해결 팁입니다.
+Microsoft 365 학습 경로 또는 SharePoint Online 프로 비전 서비스에서 발생할 수 있는 문제에 대 한 문제 해결 팁은 다음과 같습니다.
 
 ## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>테 넌 트 관리 권한이 있는지 확인 하는 방법
 
@@ -41,7 +41,7 @@ SharePoint Online 프로 비전 서비스에 로그인 하 고 사용자 지정 
 3. **앱**에는 **SharePoint 용 앱 배포**라는 타일이 표시 됩니다. 타일이 표시 되 면 테 넌 트 앱 카탈로그가 있습니다. 아래에서 **사이트 Colllection를 확인 하는 방법을** 참조 하십시오. 타일이 표시 되지 않는 경우 테 넌 트에 대 한 테 넌 트 앱 카탈로그를 만들어야 합니다. 아래에서 **테 넌 트 앱 카탈로그를 만드는 방법** 섹션을 참조 하세요.
 
 ### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>사용자가 테 넌 트 앱 카탈로그의 사이트 모음 소유자 인지 확인 하는 방법 
-Office 365에 대 한 사용자 지정 학습을 프로 비전 하려면 테 넌 트 앱 카탈로그의 사이트 모음 소유자 여야 합니다. 소유자 인 경우에는 다음과 같은 방법으로 determin.
+Microsoft 365 학습 경로를 프로 비전 하려면 테 넌 트 앱 카탈로그의 사이트 모음 소유자 여야 합니다. 소유자 인지 확인 하는 방법은 다음과 같습니다.
 
 1. Office 365에서 **관리**, 확장 화살표 >를 차례로 클릭 하 고 **모든** > **관리 센터** > **SharePoint**표시를 클릭 합니다.
 2. **클래식 관리 SharePoint 센터**를 클릭 하 고 **앱 카탈로그**를 선택 합니다.

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 새 재생 목록 만들기
 ms.date: 02/18/2019
 description: 새 재생 목록을 만드는 방법
-ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055853"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247593"
 ---
 # <a name="create-a-custom-playlist"></a>사용자 지정 재생 목록 만들기
 
@@ -17,7 +17,7 @@ ms.locfileid: "32055853"
 
 ## <a name="create-a-playlist"></a>재생 목록 만들기 
 
-1. 사용자 지정 학습 **홈** 페이지에서 **Office 365 학습**을 클릭 하 고 웹 파트에서 시스템 메뉴를 선택한 다음 **재생 목록 관리**를 선택 합니다. 
+1. Microsoft 365 학습 경로 **홈** 페이지에서 **Office 365 학습**을 클릭 하 고 웹 파트에서 시스템 메뉴를 선택한 다음 **재생 목록 관리**를 선택 합니다. 
 2. 하위 범주를 선택 합니다. 이 예에서는 **First Days**를 선택 합니다.  
 3. + 아이콘을 클릭 합니다.  
 
