@@ -4,15 +4,19 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로 설정 옵션
 ms.date: 02/11/2019
 description: 사용자 지정 학습 설정에 대 한 설치 옵션
-ms.openlocfilehash: bef8e513d9126defc4b4f73acc6e07fc060044aa
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
+ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247693"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34334705"
 ---
 # <a name="learning-pathways-setup-options"></a>학습 경로 설정 옵션
 학습용 경로를 통해 솔루션을 몇 가지 다른 방식으로 설정할 수 있습니다. 다음 섹션에서는 사용할 수 있는 옵션에 대해 간략하게 설명 합니다.
+
+> [!IMPORTANT]
+> 5/21/2019에서 Microsoft 365 학습 경로는 이전에 Office 용 사용자 지정 학습 365 이라는 솔루션의 새 이름입니다. 조직에서 Office 365에 대 한 사용자 지정 학습을 이미 구축 했으며 솔루션을 업데이트 하려는 경우 [Microsoft 365 학습 경로 추가 정보의](https://github.com/pnp/custom-learning-office-365)"솔루션 업데이트" 지침을 따르세요. Microsoft 365 학습 경로를 처음으로 프로 비전 하는 경우 Microsoft 365 학습 경로 설명서에서 [microsoft 365 learning 경로 지침 프로 비전]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) 을 참조 하십시오.  
+
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>권장-SharePoint Online 프로 비전 서비스 설치 
 SharePoint Online 프로 비전 서비스는 사용자 지정 학습을 설정 하는 데 가장 빠르고 편리 하며 권장 되는 방법을 제공 합니다. SharePoint Online 프로 비전 서비스를 사용 하 여 Office 365 테 넌 트 관리자가 서비스에 로그인 하 고, 몇 가지 옵션을 선택한 다음, **테 넌 트에 추가** 를 클릭 하 여 사용자 지정 학습 사이트 및 사용자 지정 학습 웹 파트를 구축 합니다. 프로비저닝이 완료 되 면 테 넌 트 관리자에 게 사이트를 보낼 수 있는 전자 메일을 수신 합니다. 
