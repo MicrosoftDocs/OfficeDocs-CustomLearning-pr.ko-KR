@@ -24,5 +24,5 @@
 # [사용자 의견 및 지원](feedback.md)
 # [질문과 대답](faq.md)
 # [파트너에 대 한 질문과 대답](custom_partner.md)
-# [Microsoft 365 학습 경로 업데이트](custom_upgrade.md)
+# [Microsoft 365 학습 경로 업데이트](custom_update.md)
 # [Microsoft 365 학습 경로 문제 해결](custom_troubleshooting.md)
