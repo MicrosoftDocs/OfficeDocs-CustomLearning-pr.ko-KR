@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Microsoft 365 학습 경로에 대 한 질문과 대답
 ms.date: 02/10/2019
 description: Microsoft 365 학습 경로에 대 한 질문과 대답 정보
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334722"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636112"
 ---
 # <a name="frequently-asked-questions"></a>질문과 대답
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>최근에 Office 365에 대 한 사용자 지정 학습을 Microsoft 365 학습 경로 라고 하는 블로그 게시물을 보았습니다. 이름 바꾸기 작업의 일부로 솔루션에 추가 되는 다른 변경 내용이 있습니까? 조직에서 솔루션을 업데이트 해야 하나요?
+
+Microsoft 365 learning 경로 릴리스는 Microsoft 365 브랜딩에 맞게 솔루션 이름을 변경 하는 데 사용 되는 다시 브랜딩 작업입니다. 현재 조직에서 실행 중인 Office 365에 대 한 사용자 지정 학습을 가진 경우에는 지금은 솔루션을 업데이트할 필요가 없습니다.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>내 테 넌 트 환경에 Microsoft 365 학습 경로를 설치 하기 위한 요구 사항은 무엇 인가요?
 
@@ -34,7 +38,7 @@ Microsoft 365 학습 경로는 현재 베타 미리 보기 상태입니다. Micr
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 학습 경로는 어떤 언어로 제공 됩니까?
 
-Microsoft 365 학습 경로는 현재 영어로만 제공 됩니다. 자동 종단 간 프로비저닝을 영어 테 넌 트와 함께 작동 합니다. CY19 Q3에서는 다음과 같은 9 가지 언어에 대 한 다국어 지원을 배포 하는 방법을 계획 하 고 있습니다. 
+Microsoft 365 학습 경로는 현재 영어로만 제공 됩니다. 자동 종단 간 프로비저닝을 영어 테 넌 트와 함께 작동 합니다. CY19 Q4에서 이러한 9 가지 언어에 대 한 다국어 지원을 배포 하는 방법을 계획 하 고 있습니다. 
 
 - 중국어(간체) 
 - 네덜란드어(네덜란드) 
