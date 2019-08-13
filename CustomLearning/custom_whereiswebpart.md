@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 학습 웹 파트
 ms.date: 02/15/2019
 description: 학습용 경로 사이트에서 학습 경로 웹 파트가 표시 되는 위치에 대해 알아봅니다.
-ms.openlocfilehash: 27793606ee425f8ca77a66898bb0c23aee5e3f2b
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
+ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247619"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34327296"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 학습 경로 웹 파트는 어디에 있나요?
 
@@ -44,11 +44,11 @@ ms.locfileid: "34247619"
 
 ![cg-whereiswp-six-.png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-office-365-training"></a>모든 Office 365 교육 보기
+## <a name="view-all-microsoft-365-training"></a>모든 Microsoft 365 교육 보기
 
-**Office 365 교육** 페이지의 웹 파트는 학습 경로 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 됩니다. 여기에는 조직에 대해 만든 하위 범주와 함께 Microsoft의 하위 범주가 포함 됩니다.
+**Microsoft 365 교육** 페이지의 웹 파트는 학습 경로 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 됩니다. 여기에는 조직에 대해 만든 하위 범주와 함께 Microsoft의 하위 범주가 포함 됩니다.
 
-- 학습 경로 홈 페이지에서 **Office 365 교육**을 클릭 합니다. 사용자 지정 학습 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 된 웹 파트가 포함 된 페이지가 나타납니다.
+- 학습 경로 홈 페이지에서 **Microsoft 365 교육**을 클릭 합니다. 사용자 지정 학습 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 된 웹 파트가 포함 된 페이지가 나타납니다.
 
 ![cg-whereiswp-o365-.png](media/cg-whereiswp-o365.png)
 
