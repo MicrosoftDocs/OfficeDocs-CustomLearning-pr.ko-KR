@@ -1,28 +1,28 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 사용자 지정 학습 웹 파트 추가 및 편집
+title: Microsoft 365 learning 경로 웹 파트 추가 및 편집
 ms.date: 02/17/2019
-description: SharePoint 페이지에 사용자 지정 학습 웹 파트 추가
-ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: SharePoint 페이지에 Microsoft 365 학습 경로 웹 파트 추가
+ms.openlocfilehash: 1b3f4c15410ed9d528aad35198f02426a2de6fa2
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055712"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34248114"
 ---
-# <a name="add-and-edit-the-custom-learning-web-part"></a>사용자 지정 학습 웹 파트 추가 및 편집
+# <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 learning 경로 웹 파트 추가 및 편집
 
-사용자 지정 학습은 사용자 지정 학습 웹 파트를 SharePoint 페이지에 추가한 다음 웹 파트의 콘텐츠를 필터링 하 여 페이지의 학습 목표를 충족할 수 있는 유연성을 제공 합니다. 예를 들어 "OneDrive로 전환" 페이지를 만든 다음 웹 파트를 추가 하 고이를 구성 하 여 조직에서 특별히 만든 사용자 지정 OneDrive 마이그레이션 재생 목록을 표시 하도록 할 수 있습니다.
+Microsoft 365 학습 경로를 사용 하면 Microsoft 365 학습 경로 웹 파트를 SharePoint 페이지에 추가한 다음 웹 파트의 콘텐츠를 필터링 하 여 페이지의 학습 목표를 충족할 수 있습니다. 예를 들어 "OneDrive로 전환" 페이지를 만든 다음 웹 파트를 추가 하 고이를 구성 하 여 조직에서 특별히 만든 사용자 지정 OneDrive 마이그레이션 재생 목록을 표시 하도록 할 수 있습니다.
 
 1.  SharePoint 기어 아이콘을 클릭 한 다음 **페이지 추가**를 클릭 합니다.
 2.  페이지 왼쪽에서 **새 섹션 (+) 추가** 를 클릭 한 다음 **한 열**을 클릭 합니다.
-3.  을 **+** 클릭 한 다음 **Office 365 웹 파트에 대 한 사용자 지정 학습** 을 선택 합니다. 
+3.  을 **+** 클릭 한 다음 **Microsoft 365 학습용 경로** 웹 파트를 선택 합니다. 
 
 ![cg-webpartadd-.png](media/cg-webpartadd.png)
 
 ## <a name="edit-the-custom-learning-web-part"></a>사용자 지정 학습 웹 파트 편집
-사용자 지정 학습 웹 파트를 편집 하 여 사용 가능한 모든 사용자 지정 학습 콘텐츠 또는 특정 범주, 하위 범주, 재생 목록 또는 자산을 표시할 수 있습니다. 
+Microsoft 365 학습 경로 웹 파트를 편집 하 여 사용 가능한 모든 사용자 지정 학습 콘텐츠 또는 특정 범주, 하위 범주, 재생 목록 또는 자산을 표시할 수 있습니다. 
 
 1.  **웹 파트 편집**을 클릭 합니다.
 

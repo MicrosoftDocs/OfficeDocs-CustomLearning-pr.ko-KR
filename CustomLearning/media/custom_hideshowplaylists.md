@@ -5,10 +5,10 @@ title: 재생 목록 숨기기 및 표시
 ms.date: 02/15/2019
 description: 재생 목록 숨기기 및 표시
 ms.openlocfilehash: 88b042ce8f1f64d2df4ee7956113c722b971f0cb
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2019
+ms.lasthandoff: 10/21/2019
 ms.locfileid: "34272719"
 ---
 # <a name="hide-and-show-playlists"></a>재생 목록 숨기기 및 표시

@@ -3,18 +3,18 @@ author: pkrebs
 ms.author: pkrebs
 title: 새 하위 범주 만들기
 ms.date: 02/17/2019
-description: 사용자 지정 학습을 사용 하 여 새 하위 범주 만들기
-ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: 학습 경로를 사용 하 여 새 하위 범주를 만듭니다.
+ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055456"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327259"
 ---
 # <a name="create-a-subcategory"></a>하위 범주 만들기 
 경우에 따라 새 하위 범주를 만들 수도 있습니다. 예를 들어 조직에서 첫 번째 요일 하위 범주가 작동 하지 않는 경우 새 하위 범주를 만든 다음 조직의 필요에 맞게 재생 목록을 추가할 수 있습니다. 
 
-1. 사용자 지정 학습 **홈** 페이지에서 **Office 365 학습**을 클릭 하 고 웹 파트에서 **시스템** 메뉴를 클릭 한 다음 **재생 목록 관리**를 클릭 합니다. 
+1. Microsoft 365 학습 경로 **홈** 페이지에서 **microsoft 365 훈련**을 클릭 하 고 웹 파트에서 **시스템** 메뉴를 클릭 한 다음 **재생 목록 관리**를 클릭 합니다. 
 2. **범주**를 선택 합니다. 이 예에서는 **시작**을 선택 합니다.  
 3. 페이지 아래로 스크롤한 후 
 3. **새 하위 범주 추가 +** 아이콘을 클릭 합니다.  
