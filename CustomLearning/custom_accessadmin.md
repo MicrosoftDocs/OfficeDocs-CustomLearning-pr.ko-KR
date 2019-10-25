@@ -1,15 +1,15 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 사용자 지정 학습 관리 페이지 액세스
+title: 관리 페이지 액세스
 ms.date: 02/15/2019
 description: 웹 파트 또는 메뉴에서 사용자 지정 학습 관리 페이지에 액세스 하는 방법
-ms.openlocfilehash: e08d8dfc6690d9c5d26cd03efd780bbd27d72cd6
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: f948f9c14f43f4cbb6569277a4ff27427abcbc6d
+ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327229"
+ms.lasthandoff: 10/25/2019
+ms.locfileid: "37726712"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>사용자 지정 학습 관리 페이지 액세스
 
