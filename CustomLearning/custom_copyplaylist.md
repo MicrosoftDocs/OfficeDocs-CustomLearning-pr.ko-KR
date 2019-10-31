@@ -1,42 +1,40 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 새 재생 목록 만들기
+title: 재생 목록 복사
 ms.date: 02/18/2019
-description: 새 재생 목록을 만드는 방법
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+description: 재생 목록을 복사 하는 방법
+ms.openlocfilehash: b8df82928f3162704f1a86675d28b810119e3980
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726818"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886871"
 ---
-# <a name="create-a-custom-playlist"></a>사용자 지정 재생 목록 만들기
+# <a name="copy-a-playlist"></a>재생 목록 복사
+조직에서는 조직을 통해 만든 자산을 제거 하거나 교체 하 여 Microsoft에서 제공 하는 재생 목록을 수정 해야 하는 경우가 많습니다. 예를 들어 처음에 여섯 가지 간단한 단계 재생 목록에서 단계를 제거할 수 있습니다. 이제 학습 경로 복사 재생 목록 기능을 사용 하 여 6 개의 간단한 단계 재생 목록을 쉽게 복사 하 고 단순히 자산을 제거 하거나 새 자산을 추가할 수 있습니다. 
 
-재생 목록을 만들 때 먼저 재생 목록 세부 정보를 사용 하 여 재생 목록을 만든 다음 재생 목록에 자산을 추가 합니다. 하위 범주에 재생 목록을 추가할 수 있습니다. 예를 들어 **첫 번째 요일** 하위 범주 또는 **Excel**과 같은 **제품** 하위 범주에 재생 목록을 추가할 수 있습니다. 이 섹션에서는 재생 목록을 만든 다음 다음 섹션의 재생 목록에 자산을 추가 하 여 [사용자 지정 재생 목록에 자산을 추가](custom_addassets.md)하는 방법에 대해 설명 합니다.
+## <a name="to-copy-a-playlist"></a>재생 목록을 복사 하려면
 
-## <a name="create-a-playlist"></a>재생 목록 만들기 
-
-1. Microsoft 365 학습 경로 **홈** 페이지에서 **Office 365 학습**을 클릭 하 고 웹 파트에서 시스템 메뉴를 선택한 다음 **재생 목록 관리**를 선택 합니다. 
-2. 하위 범주를 선택 합니다. 이 예에서는 **First Days**를 선택 합니다.  
-3. + 아이콘을 클릭 합니다.  
-
-![cg-newplaylistbtn-.png](media/cg-newplaylistbtn.png)
-
+1. Microsoft 365 학습 경로 **홈** 페이지에서 **Office 365 학습**을 클릭 합니다.
+2. **관리** 아이콘을 클릭 합니다.
+3. **1 일**에는 **6 가지 간단한 단계-Office 365 시작** 목록을 클릭 한 다음 **재생 목록 복사**를 클릭 합니다. 
+4. **세부 정보 편집**을 클릭 하 고 다음 예제와 같이 **제목** 및 **설명** 필드에 입력 한 다음 **세부 정보 저장**을 클릭 합니다.  
+ 
 4.  다음 예에 표시 된 대로 재생 목록의 필드를 채웁니다. 이 예제의 기본 아이콘은 사용할 수 있습니다. 
 
-![cg-newplaylistdetails-.png](media/cg-newplaylistdetails.png)
 
-5.  작업을 마치면 **세부 정보 저장**을 선택 합니다. 
+## <a name="add-or-remove-assets-from-a-playlist"></a>재생 목록에서 에셋 추가 또는 제거
+사용자 지정 재생 목록을 사용 하 여 다음을 수행할 수 있습니다.
 
-## <a name="edit-a-playlist"></a>재생 목록 편집
+- microsoft 자산을 추가 및 제거 하 되 Microsoft에서 자산을 편집 하지는 않음
+- 사용자가 만든 조직 또는 SharePoint 자산에서 기존 SharePoint 자산을 추가, 제거 및 편집 합니다. 
 
-- **사용자 지정 학습 관리** 페이지에서 재생 목록을 클릭 한 다음 **세부 정보 편집**을 클릭 합니다.  
+1. **관리** 페이지 아래로 스크롤한 다음 **재생 목록 자산** 에서 5 단계에 대 한 삭제 아이콘을 클릭 **합니다. 모바일 앱을 설정**합니다. 
 
-![cg-editplaylist-.png](media/cg-editplaylist.png)
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a>재생 목록에서 자산이 제거 되었는지 확인
+1. **Microsoft 365 교육** 페이지를 사용 하 여 탭으로 돌아갑니다.
+2. **처음 일**을 클릭 하 고 **간단한 5 단계-Office 365 재생 목록 시작을** 클릭 합니다. 
+3. 재생 목록을 통해 자산이 제거 되었는지 확인 합니다.
 
-### <a name="delete-a-playlist"></a>재생 목록 삭제
 
-- 사용자 지정 학습 관리 페이지에서 재생 목록에 대 한 **삭제** 아이콘을 클릭 합니다.  
-
-![cg-deleteplaylist-.png](media/cg-deleteplaylist.png)

@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: 학습용 경로 도입 구동
+description: 학습용 경로 도입 구동
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726702"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886981"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>학습용 경로 포털의 드라이브 채택
 Microsoft 365 학습 경로를 사용자 지정 하 고 초기 학습 캠페인을 함께 사용할 경우 사용자가 진행 중인 학습 및 변환을 위해 Microsoft 365 학습 경로를 반환 하는 방법에 대해 고려해 야 합니다. Microsoft에서 제공 하는 지침, 채택 키트 및 모범 사례를 사용 하 여 성공적인 Microsoft 365 학습 경로 채택 캠페인을 실행할 수 있으며, 지침, 모범 사례 및 채택 키트를 제공 합니다. 
@@ -71,7 +71,6 @@ Microsoft 365 학습 경로 환경의 시작이 다른 서비스 배포 또는 �
 2.  최종 사용자의 대표 그룹을 사용 하 여 사용자 지정 된 Microsoft 365 학습 경로를 파일럿 하 고 채택 계획을 건조 시킵니다. 파일럿의 피드백에 따라 최종 채택 계획을 반복 합니다.
 3.  일정 한 시간에 걸쳐 채택 캠페인을 실행 합니다. 
 4.  추진 채택 커뮤니티에 참가 합니다. Microsoft 365 학습 경로와 함께이 추진 커뮤니티 온라인에서 경험을 공유 합니다. 에서 문의처를 https://aka.ms/DriveAdoption확인 하세요. 
-
 
 ## <a name="join-the-driving-adoption-community"></a>추진 채택 커뮤니티 참여
 

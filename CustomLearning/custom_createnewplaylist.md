@@ -4,21 +4,21 @@ ms.author: pkrebs
 title: 새 재생 목록 만들기
 ms.date: 02/18/2019
 description: 새 재생 목록을 만드는 방법
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247593"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886821"
 ---
 # <a name="create-a-custom-playlist"></a>사용자 지정 재생 목록 만들기
 
-재생 목록을 만들 때 먼저 재생 목록 세부 정보를 사용 하 여 재생 목록을 만든 다음 재생 목록에 자산을 추가 합니다. 하위 범주에 재생 목록을 추가할 수 있습니다. 예를 들어 **첫 번째 요일** 하위 범주 또는 **Excel**과 같은 **제품** 하위 범주에 재생 목록을 추가할 수 있습니다. 이 섹션에서는 재생 목록을 만든 다음 다음 섹션의 재생 목록에 자산을 추가 하 여 [사용자 지정 재생 목록에 자산을 추가](custom_addassets.md)하는 방법에 대해 설명 합니다.
+Microsoft 365 학습 경로를 사용 하 여 조직의 고유한 요구 사항에 맞는 사용자 지정 재생 목록을 처음부터 새로 만들 수 있습니다. 예를 들어 Microsoft 팀에 게 온 보 딩 새 고용에 대 한 재생 목록을 만듭니다. 또는 고유 역할에 적합 한 정보가 포함 된 임원 관리자를 위한 재생 목록을 만들 수 있습니다. 또는 6이 아닌 3 개의 간단한 단계가 포함 된 Microsoft 365 재생 목록의 첫 번째 날을 만듭니다. 사용자 지정 재생 목록을 하위 범주에 추가할 수 있습니다. 예를 들어 **First Days**, **Excel**과 같은 **제품** 하위 범주 또는 사용자가 만든 하위 범주를 예로 들 수 있습니다. 이 섹션에서는 재생 목록을 만든 다음 다음 섹션의 재생 목록에 자산을 추가 하 여 [사용자 지정 재생 목록에 자산을 추가](custom_addassets.md)하는 방법에 대해 설명 합니다.
 
 ## <a name="create-a-playlist"></a>재생 목록 만들기 
 
-1. Microsoft 365 학습 경로 **홈** 페이지에서 **Office 365 학습**을 클릭 하 고 웹 파트에서 시스템 메뉴를 선택한 다음 **재생 목록 관리**를 선택 합니다. 
-2. 하위 범주를 선택 합니다. 이 예에서는 **First Days**를 선택 합니다.  
+1. Microsoft 365 학습 경로 **홈** 페이지에서 **Office 365 학습**을 클릭 한 다음 웹 파트에서 **관리** 아이콘을 선택 합니다. 
+2. **관리**"아이콘 하위 범주를 선택 합니다. 이 예에서는 **First Days**를 선택 합니다.  
 3. + 아이콘을 클릭 합니다.  
 
 ![cg-newplaylistbtn-.png](media/cg-newplaylistbtn.png)

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로 개요
 ms.date: 10/23/2019
 description: Microsoft 365의 학습 경로를 통해 조직에서 Microsoft 365 서비스의 사용 및 채택 속도를 향상 시키는 방법을 알아봅니다. 학습 경로에는 사용자 지정 SharePoint online 웹 파트 및 Microsoft 365 테 넌 트로 쉽게 프로 비전 되는 최신 SharePoint Online communications 교육 사이트가 포함 됩니다.
-ms.openlocfilehash: 8d98269b5d0e6af369bd476e4de3be72bab78950
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 9ac54d13ec23b3489f43dd30ead096f8f05303df
+ms.sourcegitcommit: 76c73e78038521b39b2a8e5328862f47557c8a54
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726722"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37885562"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Microsoft 365 학습 경로 베타 미리 보기
 Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용과 채택을 향상 시키기 위해 설계 된 맞춤형 주문형 학습 솔루션입니다.  
@@ -38,7 +38,7 @@ SharePoint Online 프로 비전 서비스에서 학습 경로를 프로 비전 �
 
 ## <a name="feedback-and-support"></a>사용자 의견 및 지원
 
-Microsoft 365 학습 경로는 GitHub의 [온라인 문제 목록을](https://aka.ms/CustomLearningHelp) 통해 지원 되는 오픈 소스 프로젝트입니다. Learnng 경로 솔루션과 해당 구성 요소는 기존 Microsoft 지원 계약에 포함 되지 않습니다.  
+Microsoft 365 학습 경로는 GitHub의 [온라인 문제 목록을](https://aka.ms/CustomLearningHelp) 통해 지원 되는 오픈 소스 프로젝트입니다. 학습 경로 솔루션과 해당 구성 요소는 기존 Microsoft 지원 계약에 포함 되지 않습니다.  
 
 ## <a name="additional-resources"></a>추가 리소스
-Microsoft 365 learning 경로 사이트를 사용 하 여 새 또는 기존 사용자 커뮤니티 포럼에 대 한 링크를 제공할 수 있습니다. 내부 사용자 그룹을 아직 설치 하지 않은 경우 시작 하 여 사용자가 자신의 성공을 공유 하 고 서로 정보를 공유할 수 있도록 하는 것이 좋습니다.  내부 사용자 그룹을 nurture 할 시간이 없는 경우에는 직원 들이 [365 마이크로](https://aka.ms/O365Champions) 를 교육 하 고, 온라인 커뮤니티에서 멤버 자격을 등록 하 고, Office 365 용 도구 및 리소스에 대 한 초기 액세스를 할 수 있습니다.
+Microsoft 365 learning 경로 사이트를 사용 하 여 새 또는 기존 사용자 커뮤니티 포럼에 대 한 링크를 제공할 수 있습니다. 내부 사용자 그룹을 아직 설치 하지 않은 경우 시작 하 여 사용자가 자신의 성공을 공유 하 고 서로 정보를 공유할 수 있도록 하는 것이 좋습니다.  내부 사용자 그룹을 nurture 할 시간이 없는 경우에는 직원 들이 [Microsoft office 365 챔피언 커뮤니티](https://aka.ms/O365Champions) 에 참여 하 여 월별 교육, 온라인 커뮤니티의 멤버 자격 및 Office 365의 도구 및 리소스에 대 한 초기 액세스 권한을 부여할 수 있습니다.
