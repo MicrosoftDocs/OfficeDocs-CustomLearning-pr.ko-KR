@@ -5,7 +5,7 @@
 ## [독립 실행형 웹 파트 설정](custom_manualsetup.md)
 # [관리 성공 센터](custom_successcenter.md)
 ## [콘텐츠 업데이트 11 월](custom_contentupdates.md)
-## [콘텐츠 업데이트 관리](custom_managecontentupdates.md)
+## [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)
 ## [기능 11 월 업데이트](custom_featureupdates.md)
 ## [학습 콘텐츠 계획](custom_plancontent.md)
 ## [학습 경로 사용자 지정](custom_overview.md)
