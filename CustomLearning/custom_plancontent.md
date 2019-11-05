@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 학습 경로 콘텐츠 계획
 ms.date: 10/20/2019
 description: Microsoft 365 learning 경로 콘텐츠 업데이트
-ms.openlocfilehash: 90f2db3c320f23931059b12d3eb9a6a9daeada72
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886725"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956665"
 ---
 # <a name="plan-your-learning-pathways-content"></a>학습 경로 콘텐츠 계획
 Microsoft 365 학습 경로를 배포 하기 전에 사용자가 사용할 수 있는 학습 콘텐츠, 도구 및 기능을 조사 하는 데 약간의 시간이 소요 되는 것이 좋습니다. 우리의 목표는 조직의 사용자가 가능한 한 신속 하 고 효율적으로 생산성을 높일 수 있도록 하는 데 도움이 됩니다. 학습 경로를 계획할 때는 다음 3 단계 프로세스를 수행 하는 것이 좋습니다.
@@ -53,18 +53,21 @@ Microsoft 365 학습 경로를 사용 하는 경우 Microsoft에서 제공 하�
 - **재생 목록** -자산에 대 한 컨테이너입니다. Microsoft는 수정할 수 없는 재생 목록을 제공 하지만 직접 재생 목록을 만들 수도 있습니다.  
 - **자산** -재생 목록 내의 학습 페이지입니다. Microsoft는 수정할 수 없는 재생 목록에 자산을 제공 하지만 자체 자산을 만들어 재생 목록에 추가할 수 있습니다.
 
-### <a name="review-the-learning-pathways-inventory-and-resources"></a>학습 경로 인벤토리 및 리소스 검토
-관리 인벤터리가 충분히 자세한 정보가 아닌 경우에는 리소스 페이지에서 Microsoft 365 학습 경로 목록 스프레드시트를 확인 하세요. 여기에는 메타 데이터, 범주, 하위 범주, 재생 목록 및 자산의 전체 목록이 포함 됩니다. 리소스 페이지에는 사용자 지정 가능한 빠른 시작 가이드와 같은 추가 자산에 대 한 링크도 제공 됩니다. 자세한 내용은 [경로 학습 리소스](custom_plancontent_resources.md)를 참조 하세요.
+### <a name="review-additional-resources-from-microsoft"></a>Microsoft의 추가 리소스 검토
+Microsoft는 학습 경로에 대 한 콘텐츠를 계획할 때 활용할 수 있는 도움말 및 교육 리소스를 제공 합니다.  
+
+-  [Office 도움말 및 교육](https://support.office.com)
+-  [Office 365 교육 센터](https://support.office.com/office-training-center)
 
 ### <a name="review-the-learning-resources-in-your-organization"></a>조직의 학습 리소스 검토
 조직에서 이미 사용 가능한 학습 콘텐츠의 재고를 가져올 수 있습니다.
-예를 들어 조직에는 Microsoft 365 준비, 헬프데스크, 온 보 딩 또는 교육 전용 사용자 지정 빠른 시작 가이드, 요약 정보 시트 또는 SharePoint 페이지가 이미 있을 수 있습니다. 기존 SharePoint 자산은 Microsoft 365 포털 재생 목록에 통합 되거나, Microsoft의 콘텐츠를 재생 목록에 포함 하 여 조직의 대상 재생 목록을 작성할 수 있습니다. 조직의 콘텐츠를 Microsoft의 콘텐츠와 함께 사용 하는 방법에 대 한 자세한 내용은 관리 성공 센터의 학습 경로 사용자 지정 섹션을 참조 하세요.
+예를 들어 조직에는 Microsoft 365 준비, 헬프데스크, 온 보 딩 또는 교육 전용 사용자 지정 빠른 시작 가이드, 요약 정보 시트 또는 SharePoint 페이지가 이미 있을 수 있습니다. 기존 SharePoint 자산은 Microsoft 365 포털 재생 목록에 통합 되거나, Microsoft의 콘텐츠를 재생 목록에 포함 하 여 조직의 대상 재생 목록을 작성할 수 있습니다. 조직의 콘텐츠를 Microsoft 콘텐츠와 함께 사용 하는 방법에 대 한 자세한 내용은 [사용자 지정 학습 경로](custom_overview.md)를 참조 하세요. 관리 성공 센터의 학습 경로 사용자 지정 섹션
 
 ### <a name="leverage-the-adoption-resources"></a>채택 리소스 활용
 학습 경로는 일 이내에 시작할 수 있지만, 새로운 기술 또는 서비스 집합을 미리 사용 하기 위해 학습 캠페인 전략을 실행 하기 전에 약간의 계획을 세우는 것이 가장 좋습니다. 콘텐츠 요금제를 개발 하 고 학습 경로를 사용 하는 것은 전반적인 변경 관리 전략을 계획 하는 데 있어 더 광범위 한 노력의 일환으로, 전체 전략을 계획 하는 도입 자료를 제공 합니다. 계획 노력의 일환으로 [채택 리소스](https://resources.techcommunity.microsoft.com/adoption/)를 확인 하세요.
 
 ### <a name="build-a-learning-plan-and-iterate"></a>학습 계획 작성 및 반복 
-학습 경로를 성공적으로 롤아웃 한 대부분의 회사에서는 특정 시나리오 또는 기술에 초점을 맞추어 학습 캠페인을 채택 했습니다. 예를 들어 "팀에서 더 많은 공동 작업을 사용 하는 경우" 또는 "더 많은 모바일 기능을 Outlook 모바일으로 사용" 해야 합니다. [다운로드 가능한 채택 키트](https://resources.techcommunity.microsoft.com/adoption/)를 사용 하 여 잠재 된 학습 캠페인의 예를 볼 수 있습니다.
+학습 경로를 성공적으로 롤아웃 한 대부분의 회사에서는 특정 시나리오 또는 기술에 초점을 맞추어 학습 캠페인을 채택 했습니다. 예를 들어 "팀에서 더 많은 공동 작업을 사용 하는 경우" 또는 "더 많은 모바일 기능을 Outlook 모바일으로 사용" 해야 합니다. [다운로드 가능한 채택 키트](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)를 사용 하 여 잠재 된 학습 캠페인의 예를 볼 수 있습니다.
 
 
  

@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로 설정 옵션
 ms.date: 02/11/2019
 description: 사용자 지정 학습 설정에 대 한 설치 옵션
-ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 6906b5e70b186c106b3a9969b5bce1cbe87d7021
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334705"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956655"
 ---
 # <a name="learning-pathways-setup-options"></a>학습 경로 설정 옵션
 학습용 경로를 통해 솔루션을 몇 가지 다른 방식으로 설정할 수 있습니다. 다음 섹션에서는 사용할 수 있는 옵션에 대해 간략하게 설명 합니다.
 
 > [!IMPORTANT]
-> 5/21/2019에서 Microsoft 365 학습 경로는 이전에 Office 용 사용자 지정 학습 365 이라는 솔루션의 새 이름입니다. 조직에서 Office 365에 대 한 사용자 지정 학습을 이미 구축 했으며 솔루션을 업데이트 하려는 경우 [Microsoft 365 학습 경로 추가 정보의](https://github.com/pnp/custom-learning-office-365)"솔루션 업데이트" 지침을 따르세요. Microsoft 365 학습 경로를 처음으로 프로 비전 하는 경우 Microsoft 365 학습 경로 설명서에서 [microsoft 365 learning 경로 지침 프로 비전]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) 을 참조 하십시오.  
+> 조직에서 Office 365에 대 한 사용자 지정 학습을 이미 구축 했으며 솔루션을 업데이트 하려는 경우 [Microsoft 365 학습 경로 추가 정보의](https://github.com/pnp/custom-learning-office-365)"솔루션 업데이트" 지침을 따르세요. Microsoft 365 학습 경로를 처음으로 프로 비전 하는 경우 Microsoft 365 학습 경로 설명서에서 [microsoft 365 learning 경로 지침 프로 비전]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) 을 참조 하십시오.  
 
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>권장-SharePoint Online 프로 비전 서비스 설치 
@@ -29,6 +29,6 @@ SharePoint Online 프로 비전 서비스는 사용자 지정 학습을 설정 �
 - 수동 웹 파트 설치 지침에 대 한 자세한 내용은 [웹 파트 수동 설치](custom_manualsetup.md)를 참조 하십시오. 
 
 ## <a name="update-learning-pathways"></a>학습 경로 업데이트
-SharePoint Online 프로 비전 서비스를 사용 하 여 이전 버전의 Microsoft 365 학습 경로를 설치한 후 Office 365에 대 한 사용자 지정 학습 이라고 했던 조직은 솔루션을 최신 버전으로 업데이트할 수 있습니다. 솔루션의 최신 버전에 배포 된 버전을 확인 하는 방법에 대 한 자세한 내용은 [ReadMe 파일](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)의 "솔루션 업데이트" 섹션을 참조 하십시오.
+SharePoint Online 프로 비전 서비스를 사용 하 여 이전 버전의 Microsoft 365 학습 경로를 설치한 조직은 솔루션을 최신 버전으로 업데이트할 수 있습니다. 솔루션의 최신 버전에 배포 된 버전을 확인 하는 방법에 대 한 자세한 내용은 [ReadMe 파일](https://github.com/pnp/custom-learning-office-365/blob/master/README.md)의 "솔루션 업데이트" 섹션을 참조 하십시오.
 
-### <a name="next-steps---provision-microsoft-365-learning-pathwayscustomprovisionmd"></a>다음 단계- [Microsoft 365 학습 경로 프로 비전](custom_provision.md)
+### <a name="next-steps---provision-microsoft-365-learning-pathwayscustom_provisionmd"></a>다음 단계- [Microsoft 365 학습 경로 프로 비전](custom_provision.md)

@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886981"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956645"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>학습용 경로 포털의 드라이브 채택
 Microsoft 365 학습 경로를 사용자 지정 하 고 초기 학습 캠페인을 함께 사용할 경우 사용자가 진행 중인 학습 및 변환을 위해 Microsoft 365 학습 경로를 반환 하는 방법에 대해 고려해 야 합니다. Microsoft에서 제공 하는 지침, 채택 키트 및 모범 사례를 사용 하 여 성공적인 Microsoft 365 학습 경로 채택 캠페인을 실행할 수 있으며, 지침, 모범 사례 및 채택 키트를 제공 합니다. 
@@ -31,8 +31,8 @@ Microsoft 365 학습 경로를 사용자 지정 하 고 초기 학습 캠페인�
 - 사이트 및 콘텐츠 공유
 - Yammer를 사용 하 여 조직 연결
 
-## <a name="use-the-download-adoption-kit"></a>다운로드 채택 키트 사용
-Microsoft 365 학습 경로 통신 캠페인을 실행 하는 데 도움이 되도록 다운로드 가능한 채택 키트를 사용 합니다. 다음과 같은 내용이 포함 되어 있습니다. 
+## <a name="use-the-downloadable-adoption-kit"></a>다운로드 가능한 채택 키트 사용
+Microsoft 365 학습 경로 통신 캠페인을 실행 하는 데 도움이 되도록 [다운로드 가능한 채택 키트](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip)를 사용 합니다. 다음과 같은 내용이 포함 되어 있습니다. 
 
 - Microsoft 365 학습용 경로 사용자 캠페인을 계획 하는 데 도움이 되는 통신 캠페인 일정
 - 최종 사용자 시작 및 팁 5 가지 Microsoft 365 시나리오 각각에 대 한 전자 메일 템플릿을 사용 합니다.    

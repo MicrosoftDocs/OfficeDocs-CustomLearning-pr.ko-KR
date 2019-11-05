@@ -4,19 +4,19 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로 사이트 구축
 ms.date: 02/10/2019
 description: SharePoint 프로 비전 서비스를 통해 Microsoft 365 학습 경로 사이트 프로 비전
-ms.openlocfilehash: e48052a395a8669ef684110a1c93409f5859a1d2
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 7bffd8ae68099e8def1fa7a8b8620d95b4b65740
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334749"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956683"
 ---
 # <a name="provision-microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 프로 비전
 
 SharePoint Online 프로 비전 서비스를 사용 하 여 Office 365 테 넌 트 관리자는 몇 번의 간단한 클릭으로 프로 비전 프로세스를 시작할 수 있습니다. 구축 서비스는 학습 경로를 프로 비전 하는 데 권장 되는 방법입니다. 프로세스를 시작 하는 데 몇 분 정도 더 빠르고 간편 하 게 작업을 수행 합니다. 프로 비전 서비스를 시작 하기 전에 먼저 프로 비전을 위한 필수 구성 요소를 충족 했는지 확인 합니다.
 
 > [!IMPORTANT]
-> 5/21/2019에서 Microsoft 365 학습 경로는 이전에 Office 용 사용자 지정 학습 365 이라는 솔루션의 새 이름입니다. 조직에서 Office 365에 대 한 사용자 지정 학습을 이미 구축 했으며 솔루션을 업데이트 하려는 경우 [Microsoft 365 학습 경로 추가 정보의](https://github.com/pnp/custom-learning-office-365)"솔루션 업데이트" 지침을 따르세요. Microsoft 365 학습 경로를 처음으로 프로 비전 하는 경우 Microsoft 365 학습 경로 설명서에서 [microsoft 365 learning 경로 지침 프로 비전]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) 을 참조 하십시오.  
+> 5/21/2019에서 Microsoft 365 학습 경로는 이전에 Office 용 사용자 지정 학습 365 이라는 솔루션의 새 이름입니다. 조직에서 Office 365 또는 이전 버전의 Microsoft 365 학습 경로에 대 한 사용자 지정 학습을 이미 구축 했으며 솔루션을 업데이트 하려면 [Microsoft 365 학습 경로의 "솔루션 업데이트" 지침을 따릅니다. 추가 정보](https://github.com/pnp/custom-learning-office-365) Microsoft 365 학습 경로를 처음으로 프로 비전 하는 경우 Microsoft 365 학습 경로 설명서에서 [microsoft 365 learning 경로 지침 프로 비전]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) 을 참조 하십시오.  
 
 ## <a name="prerequisites"></a>필수 구성 요소
  
@@ -28,31 +28,19 @@ SharePoint Online 프로 비전 서비스를 사용 하 여 Office 365 테 넌 �
 
 ### <a name="to-provision-learning-pathways"></a>학습 경로를 프로 비전 하려면
 
-1. http://provisioning.sharepointpnp.com 홈 페이지의 오른쪽 위 모서리에서 이동 하 여 **로그인** 합니다.  사이트 서식 파일을 설치 하려는 대상 테 넌 트에 대 한 자격 증명으로 로그인 합니다.
-
-![pnphome-.png](media/inst_signin.png)
-
-2. **조직 대신 동의** 를 지우고 **수락**을 선택 합니다.
-
-![내](media/inst_perms.png)
+1. [Microsoft 365 학습 경로 솔루션 페이지로](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)이동 합니다.
+2. **테 넌 트에 추가를**클릭 합니다. 테 넌 트에 로그인 하지 않은 경우 프로 비전 서비스가 사용자의 테 넌 트 관리자 자격 증명을 요청 합니다. 
+3. 요청 된 사용 권한 대화 상자에서 **조직 대신 동의** 를 선택 하 고 **수락**을 선택 합니다.
 
 이 프로 비전 서비스에는 테 넌 트 앱 카탈로그를 만들고 해당 응용 프로그램을 테 넌 트 앱 카탈로그에 설치 하 고 사이트 서식 파일을 프로 비전 하기 위해 이러한 권한이 필요 합니다. 테 넌 트에 전체적인 영향은 없으며 이러한 권한은 솔루션 설치의 목적으로 명시적으로 사용 됩니다. 설치를 계속 하려면 이러한 사용 권한을 수락 해야 합니다.
 
-3. 페이지를 아래로 스크롤하여 **솔루션** 탭을 선택한 다음 **Office 365에 대 한 학습 경로**를 선택 합니다. 
-
-![내](media/inst_select.png)
-
-4. **테 넌 트에 추가를 선택 합니다** .
-
-![inst_select-.png](media/inst_add.png)
-
-5. 설치에 적합 하도록 프로 비전 정보 페이지의 필드를 완성 합니다. 적어도 프로 비전 프로세스에 대 한 알림을 받을 전자 메일 주소와 사이트를 프로 비전 할 대상 URL을 입력 합니다.  
+4. 설치에 적합 하도록 프로 비전 정보 페이지의 필드를 완성 합니다. 적어도 프로 비전 프로세스에 대 한 알림을 받을 전자 메일 주소와 사이트를 프로 비전 할 대상 URL을 입력 합니다.  
 > [!NOTE]
 > "/Sites/MyTraining" 또는 "/teams/LearnMicrosoft365"과 같은 직원에 게 친숙 한 사이트의 대상 URL을 만듭니다.
 
 ![inst_options-.png](media/inst_options.png)
 
-6. 사용자의 테 넌 트 환경에 학습 경로를 설치할 준비가 되 면 **프로 비전** 을 선택 합니다.  구축 프로세스는 최대 15 분까지 소요 됩니다. 사이트에 액세스할 준비가 되 면 프로 비전 페이지에서 입력 한 알림 전자 메일 주소로 전자 메일을 통해 알림 메시지가 표시 됩니다. 
+6. 사용자의 테 넌 트 환경에 학습 경로를 설치할 준비가 되 면 **프로 비전** 을 클릭 합니다.  구축 프로세스는 최대 15 분까지 소요 됩니다. 사이트에 액세스할 준비가 되 면 프로 비전 페이지에서 입력 한 알림 전자 메일 주소로 전자 메일을 통해 알림 메시지가 표시 됩니다. 
 
 > [!IMPORTANT]
 > 학습 경로 사이트를 프로 비전 하는 테 넌 트 관리자는 해당 사이트로 이동한 다음 **CustomLearningAdmin** 를 열어 학습 경로 관리 속성을 초기화 해야 합니다. 현재, 테 넌 트 관리자는 소유자를 사이트에도 할당 해야 합니다. 
@@ -61,7 +49,7 @@ SharePoint Online 프로 비전 서비스를 사용 하 여 Office 365 테 넌 �
 
 프로비저닝이 완료 되 면 사이트를 프로 비전 한 테 넌 트 관리자가 PnP 프로 비전 서비스에서 전자 메일을 받습니다. 전자 메일에 사이트에 대 한 링크가 포함 되어 있습니다. 이때 테 넌 트 관리자는 전자 메일에 제공 된 링크를 사용 하 여 사이트에 방문 하 고 처음 사용할 수 있도록 사이트를 설정 해야 합니다.
 
-- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`으로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 학습 경로를 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
+- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`(으)로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 학습 경로를 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
 
 ![cg-adminapppage-.png](media/cg-adminapppage.png)
 
