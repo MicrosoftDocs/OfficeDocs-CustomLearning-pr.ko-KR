@@ -4,12 +4,12 @@ ms.author: karuanag
 title: 사용자 의견 및 지원
 ms.date: 02/10/2019
 description: Microsoft 365 학습 경로에 대 한 사용자 의견 및 지원 정보
-ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: f54684839086fd1cd11d5061dd34d3fe6ab8adf7
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956635"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076002"
 ---
 # <a name="feedback-and-support"></a>사용자 의견 및 지원
 
@@ -23,7 +23,7 @@ Microsoft 365 학습 경로 환경을 제공 하는 오픈 소스 사이트 서�
 
 ## <a name="provide-us-feedback"></a>사용자 의견 보내기
 
-비즈니스 결과를 사용 하도록 설정 하는 경우에는 솔루션에만 성공 합니다.  [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions)를 통해 정기적인 의견을 제공 하 여이를 보다 효율적으로 활용 하는 데 도움이 됩니다.  모든 의견 및 질문을 정기적으로 검토 합니다. 
+비즈니스 결과를 사용 하도록 설정 하는 경우에는 솔루션에만 성공 합니다.  [UserVoice](https://go.microsoft.com/fwlink/?linkid=2109552)를 통해 정기적인 의견을 제공 하 여이를 보다 효율적으로 활용 하는 데 도움이 됩니다.  모든 의견 및 질문을 정기적으로 검토 합니다. 
 
 ## <a name="usage-questions"></a>사용 관련 질문
 

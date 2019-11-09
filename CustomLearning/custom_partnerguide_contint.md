@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 파트너 통합 모델
 ms.date: 3/9/2019
 description: 파트너 통합 모델
-ms.openlocfilehash: 54e41e5271c0b4c7558329e79c1dc702606f0620
-ms.sourcegitcommit: 4f4dbe69fe6405c4267c1a4abc6d37f3441d6fd2
+ms.openlocfilehash: 0d52210c600e14fc9f224fbe6f91645fe4045c45
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38014262"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076022"
 ---
 # <a name="partner-integration-models"></a>파트너 통합 모델
 SharePoint Online 프로 비전 서비스에서 Microsoft 365 learning 경로 콘텐츠를 직접 보완 하는 것은 불가능 하지만 파트너가 정렬 된 값 추가 서비스를 만들기 위해 사용할 수 있는 몇 가지 통합 모델이 있습니다. 사항. 위의 파트너 통합 모델은 오름차순 및 투자 수준 순으로 제공 됩니다. 따라서 비즈니스 모델에 따라 고급 수준에 대 한 전문 지식 및 졸업을 구축 하는 것이 좋습니다.
@@ -36,11 +36,11 @@ Microsoft 365 학습 경로에 대 한 콘텐츠는 학습 패키지에 대 한 
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Microsoft 365 학습 경로 솔루션 다운로드
 GitHub 리포지토리에서 https://github.com/pnp/custom-learning-office-365Microsoft 365 learning 경로 솔루션을 JSON 파일과 함께 다운로드할 수 있습니다. 현재 Microsoft는 솔루션에 대해 GitHub 끌어오기 요청을 수행 하 고 있지 않습니다. 그러나 GitHub 파일을 사용 하 여 고유한 사용자 지정 콘텐츠 팩을 만들 수 있습니다. 
 
-## <a name="metadatajson-structure"></a>Metadata. json 구조
+### <a name="metadatajson-structure"></a>Metadata. json 구조
 이 파일은 메뉴 및 구조의 brains 것으로 간주할 수 있습니다. 여기에는 모든 탐색 구조 뿐만 아니라 다른 두 파일의 데이터에 대 한 선택 목록도 포함 되어 있습니다. 
 
 
-|              Name        |                     Description                                                               | 
+|              이름        |                     설명                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |**개발**              |태그가 지정 되 고, 할당 된 기술에 따라 콘텐츠를 숨길 수 있습니다.                 |  
 |&nbsp;&nbsp;I                |기술을 나타내는 GUID입니다.                                                           |  
@@ -82,10 +82,10 @@ GitHub 리포지토리에서 https://github.com/pnp/custom-learning-office-365Mi
 |&nbsp;&nbsp;CDNbase           |콘텐츠 팩에 대 한 매니페스트의 기본 URL                                       |
 |AssetOrigins                  |나중에 설명 된 자산과 파일에서 사용 되는 URL 원본의 배열입니다. 원본 URL이이를 지 원하는 경우 post 메시지가 help_getClientHeight 전송 됩니다. 데이터 속성의 "help_getClientHeight = {height} help_getClientHeight"와 같은 응답에 따라 iFrame의 크기를 프레임 콘텐츠의 적절 한 높이로 조정할 수 있습니다.         |
 
-## <a name="playlistsjson-structure"></a>재생 목록-json 구조
+### <a name="playlistsjson-structure"></a>재생 목록-json 구조
 재생 목록-재생 목록 매니페스트는 재생 목록 및 재생 목록에 포함 된 자산에 대 한 메타 데이터를 설명 하는 개체의 배열입니다.
 
-|              Name        |                     설명                                                               | 
+|              이름        |                     설명                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |재생 목록을 나타내는 GUID                                                             |  
 |제목                         |재생 목록의 표시 이름                                                               |
@@ -96,19 +96,19 @@ GitHub 리포지토리에서 https://github.com/pnp/custom-learning-office-365Mi
 |SubjectId                    |범주/하위 범주에 대 한 표시 이름                                                  |
 |원본                        |원본 배열에서 사용자가 추가한 사용자 지정 데이터 이외의 UX에서 특별히 사용 하는 것은 "테 넌 트"로 표시 되 고, UX 관리 영역에서는 "테 넌 트"로 표시 되지 않은 모든 것을 편집할 수 없습니다.                                              |
 |CatId                         |재생 목록이 표시 되는 컨테이너를 나타내는 범주 또는 하위 범주 ID입니다. 현재 매니페스트에서 범주 또는 하위 범주에 하위 범주 하위 항목도 있으면이를 컨테이너로 선택할 수 없습니다.        |
-|Description                   |UX의 각 재생 목록에 대해 보여 주는 설명                                           |
+|설명                   |UX의 각 재생 목록에 대해 보여 주는 설명                                           |
 |StatusTagId                   |연결 된 상태 태그                                                                      |
 |StatusNote                    |관리자에 게 표시 되는 콘텐츠에 대 한 참고 사항                                            |
 |*자산 []*                        |이 재생 목록의 일부인 자산에 대 한 GUID의 배열을 표시 순서로 나타냅니다.        |         
 
-## <a name="assetjson-structure"></a>Asset. json 구조
+### <a name="assetjson-structure"></a>Asset. json 구조
 재생 목록-재생 목록 매니페스트는 재생 목록 및 재생 목록에 포함 된 자산에 대 한 메타 데이터를 설명 하는 개체의 배열입니다.
 
-|              Name        |                     설명                                                               | 
+|              이름        |                     설명                                                               | 
 |:-----------------------------|-------------------------------------------------------------------------------------------|
 |Id                            |재생 목록을 나타내는 GUID                                                             |  
 |제목                         |재생 목록의 표시 이름                                                               |
-|Description                   |---                                                                                           |                      
+|설명                   |---                                                                                           |                      
 |URL                           |IFrame에 적용할 해당 자산의 원본 url입니다.                                  |
 |TechnologyId                  |연결 된 기술                                                                      |
 |SubjectId                     |관련 주체                                                                         |
@@ -116,7 +116,7 @@ GitHub 리포지토리에서 https://github.com/pnp/custom-learning-office-365Mi
 |StatusTagId                   |연결 된 상태 태그                                                                      |
 |StatusNote                    |관리자에 게 표시 되는 콘텐츠에 대 한 참고 사항                                           |
 
-## <a name="caching"></a>캐싱할
+### <a name="caching"></a>캐싱할
 현재 버전의 뷰어 웹 파트는 캐시 된 버전의 매니페스트 파일을 24 시간 동안 활용 합니다. 24 시간 후에 웹 파트를 방문 하는 첫 번째 사용자는 소스 CDN에서 매니페스트를 다운로드 하 고 해당 정보를 숨겨진 기술 및 재생 목록과 병합 하 여 사용자 지정 하위 범주에서 병합 하는 방식으로 캐시를 새로 고칠 때 성능 저하가 발생 합니다. 재생 목록 및 자산 또한 관리 웹 파트는 항상 매니페스트의 콘텐츠를 다운로드 하 여 병합 하 고 캐시를 업데이트 합니다.  즉, 관리자는 관리 페이지로 이동 하는 즉, 관리 웹 파트를 로드 하 여 언제 든 지 강제로 캐시를 업데이트할 수 있습니다.
 
 ## <a name="content-pack-guidelines"></a>콘텐츠 팩 지침
@@ -127,7 +127,7 @@ GitHub 리포지토리에서 https://github.com/pnp/custom-learning-office-365Mi
 
 이 현재 문서 집합은 기능의 복잡도로 인해 파트너를 대상으로 의도적으로 지정 되었습니다. 서비스 팀은 현재 #2 보다 향상 된 지원 및 사용 시나리오를 제공 합니다. 
 
-## <a name="how-content-packs-work"></a>콘텐츠 팩 작동 방식
+### <a name="how-content-packs-work"></a>콘텐츠 팩 작동 방식
 Microsoft는 GitHub 페이지를 매니페스트 파일 및 이미지에 대 한 CDN (콘텐츠 배달 네트워크) 원본으로 활용 합니다. 각 매니페스트 파일 버전의 하위 폴더가 포함 된 GitHub 리포지토리의 루트에 docs 폴더가 있습니다. 각 폴더에는 세 개의 매니페스트 파일 및 모든 범주, 하위 범주 및 재생 목록 이미지를 저장 하는 이미지 폴더가 있습니다. 
 
 학습용 경로 솔루션을 자신만의 콘텐츠 팩으로 확장 하도록 선택 해야 하는 것과 동일한 버전 관리 구조를 유지 관리 하는 것이 중요 합니다. 웹 파트에서 지 원하는 매니페스트 버전이 해당 폴더에 baked CDN url에 자동으로 추가 되므로 CDN 끝점에 버전 폴더가 포함 되어서는 안 됩니다. 여기서는 수정할 때 언제 든 지 매니페스트 파일의 새 인스턴스를 만들 수 있도록 합니다.
@@ -138,7 +138,7 @@ GitHub 페이지를 CDN 소스로 활용 하는 방법에 대 한 자세한 내�
 
 Microsoft의 솔루션은 이러한 파일에 액세스할 수 있는 사용자에 대 한 보안 기능을 제공 하지 않으므로 자산에 대 한 정보를 공용에 공개 합니다. 소비자를 위한 무료 콘텐츠 계층이 있어야 하 고, 일부 또는 전체 콘텐츠에 대 한 요금이 결제 해야 하는 경우에는 솔루션의 기술적 제한 내에서이를 다르게 구현 해야 하며, GitHub 페이지를 사용 하는 경우에는 어떠한 평균이 있는지는 생각 하지 않습니다. s 요구 사항 지금까지 설명 했던 버전 번호 매기기 구조를 유지 관리 하는 경우에는 사용 하려는 CDN 공급자가 모두 적절 합니다. 앞에서 설명한 것 처럼 웹 파트가 지 원하는 매니페스트 구조의 버전은 코드에 baked CDN URL에 자동으로 추가 됩니다. 
 
-## <a name="content-pack-integration-guidance"></a>콘텐츠 팩 통합 지침 
+### <a name="content-pack-integration-guidance"></a>콘텐츠 팩 통합 지침 
 소비자가 테 넌 트에서 추가 CDN 끝점을 구성할 수 있도록 관리자 및 뷰어 웹 파트를 확장 하 여 사용자가 표시 하는 데이터를 원본으로 사용 하는 CDN을 선택 합니다. 
 
 이 기능에 대해 염두에 두어야 하는 주요 프레이밍: 
@@ -147,10 +147,10 @@ Microsoft의 솔루션은 이러한 파일에 액세스할 수 있는 사용자�
 
 > **중요** 사용자 지정 콘텐츠 팩을 추가 하기 전에 Microsoft 365 learning 경로 3.0 이상을 프로 비전 해야 합니다. Microsoft 365 학습 경로를 프로 비전 하는 방법에 대 한 자세한 내용은 informataion [microsoft 365 learning 경로](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision)를 참조 하십시오.
 
-## <a name="content-whitelisting"></a>콘텐츠 허용 목록이
+### <a name="content-whitelisting"></a>콘텐츠 허용 목록이
 파트너는 사용자의 환경에서 콘텐츠가 프록시의 허용 목록 확인 하기 위해 소비자에 게 도움을 주기 위한 책임입니다. 콘텐츠를 방화벽 내부의 SharePoint 페이지에 iFrame으로 표시할 수 있는지 확인 하기 위해 환경에서 테스트 시나리오를 만드는 것이 좋습니다. [사용자 지정 재생 목록에 대 한 SharePoint 페이지 만들기](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage) 지침에 따라 해당 사례 인지 확인 합니다.
 
-## <a name="add-a-content-pack-to-learning-pathways"></a>콘텐츠 팩을 학습 경로에 추가
+### <a name="add-a-content-pack-to-learning-pathways"></a>콘텐츠 팩을 학습 경로에 추가
 수정한 JSON을 만들고 CDN을 정의한 후에는 학습 경로에 연락처 팩을 추가할 수 있습니다. 
 
 1. 학습 경로 사이트 **홈** 페이지에서 **home** 을 가리킨 다음 **학습용 경로 관리**를 클릭 합니다. 
@@ -163,7 +163,7 @@ Microsoft의 솔루션은 이러한 파일에 액세스할 수 있는 사용자�
 
 ![cg-part-addconpackex-.png](media/cg-part-addconpackex.png)
 
-## <a name="filter-to-the-content-pack-in-the-web-part"></a>웹 파트의 콘텐츠 팩에 대 한 필터링
+### <a name="filter-to-the-content-pack-in-the-web-part"></a>웹 파트의 콘텐츠 팩에 대 한 필터링
 학습 경로를 사용 하 여 페이지에 학습용 경로 웹 파트를 추가 하 고, 사용자 지정 콘텐츠 팩 원본을 가리키도록 웹 파트를 필터링 한 다음 웹 파트를 원하는 범주, 하위 범주, 재생 목록 및 자산으로 필터링 할 수 있습니다. 
 
 1. 학습 경로 사이트에서 **새로 만들기**, **페이지**를 차례로 클릭 합니다.

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로의 영향 측정
 ms.date: 02/10/2019
 description: Microsoft 365 학습 경로의 영향을 측정 하는 방법
-ms.openlocfilehash: 95162ed8cead823f58a033922898beb4a7175399
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34272716"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076012"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로의 영향 측정
 
@@ -24,7 +24,7 @@ SharePoint Online 사이트 소유자는 사용자가 사이트와 상호 작용
 ![cg-measureimpactreport-.png](media/cg-measureimpactreport.png)
 
 ## <a name="organization-level-impact"></a>조직 수준 영향
-관리자는 office 365 관리 센터 SharePoint 사이트 사용 보고서를 사용 하 여 다른 모든 SharePoint 사이트에 365 대 한 사용자 지정 학습 사이트의 값에 대 한 높은 수준의 보기를 가져올 수 있습니다. [보고서 세부 정보](https://docs.microsoft.com/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide)를 참조 하세요.
+관리자는 Office 365 관리 센터 SharePoint 사이트 사용 보고서를 사용 하 여 다른 모든 SharePoint 사이트에 365 대 한 사용자 지정 학습 사이트의 값에 대 한 높은 수준의 보기를 가져올 수 있습니다. [보고서 세부 정보](https://docs.microsoft.com/office365/admin/activity-reports/sharepoint-site-usage?view=o365-worldwide)를 참조 하세요.
  
 참조 문서에 따라 다음을 수행 합니다. 
 1. SharePoint 사이트 사용 현황 보고서에 액세스 하는 방법 알아보기 
@@ -33,5 +33,5 @@ SharePoint Online 사이트 소유자는 사용자가 사이트와 상호 작용
 
 ## <a name="feedback"></a>사용자 의견
 
-현재로 서는 보고가 SharePoint 사이트 수준으로 제한 됩니다. 향상 된 보고 기능 요청의 우선 순위를 지정 하는 데 도움이 되도록 [사용자의 음성](https://microsoftteams.uservoice.com/forums/913429-learning-solutions) 포럼에 투표 합니다.   
+현재로 서는 보고가 SharePoint 사이트 수준으로 제한 됩니다. 향상 된 보고 기능 요청의 우선 순위를 지정 하는 데 도움이 되도록 [사용자의 음성](https://go.microsoft.com/fwlink/?linkid=2109552) 포럼에 투표 합니다.   
 
