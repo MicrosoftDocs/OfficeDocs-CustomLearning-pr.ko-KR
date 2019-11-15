@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로 개요
 ms.date: 10/23/2019
 description: Microsoft 365의 학습 경로를 통해 조직에서 Microsoft 365 서비스의 사용 및 채택 속도를 향상 시키는 방법을 알아봅니다. 학습 경로에는 사용자 지정 SharePoint online 웹 파트 및 Microsoft 365 테 넌 트로 쉽게 프로 비전 되는 최신 SharePoint Online communications 교육 사이트가 포함 됩니다.
-ms.openlocfilehash: 21f85ad1434f27882ece4658dad466b55351b3a8
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
+ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956592"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38626617"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 
 Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용과 채택을 향상 시키기 위해 설계 된 맞춤형 주문형 학습 솔루션입니다.   
@@ -23,7 +23,7 @@ Microsoft 365 학습 경로는 다음과 같은 기능을 제공 합니다.
 - **자체 교육 재생 목록을 만드는 기능** -학습 경로를 사용 하 여 환경의 고유한 요구 사항에 맞는 대상 교육 재생 목록을 만들 수 있습니다.
 - 최신 **콘텐츠** -학습 경로는 Microsoft online 콘텐츠 카탈로그를 통해 콘텐츠를 제공 하므로 사이트의 콘텐츠가 정기적으로 업데이트 됩니다.
 
-![cg-introducing-.png](media/cg-introducing.png)
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
 ## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online 프로 비전 서비스 
 SharePoint Online 프로 비전 서비스에서 학습 경로를 프로 비전 할 수 있습니다. Microsoft 365 학습 경로가 구축 되 면 조직에서는 온라인 교육 콘텐츠에 연결 된 학습 경로 웹 파트와 함께 기본 교육 포털로 설계 된 SharePoint Online 통신 사이트를 가져옵니다. 
