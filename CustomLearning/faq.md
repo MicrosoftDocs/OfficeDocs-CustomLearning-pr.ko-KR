@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Microsoft 365 학습 경로에 대 한 질문과 대답
 ms.date: 02/10/2019
 description: Microsoft 365 학습 경로에 대 한 질문과 대답 정보
-ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
+ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/12/2019
-ms.locfileid: "35636112"
+ms.lasthandoff: 12/17/2019
+ms.locfileid: "40068819"
 ---
 # <a name="frequently-asked-questions"></a>질문과 대답
 
@@ -38,7 +38,7 @@ Microsoft 365 학습 경로는 현재 베타 미리 보기 상태입니다. Micr
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 학습 경로는 어떤 언어로 제공 됩니까?
 
-Microsoft 365 학습 경로는 현재 영어로만 제공 됩니다. 자동 종단 간 프로비저닝을 영어 테 넌 트와 함께 작동 합니다. CY19 Q4에서 이러한 9 가지 언어에 대 한 다국어 지원을 배포 하는 방법을 계획 하 고 있습니다. 
+Microsoft 365 학습 경로는 현재 영어로만 제공 됩니다. 자동 종단 간 프로비저닝을 영어 테 넌 트와 함께 작동 합니다. 2020의 1/4 분기에서 이러한 9 가지 언어에 대 한 다국어 지원을 배포 하는 방법을 계획 하 고 있습니다. 
 
 - 중국어(간체) 
 - 네덜란드어(네덜란드) 
