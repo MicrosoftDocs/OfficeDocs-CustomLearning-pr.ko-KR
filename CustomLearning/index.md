@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로 개요
 ms.date: 10/23/2019
 description: Microsoft 365의 학습 경로를 통해 조직에서 Microsoft 365 서비스의 사용 및 채택 속도를 향상 시키는 방법을 알아봅니다. 학습 경로에는 사용자 지정 SharePoint online 웹 파트 및 Microsoft 365 테 넌 트로 쉽게 프로 비전 되는 최신 SharePoint Online communications 교육 사이트가 포함 됩니다.
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626617"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831894"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 
-Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용과 채택을 향상 시키기 위해 설계 된 맞춤형 주문형 학습 솔루션입니다.   
+Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용과 채택을 향상 시키기 위해 설계 된 맞춤형 주문형 학습 솔루션입니다.    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>주문형, Microsoft의 사용자 지정 교육
 
@@ -36,7 +36,7 @@ SharePoint Online 프로 비전 서비스에서 학습 경로를 프로 비전 �
 2. 사용자 환경에 맞게 학습 경로를 조정 합니다.
 3. [채택 도구](driveadoption.md)를 사용 하 여 사용자와 학습 경로를 공유 합니다.
 
-## <a name="feedback-and-support"></a>사용자 의견 및 지원
+## <a name="feedback-and-support"></a>피드백 및 지원
 
 Microsoft 365 학습 경로는 GitHub의 [온라인 문제 목록을](https://aka.ms/CustomLearningHelp) 통해 지원 되는 오픈 소스 프로젝트입니다. 학습 경로 솔루션과 해당 구성 요소는 기존 Microsoft 지원 계약에 포함 되지 않습니다.  
 
