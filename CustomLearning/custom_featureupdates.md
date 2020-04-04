@@ -1,23 +1,43 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 학습 경로 11 월 2019 기능 업데이트
+title: 학습 경로 기능 업데이트
 ms.date: 10/20/2019
-description: 학습 경로 11 월 2019 기능 업데이트
-ms.openlocfilehash: fe3dc11f5e34d729d1a63f7b1ef92988f753021a
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: 학습 경로 기능 업데이트
+ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956575"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141361"
 ---
-# <a name="november-2019-version-30-feature-updates"></a>2019 년 11 월 버전 3.0 기능 업데이트
+# <a name="learning-pathways-feature-updates"></a>학습 경로 기능 업데이트
+학습 경로 팀은 고객 의견을 듣고 필요한 기능을 제공 하는 데 도움을 줍니다. 다음은 Q2 2020에서 계획 된 기능에 대 한 업데이트를 제공 합니다. 
+
+## <a name="upcoming-feature-updates-for-q2-2020"></a>Q2 2020에 대 한 예정 된 기능 업데이트
+학습 경로에 대 한 다국어 지원은 2020의 2 사분기에 출시 될 예정입니다. 다국어 지원은 "최신 SharePoint 용 Multiligual 페이지 게시" 기능에 종속 되며, SharePoint 다국어 지원에 대 한 일반적인 가용성과 동시에 사용할 수 있습니다. 자세한 내용은 [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217)를 참조 하세요.  
+  
+다음 언어는 학습 경로에 대해 지원 됩니다.   
+
+- 중국어(간체) 
+- 프랑스어  
+- 독일어 
+- 이탈리아어(이탈리아) 
+- 일본어 (일본)  
+- 포르투갈어 (브라질) 
+- 러시아어 (러시아어)  
+- 스페인어 
+
+> [!NOTE]
+> 지원 되는 학습 경로에 대 한 여러 언어 지원 릴리스에는 네덜란드어 언어 지원이 포함 되지 않습니다. 나중에 새로운 언어 옵션을 계속 평가할 예정입니다.
+
+## <a name="november-2019-version-30-feature-updates"></a>2019 년 11 월 버전 3.0 기능 업데이트
 대부분의 고객 의견을 기반으로 Microsoft 365 learning 경로 버전 3.0에 다음과 같은 새로운 기능이 추가 되었습니다.
 
-## <a name="content-updates-and-editorial-calendar"></a>콘텐츠 업데이트 및 편집 달력
+### <a name="content-updates-and-editorial-calendar"></a>콘텐츠 업데이트 및 편집 달력
 학습 경로를 확인 하는 것 중 하나는 최신 콘텐츠입니다. 이를 위해 microsoft는 다양 한 새 하위 범주, 재생 목록 및 자산과 함께 최초 11 월 2019 분기 콘텐츠 업데이트를 제공 했습니다. 콘텐츠 업데이트는 당사의 새로운 기능/변경 된 재생 목록에 있는 콘텐츠 업데이트 문서에 전달 됩니다. 학습 경로 분기별 콘텐츠 업데이트는 여기에서 찾을 수 있습니다. 일반적인 Office 도움말은 [11 월 2019 콘텐츠 업데이트](custom_contentupdates.md)를 참조 하세요.
 
-## <a name="microsoft-365-success-center"></a>Microsoft 365 성공 센터
+### <a name="learning-pathways-admin-success-center"></a>학습 경로 관리 성공 센터
 관리자 및 사이트 모음 소유자가 교육 경로를 최대한 활용 하기 위해 Microsoft 365 학습 경로 관리 성공 센터를 추가 했습니다. 관리 성공 센터에서는 계획 및 채택 리소스에 대 한 링크를 제공 하 고 학습 경로의 영향을 계획, 사용자 지정, 추진 및 평가 하는 방법에 대 한 지침을 제공 합니다. 자세한 내용은 [관리 성공 센터](custom_successcenter.md)를 참조 하세요.
 
 ## <a name="playlist-navigation"></a>재생 목록 탐색

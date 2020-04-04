@@ -4,15 +4,18 @@ ms.author: pkrebs
 title: Microsoft 365 학습 경로 개요
 ms.date: 10/23/2019
 description: Microsoft 365의 학습 경로를 통해 조직에서 Microsoft 365 서비스의 사용 및 채택 속도를 향상 시키는 방법을 알아봅니다. 학습 경로에는 사용자 지정 SharePoint online 웹 파트 및 Microsoft 365 테 넌 트로 쉽게 프로 비전 되는 최신 SharePoint Online communications 교육 사이트가 포함 됩니다.
-ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
-ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
+ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41831894"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141401"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 
 Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용과 채택을 향상 시키기 위해 설계 된 맞춤형 주문형 학습 솔루션입니다.    
+
+> [!IMPORTANT]
+> 현재 이벤트에 대 한 응답으로, 학습 경로는 조직에서 원격 작업을 사용 하도록 설계 된 재생 목록과 리소스에 중점을 둔 4 월 2020 콘텐츠 업데이트를 제공 합니다. 새로운 작업을 원격으로 재생 목록 집합을 추가 하 고, 특히 팀 회의를 위해 Microsoft 팀 콘텐츠를 크게 업데이트 하 고, 웹 재생 목록에 대 한 새로운 Office 집합을 추가 했습니다. 업데이트의 일부로 관리자를 위한 원격 작업 리소스의 목록도 제공 했습니다. 전체 업데이트 목록은 [Learning 경로 4 월 2020 콘텐츠 업데이트](custom_contentupdates.md)를 참조 하세요.   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>주문형, Microsoft의 사용자 지정 교육
 
