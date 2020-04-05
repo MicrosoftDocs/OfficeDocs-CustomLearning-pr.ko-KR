@@ -3,11 +3,14 @@
 ## [Microsoft 365 학습 경로 프로비전](custom_provision.md)
 ## [Microsoft 365 학습 경로 살펴보기](custom_exploresite.md)
 ## [독립 실행형 웹 파트 설정](custom_manualsetup.md)
-# [관리자 성공 센터](custom_successcenter.md)
-## [11월 콘텐츠 업데이트](custom_contentupdates.md)
+# 새로운 기능 
+## [콘텐츠 업데이트](custom_contentupdates.md) 
 ## [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)
-## [11월 기능 업데이트](custom_featureupdates.md)
-## [학습 콘텐츠 계획](custom_plancontent.md)
+## [기능 업데이트](custom_featureupdates.md)
+# [관리자 성공 센터](custom_successcenter.md)
+## 학습 콘텐츠 계획 
+### [학습 콘텐츠 계획](custom_plancontent.md)
+### [원격 작업자 지원을 위한 리소스](custom_plancontent_remoteresources.md)
 ## [학습 경로 사용자 지정](custom_overview.md)
 ### [M365 학습 경로 사이트로 이동](custom_goto.md)
 ### [사이트 사용자 지정](custom_edithelp.md)
