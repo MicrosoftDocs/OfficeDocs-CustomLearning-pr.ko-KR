@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: 학습 경로 콘텐츠 업데이트
 ms.date: 3/30/2020
 description: 학습 경로 4 월 2020 콘텐츠 업데이트
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141384"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191338"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning 경로 콘텐츠 업데이트
 학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 다음 목록에는 4 월 2020 콘텐츠가 업데이트 되어 있습니다.
@@ -37,7 +37,7 @@ Office 365이 Microsoft 365에 다시 참가 했습니다. 이름 변경 내용�
 - 작업 파일 저장
 - 고급 대체 방법
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Office 365의 공동 작업을 위한 모범 사례 (새 자산 6 개)
-- 시작
+- 시작하기
 - 공유
 - 공동 작성자
 - 파일에서 채팅
@@ -71,7 +71,7 @@ Office 365이 Microsoft 365에 다시 참가 했습니다. 이름 변경 내용�
 ### <a name="office-for-the-web"></a>웹에 대 한 Office
 Web for office에서는 사용자가 웹에서 Office를 만들고 공유 하 고 공동으로 작업할 수 있는 시나리오에 사용할 수 있는 재생 목록 집합을 제공 합니다. 이 콘텐츠 집합은 Google G Suite에서 Microsoft 365로 전환 하는 조직에도 유용 합니다.
 #### <a name="get-started-5-new-assets"></a>시작 (새 자산 5 개)
-- 시작
+- 시작하기
 - 검색을 통해 찾기
 - 새 문서 만들기
 - 작업으로 돌아가기
@@ -109,9 +109,9 @@ Web for office에서는 사용자가 웹에서 Office를 만들고 공유 하 �
 - 문서 공유
 - 공유 가능한 링크 만들기
 - 특정 사용자 에게만 문서 보호
-- 조직 외부의 사용자와 공유
+- 조직 외부의 사용자와 공유 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 요청에 따라 몇 가지 새로운 양식 자산도 있습니다. 
 #### <a name="forms-4-new-assets"></a>양식 (4 개 새 자산) 
 - 양식 만들기 
@@ -119,7 +119,7 @@ Web for office에서는 사용자가 웹에서 Office를 만들고 공유 하 �
 - 양식 결과 보기 
 - Microsoft Forms에 대 한 질문과 대답 
 
-### <a name="resources-for-supporting-your-remote-workforce"></a>원격 인력 지원 리소스
+### <a name="resources-for-supporting-your-remote-workforce"></a>원격 작업자 지원을 위한 리소스
 학습 경로를 사용 하 여 원격 작업자를 지원 하기 위한 학습 경로 사이트의 랜딩 페이지를 작성할 수 있습니다. 또는 학습 경로 사이트의 기존 지원 페이지에 학습 경로 웹 파트를 추가 하 고 웹 파트를 필터링 하 여 작업 시간 원격 재생 목록을 표시할 수 있습니다. 다음은 조직에서 원격 작업을 지원 하기 위한 Microsoft의 몇 가지 주요 리소스 목록입니다. 
 - [Microsoft 팀을 배포 하는 방법](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
 - [Microsoft Teams에서의 모임 및 회의](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
@@ -130,7 +130,7 @@ Web for office에서는 사용자가 웹에서 Office를 만들고 공유 하 �
 - [교육: Microsoft 교육 센터](https://education.microsoft.com) 
 - [교육: 원격 학습 시작](https://education.microsoft.com/resource/4c0c02c0)
 
-학습 경로를 사용자 지정 하는 방법에 대 한 자세한 내용은 [학습용 경로 사용자 지정] (custom_overview md)을 참조 하십시오. 
+학습 경로를 사용자 지정 하는 방법에 대 한 자세한 내용은 [사용자 지정 학습 경로](custom_overview.md)를 참조 하십시오. 
 
 ## <a name="november-2019-content-updates"></a>2019 년 11 월 콘텐츠 업데이트
 Microsoft 365 학습 경로 콘텐츠 업데이트에 오신 것을 환영 합니다. 2019 년 11 월 부터는 업데이트 된 학습 경로 카탈로그의 인벤토리를 분기별 기준으로 제공 합니다. 2019 년 11 월 업데이트의 경우 학습 경로 카탈로그에 다음과 같은 새 콘텐츠 하위 범주 및 재생 목록이 추가 되었습니다. 콘텐츠 업데이트를 적용 하는 방법과 콘텐츠 업데이트를 관리 하는 방법에 대 한 자세한 내용은 [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)를 참조 하세요.    
