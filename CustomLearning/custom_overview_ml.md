@@ -5,12 +5,12 @@ title: 개요
 ms.date: 06/06/2020
 description: 언어 학습 경로에 대 한 다국어 지원
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 72159b9525368c6f9744913aea023f496d353091
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: a576c94b48af9336ffc7f035de7377e7bf57c84c
+ms.sourcegitcommit: a50efd8bc3719dbb4f5630e8fceec185599e33a2
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699139"
+ms.locfileid: "44704624"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>언어 학습 경로에 대 한 다국어 지원
 
@@ -26,7 +26,7 @@ ms.locfileid: "44699139"
 - 러시아어 (러시아어)
 - Spanish
 
-SharePoint Online 통신 사이트용 SharePoint Online 다국어 기능에서는 학습 경로에 대 한 다국어 지원을 지원 합니다. 
+SharePoint Online 통신 사이트용 SharePoint Online 다국어 기능에서는 학습 경로에 대 한 다국어 지원을 지원 합니다.  
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-feature"></a>SharePoint Online 다국어 기능에 대해 자세히 알아보세요.
 SharePoint Online 다국어 지원을 사용 하 여 사용자의 기본 언어로 번역 된 페이지, 뉴스 게시물 및 사용자 인터페이스 요소를 제공할 수 있습니다. 시작 하기 전에 다국어 지원이 작동 하는 방식을 잠시 살펴보겠습니다. 
