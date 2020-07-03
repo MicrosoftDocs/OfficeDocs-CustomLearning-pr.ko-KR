@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 학습 경로 업데이트
+title: 다국어 지원에 대 한 학습 경로 업데이트
 ms.date: 05/20/2019
-description: Microsoft 365 학습 경로 업데이트
+description: 다국어 지원에 대 한 학습 경로 업데이트
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: cf058d0b8953f39a8243ffc91ab31fc5941c5674
-ms.sourcegitcommit: 46caa9fa9d129bee107a8c9a7c5bc70a7f9af087
+ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
+ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44699131"
+ms.lasthandoff: 07/02/2020
+ms.locfileid: "45031704"
 ---
-# <a name="update-microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 업데이트
+# <a name="update-learning-pathways-for-multilingual-support"></a>다국어 지원에 대 한 학습 경로 업데이트
 기존 학습 경로 사이트가 있는 경우 다국어 지원을 위해 해당 사이트를 업데이트할 수 있습니다. 다국어 4.0 버전에 대 한 학습 경로를 업데이트 하려면 웹 파트 패키지, customlearning을 SharePoint 테 넌 트 앱 카탈로그에 업로드 합니다. 학습 경로를 업데이트할 때는 다음을 수행 합니다.  
 
 - 이전에 만든 사용자 지정 재생 목록 및 자산은 모두 유지 관리 됩니다.
@@ -41,7 +41,7 @@ ms.locfileid: "44699131"
 - **사이트 언어 추가 또는 제거**에서 언어 이름 입력을 시작 **하거나 언어를 입력**하거나 드롭다운 목록에서 언어를 선택 합니다. 이 단계를 반복 하 여 여러 언어를 추가할 수 있습니다. 언제 든 지이 페이지로 다시 이동 하 여 사이트에서 언어를 추가 하거나 제거할 수 있습니다.
  
 ### <a name="assign-translators"></a>번역기 지정
-학습 경로의 언어 설정을 정의할 때 번역기를 할당할 수 있습니다. 번역자에 게는 외국어 프로필이 설정 되어 있어야 합니다. 외국 언어 프로필에 대 한 자세한 내용은 [다국어 통신 사이트, 페이지 및 뉴스 만들기](https://support.office.com/en-us/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)를 참조 하세요.  
+학습 경로의 언어 설정을 정의할 때 번역기를 할당할 수 있습니다. 번역자에 게는 외국어 프로필이 설정 되어 있어야 합니다. 외국 언어 프로필에 대 한 자세한 내용은 [다국어 통신 사이트, 페이지 및 뉴스 만들기](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)를 참조 하세요.  
 - 지원 되는 언어의 경우에는 **선택을 클릭 하거나 번역기를 입력** 한 다음 번역기를 선택 합니다. 
 
 ## <a name="update-the-learning-pathways-web-part-package"></a>학습 경로 웹 파트 패키지 업데이트
