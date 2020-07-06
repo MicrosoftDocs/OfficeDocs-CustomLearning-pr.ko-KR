@@ -5,15 +5,15 @@ title: 새 학습 경로 다국어 솔루션 구축
 ms.date: 02/10/2019
 description: SharePoint 프로 비전 서비스를 통해 Microsoft 365 학습 경로 사이트 프로 비전
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031714"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038998"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>새 학습 경로 다국어 솔루션 구축
-사용자의 테 넌 트에 이미 프로 비전 된 학습 경로가 없는 조직은 다국어 학습 경로 솔루션을 해당 테 넌 트에 추가할 수 있습니다. 이 옵션을 사용 하면 학습 경로 SharePoint 서식 파일은 9 개의 언어로 번역 되며 최소한의 수정 내용과 함께 사용할 수 있습니다. 
+테 넌 트에 구축 된 학습 경로가 없는 조직에서는 SharePoint 프로 비전 서비스를 사용 하 여 다국어 학습 경로 솔루션을 추가할 수 있습니다. 이 옵션을 사용 하면 학습 경로 SharePoint 서식 파일은 9 개의 언어로 번역 되며 최소한의 수정 내용과 함께 사용할 수 있습니다. 
 
 > [!IMPORTANT]
 > 테 넌 트에 이미 프로 비전 경로가 구축 되어 있는 경우에는 학습 경로의 [업데이트 경로](custom_update_ml.md) 를 따르는 것이 좋습니다. 테 넌 트의 기존 인스턴스에 대 한 학습용 경로를 설치 하는 경우에는 학습 경로 사이트 서식 파일 또는 재생 목록에 대 한 모든 변경 내용이 손실 될 수 있습니다.
@@ -73,12 +73,12 @@ ms.locfileid: "45031714"
 5. 링크를 추가 하 여 공유 메시지에서 [사이트를 탐색](custom_exploresite.md) 하 고 **공유**를 클릭 합니다.
 
 ## <a name="add-translators-to-the-site"></a>사이트에 번역기 추가
-번역자에 게는 사이트의 구성원 이상의 사용 권한이 필요 합니다. 
+사이트에 번역기를 사용 하는 경우 사용 권한을 할당할 수 있습니다. 번역자에 게는 구성원 이상의 사용 권한 이상이 필요 합니다. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>사이트에서 여러 언어를 사용 하기 위한 옵션을 선택 합니다.
 SharePoint 프로 비전 서비스는 9 가지 언어로 학습 경로 사이트를 만듭니다. 다음 권장 사항이 적용 됩니다.
 - 지원 하지 않을 언어를 해제 합니다.
-- 다국어 사이트를 지원 하지 않는 경우에는 다국어 기능을 사용 하지 않도록 설정 합니다. 
+- 다국어 사이트를 지원 하지 않는 경우에는 다국어 기능을 사용 하지 않도록 설정 합니다. 이 항목 뒷부분의 "다국어 지원 해제" 섹션을 참조 하십시오.
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>지원 하지 않을 언어 제거
 기본 영어 외에 하나의 언어만 지원 하도록 선택한 조직의 경우 지원 되지 않는 언어를 제거 하는 것이 좋습니다. 
@@ -102,6 +102,11 @@ SharePoint 프로 비전 서비스는 9 가지 언어로 학습 경로 사이트
 
 ## <a name="turn-off-multilingual-support"></a>다국어 지원 해제
 예를 들어 영어 전용 사이트를 사용 하지 않으려면 다국어 기능을 해제 하는 것이 좋습니다. 
+
+1. 학습 경로 사이트의 페이지 오른쪽 위에서 **설정을** 선택한 다음 **사이트 정보**를 선택 합니다.
+2. 사이트 정보 창 아래쪽에서 **모든 사이트 설정 보기**를 선택 합니다.
+3. **사이트 관리**에서 **언어 설정을**선택 합니다.
+4. **페이지 및 뉴스를 여러 언어로 번역할 수 있도록 설정**아래에서 **켜기를 설정 합니다 .로**이동 합니다. 기본적으로 설정 되어 있어야 합니다.
 - **페이지 및 뉴스를 번역할 수 있도록 설정**에서 **끄기를**선택 합니다. 
 
 ### <a name="add-languages"></a>언어 추가

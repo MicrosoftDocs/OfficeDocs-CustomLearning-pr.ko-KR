@@ -5,12 +5,12 @@ title: 학습 경로 수동 설정
 ms.date: 02/10/2019
 description: 학습 경로 수동 설정
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 42e7aeeff7639f7fe77b12d60371ad6efe67f782
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
+ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037237"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038978"
 ---
 # <a name="learning-pathways-manual-setup"></a>학습 경로 수동 설정
 
@@ -18,7 +18,7 @@ Microsoft 365 학습 경로는 다음 시나리오 중 하나를 지원 해야 �
 
 - 조직에 교육 전용의 설정 된 SharePoint Online 최신 통신 사이트가 있으며, 해당 사이트에 대해 학습 경로를 추가 하려는 경우 이 시나리오에서는 학습 경로 웹 파트가 사이트에 설정 되지 않았습니다.
 
-- 조직의 SharePoint 통신 사이트 중 하나에서 다국어 지원에 대 한 학습 경로를 설치 하려고 합니다. 이 사이트에는 영어가 아닌 기본 언어, 즉 학습 경로에서 지원 되는 언어 중 하나가 포함 됩니다. 다음은 학습 경로에서 지 원하는 언어입니다.
+- 조직의 SharePoint 통신 사이트 중 하나에서 다국어 지원에 대 한 학습 경로를 설치 하려고 합니다. 이 사이트는 영어가 아닌 기본 언어로 제공 되거나 학습 경로에서 지원 되는 언어 중 하나입니다. 다음은 학습 경로에서 지 원하는 언어입니다.
 
 - English
 - 중국어(간체)
@@ -30,23 +30,20 @@ Microsoft 365 학습 경로는 다음 시나리오 중 하나를 지원 해야 �
 - 러시아어 (러시아어)
 - Spanish
 
-학습 경로를 수동으로 설정 하려면 Windows PowerShell 및 SharePoint Online 관리 셸을 사용 하는 경험이 필요 합니다. 다음은 학습 경로의 수동 설정에 대 한 단계입니다. 
+학습 경로를 수동으로 설정 하려면 Windows PowerShell 및 SharePoint Online 관리 셸을 사용 하는 경험이 필요 합니다. 다음은 학습 경로의 수동 설정 단계에 대 한 개요입니다. 
 
 - 모든 필수 구성 요소를 충족 했는지 확인 합니다.
 - 사이트에 대 한 기본 언어 설정을 확인 합니다. 확인 되 면 수동 설치를 계속 합니다. 다른 기본 언어 설정이 필요한 경우에는 새 사이트를 만들어야 합니다. 
 - SharePoint 테 넌 트 앱 카탈로그에 customlearning 파일을 설치 합니다.
 - Microsoft 365 학습 경로 홈 사이트로 작동할 최신 커뮤니케이션 사이트를 프로 비전/식별 합니다.
-- 경로를 익히는 경로가 적절 한 아티팩트를 사용 하 여 테 넌 트를 구성 하는 PowerShell 스크립트를 실행 합니다.
+- 경로 학습 경로가 종속 된 아티팩트를 사용 하 여 테 넌 트를 구성 하는 PowerShell 스크립트를 실행 합니다.
 - CustomLearningAdmin 사이트 페이지로 이동 하 여 사용자 지정 콘텐츠 구성을 초기화 하기 위해 관리 웹 파트를 로드 합니다.
 
-> [!NOTE]
-> 학습 경로를 빠르게 설정 하는 방법에 대 한 자세한 내용은 [프로 비전 Microsoft 365 학습 경로](custom_provision.md)를 참조 하십시오.
-
-## <a name="prerequisites"></a>전제 조건
+## <a name="prerequisites"></a>필수 구성 요소
 학습용 경로 웹 파트를 수동으로 설치 하려면 다음 필수 구성 요소를 충족 해야 합니다. 
 
-- 테 넌 트 전체 앱 카탈로그를 설정 하 고 구성 해야 합니다. [Office 365 테 넌 트 설정을](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) 참조 하 고 앱 카탈로그 사이트 만들기 섹션을 따릅니다. 
-- 테 넌 트 전체 앱 카탈로그가 이미 프로 비전 된 경우이 설치 프로세스를 완료 하기 위해 패키지를 업로드 하는 권한이 있는 계정에 대 한 액세스가 필요 합니다. 일반적으로이 계정에는 SharePoint 관리자 역할이 있습니다. 
+- 테 넌 트 전체 앱 카탈로그를 설정 하 고 구성 해야 합니다. [Office 365 테 넌 트 설정을](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) 참조 하 고 "앱 카탈로그 만들기" 사이트 섹션을 따르세요. 
+- 테 넌 트 전체 앱 카탈로그가 이미 프로 비전 된 경우 패키지를 업로드 하는 데 사용할 수 있는 권한이 있는 계정에 대 한 액세스가 필요 합니다. 일반적으로이 계정에는 SharePoint 관리자 역할이 있습니다. 
 - 해당 역할이 있는 계정이 작동 하지 않으면 SharePoint 관리 센터로 이동 하 여 앱 카탈로그 사이트 모음에 대 한 사이트 모음 관리자를 찾고, 사이트 모음 관리자 중 한 명으로 로그인 하거나, 사이트 모음 관리자에 게 실패 한 SharePoint 관리자 계정을 추가 합니다. 
 - 또한 SharePoint 테 넌 트 관리자 인 계정에도 액세스 해야 합니다.
 
@@ -76,7 +73,7 @@ SharePoint communication site에는 기본 언어가 있습니다. 기본 언어
 3. 필요한 경우 다른 언어를 추가 하 고 **저장**을 클릭 합니다. 
 4. 2 단계를 계속 진행 합니다. 
 
->! 참고 사이트에서 새로 만든 사이트로 사용자 지정 콘텐츠를 마이그레이션해야 하는 경우 [사용자 지정 콘텐츠 마이그레이션을](Migrate custom content)참조 하십시오. 
+>! 참고 사이트에서 새로 만든 사이트로 사용자 지정 콘텐츠를 마이그레이션해야 하는 경우이 문서의 뒷부분에 나오는 "사용자 지정 콘텐츠 마이그레이션" 섹션을 참조 하십시오. 
 
 ## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>2 단계-GitHub에서 웹 파트 패키지 및 설치 스크립트 가져오기
 설치 프로세스의 일부로 Microsoft 365 learning 경로 웹 파트 패키지 및 PowerShell 설치 스크립트가 필요 합니다.
@@ -129,8 +126,9 @@ PowerShell 스크립트를 성공적으로 실행 한 후 사이트로 이동 �
 5. 링크를 추가 하 여 공유 메시지에서 [사이트를 탐색](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) 하 고 **공유**를 클릭 합니다.
 
 ## <a name="migrate-custom-content"></a>사용자 지정 콘텐츠 마이그레이션
-위의 단계를 수행 하 여 학습 경로 사이트를 다시 설정한 후에는 **Customplaylists** 목록 목록과 **customplaylists** 목록의 내용을 이동 해야 합니다. 선택적으로 사용자 지정 자산을 구성 하는 실제 사용자 지정 페이지를 기존 학습 경로 사이트에 두고 이동할 수도 있고,이를 삭제 하는 것도 의도입니다. **Customplaylists** 목록에 있는 모든 항목의 경우에는 **customplaylists** 목록에 있는 목록 항목의 ID가 각 재생 목록 항목의 JSONData 필드에 가려질 수 있기 때문에 작업을 어려울 수도 있습니다. 따라서 **Customplaylists** 목록 목록의 내용을 한 사이트에서 다른 사이트로 이동 하는 것 만으로는 충분 하지 않습니다. 또한 **Customassets** 목록에는 목록 항목의 JSONData 필드에 있는 사용자 지정 자산의 페이지에 대 한 절대 URL이 포함 됩니다. 자산을 이동 하지 않고 사이트의 이름을 바꾸지 않으면 (즉, 자산의 페이지에 대 한 절대 URL을 변경 하는 경우) **Customassets** 남아 있을 수 있습니다. 그러나 항목을 수동으로 수정 해야 합니다. 이러한 유형의 마이그레이션에 대 한 복잡성이 주어 지 면이 전환을 지원 하기 위해 학습 경로 파트너 중 하나를 등록 하는 것이 좋습니다.
+위의 단계를 수행 하 여 학습 경로 사이트를 다시 설정한 후에는 **Customplaylists** 목록 목록과 **customplaylists** 목록의 내용을 이동 해야 합니다. 선택적으로 사용자 지정 자산을 구성 하는 실제 사용자 지정 페이지를 기존 학습 경로 사이트에 두고 이동할 수도 있고,이를 삭제 하는 것도 의도입니다. **Customplaylists** 목록에 있는 모든 항목의 경우에는 **customplaylists** 목록에 있는 목록 항목의 ID가 각 재생 목록 항목의 JSONData 필드에 가려질 수 있기 때문에 작업을 어려울 수도 있습니다. 따라서 **Customplaylists** 목록 목록의 내용을 한 사이트에서 다른 사이트로 이동 하는 것 만으로는 충분 하지 않습니다. 또한 **Customassets** 목록에는 목록 항목의 JSONData 필드에 있는 사용자 지정 자산의 페이지에 대 한 절대 URL이 포함 됩니다. 자산을 이동 하지 않고 사이트의 이름을 바꾸지 않으면 (즉, 자산의 페이지에 대 한 절대 URL을 변경 하는 경우) **Customassets** 남아 있을 수 있습니다. 그러나 항목을 수동으로 수정 해야 합니다. 이러한 유형의 마이그레이션에 대 한 복잡성이 주어 지 면이 전환을 지원 하기 위해 학습 경로 파트너 중 하나를 등록 하는 것이 좋습니다. 
 
 ### <a name="next-steps"></a>다음 단계
-- 조직의 교육 환경 [사용자 지정](custom_overview.md)
+- [사용자 지정 학습 경로](custom_overview.md)를 참조 하세요. 
+- [사이트 번역 페이지](custom_translate_page_ml.md)를 참조 하세요.
 
