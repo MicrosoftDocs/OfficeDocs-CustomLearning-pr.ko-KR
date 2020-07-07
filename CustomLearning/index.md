@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 학습 경로 개요
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Microsoft 365의 학습 경로를 통해 조직에서 Microsoft 365 서비스의 사용 및 채택 속도를 향상 시키는 방법을 알아봅니다. 학습 경로에는 사용자 지정 SharePoint online 웹 파트 및 Microsoft 365 테 넌 트로 쉽게 프로 비전 되는 최신 SharePoint Online communications 교육 사이트가 포함 됩니다.
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141401"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043240"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 
 Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용과 채택을 향상 시키기 위해 설계 된 맞춤형 주문형 학습 솔루션입니다.    
 
 > [!IMPORTANT]
-> 현재 이벤트에 대 한 응답으로, 학습 경로는 조직에서 원격 작업을 사용 하도록 설계 된 재생 목록과 리소스에 중점을 둔 4 월 2020 콘텐츠 업데이트를 제공 합니다. 새로운 작업을 원격으로 재생 목록 집합을 추가 하 고, 특히 팀 회의를 위해 Microsoft 팀 콘텐츠를 크게 업데이트 하 고, 웹 재생 목록에 대 한 새로운 Office 집합을 추가 했습니다. 업데이트의 일부로 관리자를 위한 원격 작업 리소스의 목록도 제공 했습니다. 전체 업데이트 목록은 [Learning 경로 4 월 2020 콘텐츠 업데이트](custom_contentupdates.md)를 참조 하세요.   
+> 이제 고객 의견에 따라 학습 경로가 9 가지 언어로 다국어 지원을 제공 합니다. 학습 경로에 대해 다국어 지원을 사용 하도록 설정 하는 방법에 대 한 자세한 내용과 지침은 다음 항목을 참조 하십시오. 
+>- [학습 경로에 대 한 다국어 지원 개요](custom_overview_ml.md) 
+>- [학습용 경로 설정 옵션](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>주문형, Microsoft의 사용자 지정 교육
 
@@ -31,13 +32,14 @@ Microsoft 365 학습 경로는 다음과 같은 기능을 제공 합니다.
 ## <a name="sharepoint-online-provisioning-service"></a>SharePoint Online 프로 비전 서비스 
 SharePoint Online 프로 비전 서비스에서 학습 경로를 프로 비전 할 수 있습니다. Microsoft 365 학습 경로가 구축 되 면 조직에서는 온라인 교육 콘텐츠에 연결 된 학습 경로 웹 파트와 함께 기본 교육 포털로 설계 된 SharePoint Online 통신 사이트를 가져옵니다. 
 
-![cg-provision-.png](media/cg-provision.png)
+![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>간단한 3 단계
+## <a name="4-easy-steps"></a>간단한 4 단계
 이제 환경에 대 한 학습 경로 환경 만들기를 시작 해 보겠습니다.
-1. [설치 옵션](custom_setupoptions.md) 을 선택 하 고 Microsoft 365 학습 경로를 프로 비전 합니다.  
-2. 사용자 환경에 맞게 학습 경로를 조정 합니다.
-3. [채택 도구](driveadoption.md)를 사용 하 여 사용자와 학습 경로를 공유 합니다.
+1. [학습 경로에 대 한 다국어 지원 개요](custom_overview_ml.md)를 읽으십시오. 
+2. [설치 옵션](custom_setupoptions.md) 을 선택 하 고 Microsoft 365 학습 경로를 프로 비전 합니다.  
+3. 사용자 환경에 맞게 학습 경로를 조정 합니다.
+4. [채택 도구](driveadoption.md)를 사용 하 여 사용자와 학습 경로를 공유 합니다.
 
 ## <a name="feedback-and-support"></a>피드백 및 지원
 

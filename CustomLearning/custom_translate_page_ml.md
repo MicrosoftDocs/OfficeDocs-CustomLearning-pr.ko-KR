@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: 사이트 페이지 번역
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: 사이트 페이지 번역
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038988"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048116"
 ---
 # <a name="translate-site-pages"></a>사이트 페이지 번역
 학습 경로 사이트 번역을 시작 하기 전에 다국어 기능이 학습 경로에서 작동 하는 방식에 대 한 몇 가지 주요 개념을 이해 하는 것이 중요 합니다. 
 - 사이트 정보-탐색, 로고 및 사이트 이름 번역을 사용 하려면 사용자의 언어 프로필에서 사이트를 보고 번역 해야 합니다.  
 - 사용자의 언어 프로필로 학습 경로 웹 파트를 확인 하 여 영어가 아닌 언어로 표시 해야 합니다. 웹 파트 및 Microsoft 제공 콘텐츠가 이미 번역 되었습니다. 언어 프로필에 대 한 자세한 내용은 [개인 언어 및 국가별 설정 변경을](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)참조 하세요.
-- 학습 경로를 설정 하는 방법에 따라 번역 된 페이지를 사용할 수 있는지 여부가 결정 됩니다. SharePoint 프로 비전 서비스를 사용 하 여 프로 비전 된 새 사이트는 사용 가능한 9 개 언어의 페이지를 번역 합니다. 사용자가 만든 사이트 또는 사이트를 업데이트 하면 수동 번역을 수행 해야 합니다. [다국어 학습 경로의 설치 옵션을](custom_setupoptions_ml.md)참조 하세요.
+- 학습 경로를 설정 하는 방법에 따라 번역 된 페이지를 사용할 수 있는지 여부가 결정 됩니다. Microsoft 365 look book 서비스를 사용 하 여 프로 비전 된 새 사이트는 사용 가능한 9 가지 언어로 번역 한 페이지를 변환 합니다. 사용자가 만든 사이트 또는 사이트를 업데이트 하면 수동 번역을 수행 해야 합니다. [다국어 학습 경로의 설치 옵션을](custom_setupoptions_ml.md)참조 하세요.
 - 정보 교환 경로에 대 한 다국어 지원은 통신 사이트용 SharePoint Online 다국어 기능을 통해 사용 하도록 설정 됩니다. SharePoint Online 다국어 기능에 대 한 자세한 내용은 [다국어 통신 사이트, 페이지 및 뉴스 만들기](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)를 참조 하세요. 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>새로 프로 비전 된 사이트 사용
-SharePoint 프로 비전 서비스에서 새 학습 경로 사이트를 프로 비전 한 경우 번역 된 페이지를 이미 사용할 수 있습니다. 기본적으로 사이트에서는 다음과 같은 페이지를 제공 합니다.
+Microsoft 365 look book 서비스에서 새 학습 경로 사이트를 프로 비전 한 경우 번역 된 페이지를 이미 사용할 수 있습니다. 기본적으로 사이트에서는 다음과 같은 페이지를 제공 합니다.
 
 - Home.aspx
 - Start-with-Six-Simple-Steps .aspx

@@ -1,18 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 학습 경로 수동 설정
+title: Ml에 대 한 학습 경로 수동 설정
 ms.date: 02/10/2019
 description: 학습 경로 수동 설정
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038978"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043280"
 ---
-# <a name="learning-pathways-manual-setup"></a>학습 경로 수동 설정
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>다국어를 위한 학습 경로 수동 설정
 
 Microsoft 365 학습 경로는 다음 시나리오 중 하나를 지원 해야 하는 조직에 대 한 수동 설치를 제공 합니다.
 

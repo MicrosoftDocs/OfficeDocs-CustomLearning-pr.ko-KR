@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: 학습 경로 기능 업데이트
 ms.date: 10/20/2019
 description: 학습 경로 기능 업데이트
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141361"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048096"
 ---
-# <a name="learning-pathways-feature-updates"></a>학습 경로 기능 업데이트
-학습 경로 팀은 고객 의견을 듣고 필요한 기능을 제공 하는 데 도움을 줍니다. 다음은 Q2 2020에서 계획 된 기능에 대 한 업데이트를 제공 합니다. 
+# <a name="july-2020-version-40-feature-updates"></a>2020 년 7 월 버전 4.0 기능 업데이트 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>Q2 2020에 대 한 예정 된 기능 업데이트
-학습 경로에 대 한 다국어 지원은 2020의 2 사분기에 출시 될 예정입니다. 다국어 지원은 "최신 SharePoint 용 Multiligual 페이지 게시" 기능에 종속 되며, SharePoint 다국어 지원에 대 한 일반적인 가용성과 동시에 사용할 수 있습니다. 자세한 내용은 [Microsoft 365 로드맵](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217)를 참조 하세요.  
-  
-다음 언어는 학습 경로에 대해 지원 됩니다.   
+Microsoft 365 learning 경로 버전 4.0에 다음과 같은 새로운 기능이 추가 되었습니다. 
 
+## <a name="multilingual-support-for-learning-pathways"></a>언어 학습 경로에 대 한 다국어 지원 
+이제 9 가지 언어로 지원 되는 학습 경로에 대 한 다국어 지원을 사용할 수 있습니다.  
+- English     
 - 중국어(간체) 
-- 프랑스어  
+- 프랑스어 
 - 독일어 
 - 이탈리아어(이탈리아) 
-- 일본어 (일본)  
+- 일본어 (일본) 
 - 포르투갈어 (브라질) 
-- 러시아어 (러시아어)  
-- 스페인어 
+- 러시아어 (러시아어) 
+- Spanish 
+
+자세한 내용은 [Learning 경로 다국어 개요](custom_overview.md)를 참조 하세요. 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>학습 경로 사용자 지정 하위 범주에 대 한 이미지 선택 
+이제 학습 경로에서는 사용자 지정 재생 목록 및 하위 범주에 대 한 사용 하기 쉬운 이미지 선택기를 제공 합니다.  이전의 버전에서는 하위 범주를 제외 하 고 재생 목록의 이미지를 변경할 수 있었습니다.  
+
+자세한 내용은 다음을 참조하세요.
+- [사용자 지정 재생 목록을 만듭니다](custom_createnewplaylist.md). 
+- [하위 범주 만들기](custom_createnewcat.md)
 
 > [!NOTE]
 > 지원 되는 학습 경로에 대 한 여러 언어 지원 릴리스에는 네덜란드어 언어 지원이 포함 되지 않습니다. 나중에 새로운 언어 옵션을 계속 평가할 예정입니다.

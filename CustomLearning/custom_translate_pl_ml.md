@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: 학습 경로 사용자 지정 재생 목록 번역
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: 학습 경로 사용자 지정 재생 목록 번역
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039008"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048136"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>학습 경로 사용자 지정 재생 목록 번역
 학습 경로를 사용 하는 경우 사용자 지정 재생 목록을 사용 하는 방법은 학습 경로를 설정 하는 방법에 따라 달라 집니다.  
@@ -137,5 +135,5 @@ Microsoft에서 제공 하는 재생 목록의 모든 자산은 편집할 수 �
 3. 페이지 번역을 수행한 다음 **게시**를 클릭 합니다.   
 
 ## <a name="for-more-information"></a>자세한 내용
-- 학습 경로를 사용자 지정 하는 방법에 대 한 자세한 내용은 [Customize Learning 경로](custom_overview.md)를 참조 하십시오.  
+- 학습 경로를 사용자 지정 하는 방법에 대 한 자세한 내용은 [Customize Learning 경로](custom_overview.md)를 참조 하십시오. 
 
