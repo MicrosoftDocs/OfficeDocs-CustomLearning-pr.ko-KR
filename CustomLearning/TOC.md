@@ -1,12 +1,18 @@
-# [시작](index.md)
-## [Microsoft 365 학습 경로 설정 옵션](custom_setupoptions.md)
-## [Microsoft 365 학습 경로 프로비전](custom_provision.md)
+# [시작](index.md)  
+## [학습 경로 옵션 설정](custom_setupoptions.md)
+## [학습 경로 프로비전](custom_provision.md)
+## [학습 경로 업데이트](custom_update.md)
+## [수동 설정](custom_manualsetup.md)
 ## [Microsoft 365 학습 경로 살펴보기](custom_exploresite.md)
-## [독립 실행형 웹 파트 설정](custom_manualsetup.md)
 # 새로운 기능 
 ## [콘텐츠 업데이트](custom_contentupdates.md) 
 ## [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)
 ## [기능 업데이트](custom_featureupdates.md)
+# 다국어 지원
+## [학습 경로에 대해 다국어 지원](custom_overview_ml.md)
+## [사이트 페이지 번역](custom_translate_page_ml.md)
+## [학습 경로 사용자 지정 재생 목록 번역](custom_translate_pl_ml.md)
+## [사이트 이름, 탐색 및 바닥글 번역](custom_sitenamenav_ml.md)
 # [관리자 성공 센터](custom_successcenter.md)
 ## 학습 콘텐츠 계획 
 ### [학습 콘텐츠 계획](custom_plancontent.md)
