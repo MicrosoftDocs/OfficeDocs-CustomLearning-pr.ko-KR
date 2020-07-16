@@ -4,11 +4,12 @@ ms.author: pkrebs
 title: 새 학습 경로 솔루션 프로 비전
 ms.date: 02/10/2019
 description: Microsoft 365 look book 서비스를 사용 하 여 Microsoft 365 학습 경로 사이트 프로 비전
-ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
+ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048126"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146539"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>새 학습 경로 솔루션 프로 비전 
 테 넌 트에 프로 비전 된 학습 경로가 없는 조직에서는 SharePoint 보기 책 서비스를 사용 하 여 다국어 학습 경로 솔루션을 추가할 수 있습니다. 이 옵션을 사용 하면 학습 경로 SharePoint 서식 파일은 9 개의 언어로 번역 되며 최소한의 수정 내용과 함께 사용할 수 있습니다.
@@ -39,6 +40,8 @@ Book 주소록 서비스를 사용 하 여 Microsoft 365 학습 경로를 설정
 1. [Microsoft 365 학습 경로 솔루션 페이지로](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)이동 합니다.
 2. **테 넌 트에 추가를**클릭 합니다. 테 넌 트에 로그인 하지 않은 경우 프로 비전 서비스가 테 넌 트 관리자 자격 증명을 요청 합니다. 
 3. 요청 된 사용 권한 대화 상자에서 **조직 대신 동의** 를 선택 하 고 **수락**을 선택 합니다.
+
+![앱 catologue 동의 이미지](media/app-catologue-consent.png)
 
 이 보기 서비스에는 테 넌 트 앱 카탈로그를 만들고 해당 응용 프로그램을 테 넌 트 앱 카탈로그에 설치 하 고 사이트 서식 파일을 프로 비전 하기 위해 이러한 권한이 필요 합니다. 테 넌 트에는 전체적으로 영향을 주지 않습니다. 이러한 사용 권한은 솔루션 설치의 목적에 명시적으로 사용 됩니다. 설치를 계속 하려면 이러한 사용 권한을 수락 해야 합니다.
 
