@@ -6,6 +6,7 @@ ms.date: 7/6/2020
 description: Microsoft 365의 학습 경로를 통해 조직에서 Microsoft 365 서비스의 사용 및 채택 속도를 향상 시키는 방법을 알아봅니다. 학습 경로에는 사용자 지정 SharePoint online 웹 파트 및 Microsoft 365 테 넌 트로 쉽게 프로 비전 되는 최신 SharePoint Online communications 교육 사이트가 포함 됩니다.
 ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043240"

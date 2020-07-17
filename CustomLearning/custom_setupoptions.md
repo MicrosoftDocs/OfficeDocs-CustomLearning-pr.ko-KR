@@ -6,6 +6,7 @@ ms.date: 07/16/2020
 description: 학습용 경로 설정 옵션
 ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
 ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45043220"
