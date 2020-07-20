@@ -7,7 +7,7 @@ description: 다국어 지원에 대 한 학습 경로 업데이트
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
 ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/02/2020
 ms.locfileid: "45031704"

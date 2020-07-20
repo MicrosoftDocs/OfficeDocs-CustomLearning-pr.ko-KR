@@ -7,7 +7,7 @@ description: SharePoint 프로 비전 서비스를 통해 Microsoft 365 학습 �
 ROBOTS: NOINDEX, NOFOLLOW
 ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
 ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.translationtype: Auto
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/05/2020
 ms.locfileid: "45038998"

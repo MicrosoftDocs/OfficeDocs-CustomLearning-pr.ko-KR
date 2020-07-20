@@ -6,6 +6,7 @@ ms.date: 07/06/2020
 description: 학습 경로 사용자 지정 재생 목록 번역
 ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
 ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.translationtype: Auto
 ms.contentlocale: ko-KR
 ms.lasthandoff: 07/06/2020
 ms.locfileid: "45048136"
