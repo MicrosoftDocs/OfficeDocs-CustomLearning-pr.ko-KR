@@ -4,18 +4,18 @@ ms.author: pkrebs
 title: 학습 경로 기능 업데이트
 ms.date: 10/20/2019
 description: 학습 경로 기능 업데이트
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048096"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199338"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>2020 년 7 월 버전 4.0 기능 업데이트 
 
 Microsoft 365 learning 경로 버전 4.0에 다음과 같은 새로운 기능이 추가 되었습니다. 
 
-## <a name="multilingual-support-for-learning-pathways"></a>언어 학습 경로에 대 한 다국어 지원 
+## <a name="multilingual-support-for-learning-pathways"></a>학습 경로에 대해 다국어 지원 
 이제 9 가지 언어로 지원 되는 학습 경로에 대 한 다국어 지원을 사용할 수 있습니다.  
 - English     
 - 중국어(간체) 
@@ -28,6 +28,12 @@ Microsoft 365 learning 경로 버전 4.0에 다음과 같은 새로운 기능이
 - Spanish 
 
 자세한 내용은 [Learning 경로 다국어 개요](custom_overview.md)를 참조 하세요. 
+
+## <a name="sort-subcategories-and-playlists"></a>하위 범주 및 플레이리스트 정렬
+
+이제 학습용 경로에서 하위 범주 및 재생 목록을 정렬할 수 있습니다. 예를 들어 하위 범주에 사용자 지정 재생 목록을 추가 하는 경우에는 사용자 지정 재생 목록이 정렬 순서에서 먼저 나타나도록 재생 목록을 정렬할 수 있습니다. 
+
+자세한 내용은 하위 [범주 및 재생 목록 정렬](custom_sortsubplay.md)를 참조 하세요. 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>학습 경로 사용자 지정 하위 범주에 대 한 이미지 선택 
 이제 학습 경로에서는 사용자 지정 재생 목록 및 하위 범주에 대 한 사용 하기 쉬운 이미지 선택기를 제공 합니다.  이전의 버전에서는 하위 범주를 제외 하 고 재생 목록의 이미지를 변경할 수 있었습니다.  
