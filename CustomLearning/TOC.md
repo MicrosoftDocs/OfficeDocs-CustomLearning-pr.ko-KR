@@ -32,6 +32,7 @@
 ### [사용자 지정 재생 목록에 자산 추가](custom_addassets.md)
 ### [하위 범주 만들기](custom_createnewcat.md)
 ### [Microsoft 365 학습 경로 웹 파트 추가 및 편집](custom_addwebpart.md)
+### [하위 범주 및 플레이리스트 정렬](custom_sortsubplay.md)
 ### [학습 경로 콘텐츠 링크](custom_linking.md)
 ### [학습 경로 콘텐츠 검색](custom_search.md)
 ## [도입 주도](driveadoption.md)
