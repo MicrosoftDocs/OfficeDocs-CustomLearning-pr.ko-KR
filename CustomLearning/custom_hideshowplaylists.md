@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 재생 목록 숨기기 및 표시
 ms.date: 10/27/2019
 description: 재생 목록 숨기기 및 표시
-ms.openlocfilehash: f5afc66220a936d2346c3a81b33545a46f7672f5
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886665"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234330"
 ---
 # <a name="hide-and-show-playlists"></a>재생 목록 숨기기 및 표시
 
@@ -24,12 +25,12 @@ ms.locfileid: "37886665"
 2. 학습 경로 웹 파트에서 **관리** 아이콘을 선택 합니다. 
 3. **관리** 페이지의 왼쪽 창에서 하위 범주를 선택한 다음 재생 목록에서 eyeball를 선택 하 여 숨깁니다. 이 예에서는 **Microsoft 팀** 하위 범주를 클릭 하 고 * * * * 채팅, 통화 및 모임 시작/재생 목록을 숨깁니다.  
 
-![cg-hideplaylist-.png](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>재생 목록이 숨겨져 있는지 확인
 - 재생 목록이 숨겨져 있는지 확인 하려면 **시작 하기 Office 365** 페이지와 함께 브라우저 탭을 선택한 다음 페이지를 새로 고칩니다. Microsoft 팀을 선택 합니다. 이제 **시작 채팅, 통화 및 모임** 하위 범주가 숨겨져 있습니다. 
 
-![cg-hideplaylistrefresh-.png](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>재생 목록 숨기기 취소
 

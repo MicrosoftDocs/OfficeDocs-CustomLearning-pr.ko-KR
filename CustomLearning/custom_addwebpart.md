@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Microsoft 365 learning 경로 웹 파트 추가 및 편집
 ms.date: 02/17/2019
 description: SharePoint 페이지에 Microsoft 365 학습 경로 웹 파트 추가
-ms.openlocfilehash: 1b3f4c15410ed9d528aad35198f02426a2de6fa2
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 35b07940f0f71dd3c8398412c755d514a951b6d1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248114"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234660"
 ---
 # <a name="add-and-edit-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 learning 경로 웹 파트 추가 및 편집
 
@@ -17,16 +18,16 @@ Microsoft 365 학습 경로를 사용 하면 Microsoft 365 학습 경로 웹 파
 
 1.  SharePoint 기어 아이콘을 클릭 한 다음 **페이지 추가**를 클릭 합니다.
 2.  페이지 왼쪽에서 **새 섹션 (+) 추가** 를 클릭 한 다음 **한 열**을 클릭 합니다.
-3.  을 **+** 클릭 한 다음 **Microsoft 365 학습용 경로** 웹 파트를 선택 합니다. 
+3.  **+** 을 클릭 한 다음 **Microsoft 365 학습용 경로** 웹 파트를 선택 합니다. 
 
-![cg-webpartadd-.png](media/cg-webpartadd.png)
+![cg-webpartadd.png](media/cg-webpartadd.png)
 
 ## <a name="edit-the-custom-learning-web-part"></a>사용자 지정 학습 웹 파트 편집
 Microsoft 365 학습 경로 웹 파트를 편집 하 여 사용 가능한 모든 사용자 지정 학습 콘텐츠 또는 특정 범주, 하위 범주, 재생 목록 또는 자산을 표시할 수 있습니다. 
 
 1.  **웹 파트 편집**을 클릭 합니다.
 
-![cg-webpartedit-.png](media/cg-webpartedit.png)
+![cg-webpartedit.png](media/cg-webpartedit.png)
 
 2. 사용자 지정 학습 속성 창에서 다음에 대 한 웹 파트를 필터링 합니다. 
 
@@ -36,7 +37,7 @@ Microsoft 365 학습 경로 웹 파트를 편집 하 여 사용 가능한 모든
 
 3. 페이지가 다음과 같은 모양으로 표시 됩니다. 
 
-![cg-webpartfilter-.png](media/cg-webpartfilter.png)
+![cg-webpartfilter.png](media/cg-webpartfilter.png)
 
 ## <a name="add-a-title-and-publish-the-page"></a>제목 추가 및 페이지 게시
 1. 페이지의 제목 영역에 "자신만의 환경 만들기"를 입력 합니다.

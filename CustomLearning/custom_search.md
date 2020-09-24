@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 검색
 ms.date: 02/10/2019
 description: Microsoft 365 학습 경로에서 검색
-ms.openlocfilehash: d6675e1df06a27813c4d83e1a95d29aa135596a2
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 7e6a623ed26caff97aff7d2e8fc913a64e1d88b2
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247710"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234030"
 ---
 # <a name="search-for-microsoft-365-learning-pathways-content"></a>Microsoft 365 학습 경로 콘텐츠 검색
 
@@ -20,5 +21,5 @@ Microsoft 365 학습 경로는 하위 범주, 재생 목록 또는 자산을 기
 
 - **검색** 아이콘을 클릭 하 고 검색 구를 입력 합니다. 
 
-![cg-search-.png](media/cg-search.png)
+![cg-search.png](media/cg-search.png)
 

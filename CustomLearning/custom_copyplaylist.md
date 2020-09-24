@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 재생 목록 복사
 ms.date: 02/18/2019
 description: 재생 목록을 복사 하는 방법
-ms.openlocfilehash: 0dce25a5ce9922d9a6a534144b29fc5b7ae90da6
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: f97b2e45f60a9d26f715f80ab29ae754b4dd0e1f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956532"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234540"
 ---
 # <a name="copy-a-playlist"></a>재생 목록 복사
 조직에서는 조직을 통해 만든 자산을 제거 하거나 교체 하 여 Microsoft에서 제공 하는 재생 목록을 수정 해야 하는 경우가 많습니다. 예를 들어 처음에 여섯 가지 간단한 단계 재생 목록에서 단계를 제거할 수 있습니다. 이제 학습 경로 복사 재생 목록 기능을 사용 하 여 6 개의 간단한 단계 재생 목록을 쉽게 복사 하 고 단순히 자산을 제거 하거나 새 자산을 추가할 수 있습니다. 
@@ -21,7 +22,7 @@ ms.locfileid: "37956532"
 3. **1 일**에는 **6 가지 간단한 단계-Office 365 시작** 목록을 클릭 한 다음 **재생 목록 복사**를 클릭 합니다. 
 4. **세부 정보 편집**을 클릭 하 고 다음 예제와 같이 **제목** 및 **설명** 필드에 입력 한 다음 **세부 정보 저장**을 클릭 합니다.  
  
-![cg-copyplaylist5steps-.png](media/cg-copyplaylist5steps.png)
+![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
 
 ## <a name="add-or-remove-assets-from-a-playlist"></a>재생 목록에서 에셋 추가 또는 제거
 사용자 지정 재생 목록을 사용 하 여 다음을 수행할 수 있습니다.

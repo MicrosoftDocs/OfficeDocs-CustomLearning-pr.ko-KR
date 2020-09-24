@@ -1,11 +1,17 @@
 ---
-제목: ''
-ms.openlocfilehash: a866c3de0dee75812bd590252d68f769727ad059
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: 챔피언 프로그램 모범 사례
+description: 드라이브 채택 이유
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fa20a40737159f97160526f61e73734923b5060d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055318"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233340"
 ---
 # <a name="why-put-effort-into-driving-adoption"></a>추진에 대 한 노력을 두는 이유  
 
@@ -17,7 +23,7 @@ ms.locfileid: "32055318"
 
 이 비디오를 시청 하 여 사용자 채택에 투자할 이유를 파악할 수 있습니다.  
 
-**채택 & 수용**: [Karuana gatimu](https://linkedin.com/in/karuanagatimu), [office 365 Champions program](https://aka.ms/O365Champions) 및 [Darryl Webster](https://webster.net.nz/), Microsoft MVP 및 공동 작업 주제별 전문가를 위한 microsoft 팀 & office 365의 도입에 대해 논의 합니다. 
+**채택 &** 도입: microsoft 팀 & office 365에서 Office [365 Champions 프로그램](https://aka.ms/O365Champions) 및 [Darryl Webster](https://webster.net.nz/), Microsoft MVP 및 공동 작업 주제 전문가와 [Karuana](https://linkedin.com/in/karuanagatimu)를 사용 하는 방법에 대해 설명 합니다. 
 
 > [!VIDEO https://www.youtube.com/embed/c-j5oF2Kwzk]
 

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 재생 목록에 에셋 추가
 ms.date: 02/17/2019
 description: 학습용 경로 재생 목록에 새 자산 및 기존 에셋 추가
-ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247643"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234690"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>사용자 지정 재생 목록에 에셋 추가
 
@@ -35,14 +36,14 @@ ms.locfileid: "34247643"
 2. 재생 목록에 새 자산을 추가 하려면 **새 자산**을 클릭 합니다. 
 3. 제목을 입력 합니다. 다음은 "재생 목록에 자산 추가"를 입력 하 고 **자산 페이지 만들기**를 클릭 하는 예제입니다.
 
-![cg-addassetcreatenewpage-.png](media/cg-addassetcreatenewpage.png)
+![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
 4. **페이지 열기**를 클릭 합니다.
 5. **편집** 아이콘을 클릭 한 다음 제목 영역에서 **웹 파트 편집** 을 클릭 합니다.
 6. **레이아웃**에서 **일반**을 클릭 합니다. 
 7. 새 1 개 열 섹션을 추가한 후 다음 예제와 같이 페이지에 예제 텍스트를 추가 합니다. 
 
-![cg-addassetcreatenewpageedit-.png](media/cg-addassetcreatenewpageedit.png)
+![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. **게시**를 클릭합니다.
 8. **사용자 지정 학습 관리** 페이지로 돌아갑니다. 
@@ -55,11 +56,11 @@ ms.locfileid: "34247643"
 2. 재생 목록에 새 자산을 추가 하려면 **새 자산**을 클릭 합니다. 
 3. 제목을 입력 합니다. 이 예에서는 "사용자 지정 재생 목록 소개"를 입력 한 다음 **URL 입력**을 클릭 합니다. 
 
-![cg-newplaylistasseturl-.png](media/cg-newplaylistasseturl.png)
+![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
-4. 이전에 [사용자 지정 재생 목록에 대 한 sharepoint 페이지 만들기](custom_createnewpage.md) 섹션에서 만든 sharepoint 페이지의 URL을 입력 하 고 다음 그림과 같이 필드의 나머지 부분을 채웁니다.
+4. 이전에 [사용자 지정 재생 목록에 대 한 sharepoint 페이지 만들기 ](custom_createnewpage.md) 섹션에서 만든 sharepoint 페이지의 URL을 입력 하 고 다음 그림과 같이 필드의 나머지 부분을 채웁니다.
 
-![cg-newplaylistassetdetails-.png](media/cg-newplaylistassetdetails.png)
+![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
 
 5. **자산 저장**을 클릭 합니다. 
 
@@ -69,12 +70,12 @@ ms.locfileid: "34247643"
 
 - **검색 상자에** 검색 구를 입력 한 다음 검색 결과에서 자산을 선택 합니다. 이 예제에서 "Excel 이란?"를 입력 합니다. Excel 소개 항목을 재생 목록에 추가 합니다.
 
-![cg-existplaylistassetsearch-.png](media/cg-existplaylistassetsearch.png)
+![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>에셋 편집, 이동 및 삭제
 직접 만든 사용자 지정 자산을 편집할 수는 있지만 Microsoft의 자산이 아닙니다. 그러나 재생 목록에서 모든 자산을 제거 하 고 주문 자산을 변경할 수는 있습니다. 
 
-![cg-playlistassetedit-.png](media/cg-playlistassetedit.png)
+![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>자산 편집
 - 자산의 편집 단추를 클릭 하 고 자산을 수정한 다음 자산 저장을 클릭 합니다. 
@@ -93,4 +94,4 @@ ms.locfileid: "34247643"
 3. 페이지를 새로 고친 다음 **시작 하기**전에 **첫 일** 을 클릭 합니다.
 4. 작업의 첫 번째 재생 목록을 보려면 **학습용 경로 시작 키트** 를 클릭 합니다. 
 
-![cg-addassetcheckwork-.png](media/cg-addassetcheckwork.png)
+![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

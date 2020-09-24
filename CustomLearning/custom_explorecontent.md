@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 사이트 및 기본 콘텐츠 탐색
 ms.date: 02/10/2019
 description: 학습 경로 사이트 및 기본 콘텐츠 살펴보기
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.service: sharepoint online
+ms.openlocfilehash: 65c4eba8e0f1925c1512b330efbbd2dc5a970ab7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726819"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234490"
 ---
 # <a name="explore-the-learning-pathways-site"></a>학습 경로 사이트 살펴보기
 
@@ -17,11 +18,11 @@ ms.locfileid: "37726819"
 
 ## <a name="sign-in-to-office-365"></a>Office 365에 로그인 합니다. 
 
-1.  웹 브라우저를 열고 office.com 또는 조직의 로그인 위치로 이동 합니다. 
-2.  사용자 이름 및 암호를 사용 하 여 로그인 합니다.
+1.  웹 브라우저를 열고 office.com 또는 조직의 로그인 위치로 이동합니다. 
+2.  사용자 이름 및 암호로 로그인합니다.
 3.  테 넌 트 관리자가 제공한 URL을 사용 하 여 사이트 위치로 이동 하거나 Office 365 홈 페이지에서 SharePoint를 선택한 후 사이트를 선택 합니다. 
 
-![cg-introducing-.png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="explore-the-learning-pathways-site"></a>학습 경로 사이트 살펴보기
 
@@ -35,7 +36,7 @@ ms.locfileid: "37726819"
 2.  **편집** 단추를 클릭합니다.
 3.  도움말 옵션 이미지를 가리킨 다음 **웹 파트 편집**을 클릭 합니다.
 
-![cg-edithelp-.png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 사이트 페이지를 사용자 정의 하는 방법에 대 한 자세한 내용은 [사이트 사용자 지정](custom_edithelp.md)을 참조 하십시오.
 
@@ -45,7 +46,7 @@ Microsoft 365 교육 페이지에서는 학습 경로에 사용할 수 있는 �
 1. 페이지 아래로 스크롤하여 모든 범주 및 하위 범주를 확인 합니다.
 2. 타이어를 비트 단위로 시작 합니다. 몇 가지 하위 범주를 클릭 한 후 몇 가지 재생 목록을 클릭 하 여 학습용 경로 콘텐츠를 구성 하는 방법을 알아봅니다. 
 
-![cg-gotoall-.png](media/cg-gotoall.png)
+![cg-gotoall.png](media/cg-gotoall.png)
 
 학습 경로 웹 파트를 사용자 지정 하는 방법에 대 한 자세한 내용은 [학습 환경 사용자 지정](custom_overview.md)을 참조 하십시오.
 

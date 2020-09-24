@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 사이트 및 기본 콘텐츠 탐색
 ms.date: 02/10/2019
 description: 학습 경로 사이트 및 기본 콘텐츠 살펴보기
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956545"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234450"
 ---
 # <a name="explore-the-learning-pathways-site"></a>학습 경로 사이트 살펴보기
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956545"
 
 ## <a name="sign-in-to-office-365"></a>Office 365에 로그인 합니다. 
 
-1.  웹 브라우저를 열고 office.com 또는 조직의 로그인 위치로 이동 합니다. 
-2.  사용자 이름 및 암호를 사용 하 여 로그인 합니다.
+1.  웹 브라우저를 열고 office.com 또는 조직의 로그인 위치로 이동합니다. 
+2.  사용자 이름 및 암호로 로그인합니다.
 3.  테 넌 트 관리자가 제공한 URL을 사용 하 여 사이트 위치로 이동 하거나 Office 365 홈 페이지에서 SharePoint를 선택한 후 사이트를 선택 합니다. 
 
-![cg-exploresite-.png](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 살펴보기
 

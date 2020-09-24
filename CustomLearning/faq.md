@@ -4,14 +4,15 @@ ms.author: karuanag
 title: Microsoft 365 학습 경로에 대 한 질문과 대답
 ms.date: 02/10/2019
 description: Microsoft 365 학습 경로에 대 한 질문과 대답 정보
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141371"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233540"
 ---
-# <a name="frequently-asked-questions"></a>질문과 대답
+# <a name="frequently-asked-questions"></a>FAQ
 
 ### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>최근에 Office 365에 대 한 사용자 지정 학습을 Microsoft 365 학습 경로 라고 하는 블로그 게시물을 보았습니다. 이름 바꾸기 작업의 일부로 솔루션에 추가 되는 다른 변경 내용이 있습니까? 조직에서 솔루션을 업데이트 해야 하나요?
 
@@ -19,7 +20,7 @@ Microsoft 365 learning 경로 릴리스는 Microsoft 365 브랜딩에 맞게 솔
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>내 테 넌 트 환경에 Microsoft 365 학습 경로를 설치 하기 위한 요구 사항은 무엇 인가요?
 
-- SharePoint Online 및 통신 사이트를 사용 하도록 설정 합니다.
+- SharePoint Online 및 커뮤니케이션 사이트를 사용할 수 있습니다.
 - CLO365을 프로 비전 할 개인은 설치 대상 테 넌 트의 테 넌 트 관리자 여야 합니다.
 - SharePoint 관리 센터의 ' 앱 ' 옵션 내에서 테 넌 트 ' 앱 카탈로그 '를 사용할 수 있어야 합니다.
 - 새 앱 카탈로그를 만든 경우 앱 카탈로그를 완전히 프로 비전 하려면 대기 시간이 30 분 이상 이어야 합니다. 테 넌 트 앱 카탈로그를 만든 후 Microsoft 365 학습 경로를 직접 프로 비전 하려고 하면 학습 경로 솔루션의 프로 비전 오류가 발생 합니다. 
@@ -53,7 +54,7 @@ Microsoft 365 학습 경로는 현재 영어로만 제공 됩니다. 자동 종�
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>테 넌 트 환경에 사이트를 설치 하는 데 소요 되는 시간이 얼마나 걸립니까?
 
-설치 테스트를 기반으로 15 분 미만 시간이 소요 됩니다. 여기에는 요구 사항에 맞게 사이트를 사용자 지정 하는 데 필요한 시간이 포함 되지 않습니다.
+설치 테스트를 기반으로 15 분 미만 시간이 소요 됩니다. 여기에는 요구 사항에 맞게 사이트를 사용자 지정하는 데 필요한 시간은 포함되지 않습니다.
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 학습 경로는 오픈 소스 솔루션 이며 의미는 무엇 인가요?
 

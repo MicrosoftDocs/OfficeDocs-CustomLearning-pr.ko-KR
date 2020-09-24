@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 학습 경로 콘텐츠 계획
 ms.date: 10/20/2019
 description: Microsoft 365 learning 경로 콘텐츠 업데이트
-ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: e3df63d098046311ffb5aa4220cbcaf3a9394572
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956665"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234110"
 ---
 # <a name="plan-your-learning-pathways-content"></a>학습 경로 콘텐츠 계획
 Microsoft 365 학습 경로를 배포 하기 전에 사용자가 사용할 수 있는 학습 콘텐츠, 도구 및 기능을 조사 하는 데 약간의 시간이 소요 되는 것이 좋습니다. 우리의 목표는 조직의 사용자가 가능한 한 신속 하 고 효율적으로 생산성을 높일 수 있도록 하는 데 도움이 됩니다. 학습 경로를 계획할 때는 다음 3 단계 프로세스를 수행 하는 것이 좋습니다.
@@ -24,7 +25,7 @@ Microsoft 365 학습 경로에 대 한 콘텐츠 요금제를 만들기 전에 �
 ### <a name="review-the-learning-pathways-sharepoint-site"></a>학습 경로 SharePoint 사이트 검토
 Microsoft 365 learning 경로 솔루션은 온라인 카탈로그에 연결 된 웹 파트와 함께 SharePoint 통신 사이트를 제공 합니다. 사이트 이름, 로고, 페이지, 메뉴 항목, 테마 및 타일을 포함 하 여 SharePoint 사이트를 완전히 사용자 지정할 수 있습니다. 언제 든 지 타일 및 메뉴 항목을 클릭 하 여 학습 경로 사이트에서 사용할 수 있는 기능을 확인할 수 있습니다.
 
-![cg-introducing-.png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ### <a name="review-the-content-from-the-online-catalog-with-the-web-part"></a>웹 파트를 포함 하는 온라인 카탈로그의 콘텐츠 검토
 기본적으로 웹 파트는 SharePoint 통신 사이트의 여러 페이지에 추가 됩니다. 전체 콘텐츠 집합은 Microsoft 365 교육 페이지에서 제공 됩니다. Microsoft 365 교육 페이지에서는 학습 경로에 사용할 수 있는 모든 학습을 표시 하도록 구성 된 학습 경로 웹 파트를 호스팅합니다. 
@@ -34,7 +35,7 @@ Microsoft 365 learning 경로 솔루션은 온라인 카탈로그에 연결 된 
 1. 페이지 아래로 스크롤하여 모든 범주 및 하위 범주를 확인 합니다.
 2. 타이어를 비트 단위로 시작 합니다. 몇 가지 하위 범주를 클릭 한 후 몇 가지 재생 목록을 클릭 하 여 학습용 경로 콘텐츠를 구성 하는 방법을 알아봅니다. 
 
-![cg-adminsuccesscenterplan_01-.png](media/cg-adminsuccesscenterplan_01.png)
+![cg-adminsuccesscenterplan_01.png](media/cg-adminsuccesscenterplan_01.png)
 
 ### <a name="view-the-administration-page"></a>관리 페이지 보기
 관리 페이지에서는 사용할 수 있는 콘텐츠 목록을 제공 합니다. 이 기능을 통해 콘텐츠를 숨기고, 새 재생 목록을 만들고, 재생 목록을 추가, 편집 및 제거할 수 있습니다. 다양 한 범주 및 재생 목록을 통해 사용 가능한 콘텐츠의 전체 부분을 확인할 수 있습니다. 
@@ -43,7 +44,7 @@ Microsoft 365 learning 경로 솔루션은 온라인 카탈로그에 연결 된 
 1. 학습 경로 사이트에서 홈 메뉴 드롭다운 화살표를 가리킨 다음 학습용 경로 관리를 클릭 합니다.  
 2. 그런 다음 다양 한 범주, 하위 범주 및 재생 목록을 차례로 클릭 하 여 사용할 수 있는 콘텐츠의 레 브 스에 대 한 느낌을 얻습니다. 
 
-![cg-adminsuccesscenterplan_02-.png](media/cg-adminsuccesscenterplan_02.png)
+![cg-adminsuccesscenterplan_02.png](media/cg-adminsuccesscenterplan_02.png)
 
 ### <a name="get-to-know-the-capabilities-of-microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로의 기능에 대해 알아봅니다.
 Microsoft 365 학습 경로를 사용 하는 경우 Microsoft에서 제공 하는 콘텐츠를 조직 고유의 특정 정책 및 절차를 대상으로 하는 콘텐츠를 작성할 수 있습니다. 최상의 방법으로 Microsoft에서 제공 하는 콘텐츠를 가능한 한 많이 활용 하는 것이 좋습니다. Microsoft는 정기적으로 개별 자산을 업데이트 하 고 분기별 기준으로 콘텐츠의 전체 인벤토리를 업데이트 합니다. 일반적으로 조직에서는 10-20%의 고유한 콘텐츠를 만든 다음 나머지 80%를 Microsoft에 두어 최신 상태로 유지 합니다. 다음 목록에서는 학습 경로 콘텐츠를 구성 하는 방법과 수정 하거나 만들 수 있는 콘텐츠에 대 한 지침과 함께 설명 합니다. 콘텐츠 사용자 지정을 위한 지침은 관리 성공 센터의 학습 경로 사용자 지정 섹션에서 제공 됩니다.

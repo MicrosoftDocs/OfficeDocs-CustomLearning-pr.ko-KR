@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 학습 경로 사용자 지정 재생 목록 번역
 ms.date: 07/06/2020
 description: 학습 경로 사용자 지정 재생 목록 번역
-ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048136"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233920"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>학습 경로 사용자 지정 재생 목록 번역
 학습 경로를 사용 하는 경우 사용자 지정 재생 목록을 사용 하는 방법은 학습 경로를 설정 하는 방법에 따라 달라 집니다.  

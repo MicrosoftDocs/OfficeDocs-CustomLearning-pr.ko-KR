@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 새 재생 목록 만들기
 ms.date: 02/18/2019
 description: 새 재생 목록을 만드는 방법
-ms.openlocfilehash: f94ff6733dd7bb63d9d589266722f60bcd91d630
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: c0a338567f06601412dd077337051e12c2b0fb34
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886821"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234530"
 ---
 # <a name="create-a-custom-playlist"></a>사용자 지정 재생 목록 만들기
 
@@ -21,11 +22,11 @@ Microsoft 365 학습 경로를 사용 하 여 조직의 고유한 요구 사항�
 2. **관리**"아이콘 하위 범주를 선택 합니다. 이 예에서는 **First Days**를 선택 합니다.  
 3. + 아이콘을 클릭 합니다.  
 
-![cg-newplaylistbtn-.png](media/cg-newplaylistbtn.png)
+![cg-newplaylistbtn.png](media/cg-newplaylistbtn.png)
 
 4.  다음 예에 표시 된 대로 재생 목록의 필드를 채웁니다. 이 예제의 기본 아이콘은 사용할 수 있습니다. 
 
-![cg-newplaylistdetails-.png](media/cg-newplaylistdetails.png)
+![cg-newplaylistdetails.png](media/cg-newplaylistdetails.png)
 
 5.  작업을 마치면 **세부 정보 저장**을 선택 합니다. 
 
@@ -33,10 +34,10 @@ Microsoft 365 학습 경로를 사용 하 여 조직의 고유한 요구 사항�
 
 - **사용자 지정 학습 관리** 페이지에서 재생 목록을 클릭 한 다음 **세부 정보 편집**을 클릭 합니다.  
 
-![cg-editplaylist-.png](media/cg-editplaylist.png)
+![cg-editplaylist.png](media/cg-editplaylist.png)
 
 ### <a name="delete-a-playlist"></a>재생 목록 삭제
 
 - 사용자 지정 학습 관리 페이지에서 재생 목록에 대 한 **삭제** 아이콘을 클릭 합니다.  
 
-![cg-deleteplaylist-.png](media/cg-deleteplaylist.png)
+![cg-deleteplaylist.png](media/cg-deleteplaylist.png)

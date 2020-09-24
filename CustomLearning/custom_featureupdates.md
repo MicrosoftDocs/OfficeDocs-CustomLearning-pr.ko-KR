@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 학습 경로 기능 업데이트
 ms.date: 10/20/2019
 description: 학습 경로 기능 업데이트
-ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
-ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
+ms.service: sharepoint online
+ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45199338"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234430"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>2020 년 7 월 버전 4.0 기능 업데이트 
 
@@ -17,7 +18,7 @@ Microsoft 365 learning 경로 버전 4.0에 다음과 같은 새로운 기능이
 
 ## <a name="multilingual-support-for-learning-pathways"></a>학습 경로에 대해 다국어 지원 
 이제 9 가지 언어로 지원 되는 학습 경로에 대 한 다국어 지원을 사용할 수 있습니다.  
-- English     
+- 영어     
 - 중국어(간체) 
 - 프랑스어 
 - 독일어 
@@ -25,7 +26,7 @@ Microsoft 365 learning 경로 버전 4.0에 다음과 같은 새로운 기능이
 - 일본어 (일본) 
 - 포르투갈어 (브라질) 
 - 러시아어 (러시아어) 
-- Spanish 
+- 스페인어 
 
 자세한 내용은 [Learning 경로 다국어 개요](custom_overview.md)를 참조 하세요. 
 

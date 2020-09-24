@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 학습 경로 관리
 ms.date: 02/15/2019
 description: 웹 파트 또는 메뉴에서 사용자 지정 학습 관리 페이지에 액세스 하는 방법
-ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886945"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233330"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>학습 경로 관리 페이지 액세스
 
@@ -24,11 +25,11 @@ ms.locfileid: "37886945"
 1. Microsoft 365 학습 경로 **홈** 페이지에서 **Office 365 학습** 타일을 클릭 합니다.
 2. 다음 예제와 같이 웹 파트에서 **관리** 아이콘을 클릭 합니다.  
 
-![cg-adminaccbtn-.png](media/cg-adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>홈 메뉴 항목에서 액세스
 관리자는 웹 파트가 있는 페이지를 탐색 하는 대신 SharePoint **Home** menu 항목에서 관리 페이지에 액세스할 수 있습니다. 
 
 - Microsoft 365 학습 경로 홈 페이지에서 **홈** 메뉴를 클릭 한 다음 **microsoft 학습 관리**를 클릭 합니다.
 
-![cg-adminaccmenu-.png](media/cg-adminaccmenu.png)
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)

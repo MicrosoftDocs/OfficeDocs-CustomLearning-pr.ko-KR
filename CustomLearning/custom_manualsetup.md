@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 학습 경로 수동 설정
 ms.date: 07/06/2020
 description: Microsoft 365 학습 경로 수동 설정
-ms.openlocfilehash: f980722fed48b5f92fb595cf8286604b3fa6d409
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.service: sharepoint online
+ms.openlocfilehash: 2bac25e736ec463e5d7f561eaa782a7d27eab65e
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043270"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234290"
 ---
 # <a name="learning-pathways-manual-setup"></a>학습 경로 수동 설정
 
@@ -19,7 +20,7 @@ Microsoft 365 학습 경로는 다음 시나리오 중 하나를 지원 해야 �
 
 - 조직의 SharePoint 통신 사이트 중 하나에서 다국어 지원에 대 한 학습 경로를 설치 하려고 합니다. 이 사이트는 영어가 아닌 기본 언어로 제공 되거나 학습 경로에서 지원 되는 언어 중 하나입니다. 다음은 학습 경로에서 지 원하는 언어입니다.
 
-- English
+- 영어
 - 중국어(간체)
 - 프랑스어
 - 독일어
@@ -27,7 +28,7 @@ Microsoft 365 학습 경로는 다음 시나리오 중 하나를 지원 해야 �
 - 일본어 (일본)
 - 포르투갈어 (브라질)
 - 러시아어 (러시아어)
-- Spanish
+- 스페인어
 
 학습 경로를 수동으로 설정 하려면 Windows PowerShell 및 SharePoint Online 관리 셸을 사용 하는 경험이 필요 합니다. 다음은 학습 경로의 수동 설정 단계에 대 한 개요입니다. 
 
@@ -84,7 +85,7 @@ SharePoint communication site에는 기본 언어가 있습니다. 기본 언어
 Microsoft 365 학습 경로를 설정 하려면 helloworld-webpart.sppkg 파일을 테 넌 트 전체 앱 카탈로그에 업로드 하 고 배포 합니다. 앱 카탈로그에 앱을 추가 하는 방법에 대 한 자세한 내용은 [앱 카탈로그를 사용 하 여 SharePoint Online 환경에서 사용할 수 있는 사용자 지정 비즈니스 앱 만들기를](https://docs.microsoft.com/sharepoint/use-app-catalog) 참조 하세요.
 
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>3 단계-최신 커뮤니케이션 사이트 프로 비전/식별
-기존 SharePoint communication site를 식별 하거나 SharePoint Online 테 넌 트에서 새 사이트를 프로 비전 합니다. 통신 사이트를 구축 하는 방법에 대 한 자세한 내용은 [SharePoint Online에서 커뮤니케이션 사이트 만들기](https://support.office.com/en-us/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) 및 단계에 따라 통신 사이트 만들기를 참조 하세요.
+기존 SharePoint communication site를 식별 하거나 SharePoint Online 테 넌 트에서 새 사이트를 프로 비전 합니다. 통신 사이트를 구축 하는 방법에 대 한 자세한 내용은 [SharePoint Online에서 커뮤니케이션 사이트 만들기](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) 및 단계에 따라 통신 사이트 만들기를 참조 하세요.
 
 ## <a name="step-4---add-the-microsoft-365-learning-pathways-app-to-the-site"></a>4 단계-Microsoft 365 학습 경로 앱을 사이트에 추가
 
@@ -111,7 +112,7 @@ Microsoft 365 학습 경로를 설정 하려면 helloworld-webpart.sppkg 파일�
 
 PowerShell 스크립트를 성공적으로 실행 한 후 사이트로 이동 하 고 처음 사용 하기 위해 학습 경로를 설정 하는 **Customconfig** 목록 항목을 초기화 한 다음 사이트가 작동 하는지 확인 합니다.
 
-- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`(으)로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 학습 경로를 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
+- `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`으로 이동합니다. **CustomLearningAdmin.aspx**를 열면 처음 사용할 학습 경로를 설정하는 **CustomConfig** 목록 항목이 초기화됩니다. 다음과 같은 페이지가 표시 됩니다.
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

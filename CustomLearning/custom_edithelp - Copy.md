@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 학습 경로 사이트 사용자 지정
 ms.date: 02/15/2019
 description: Microsoft 365 학습 경로에서 사용할 수 있는 다양 한 사용자 지정 방법에 대해 알아봅니다.
-ms.openlocfilehash: fce6819b5d54a5f551ae2264f7b0b7e3169b25cc
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: e6479fdd35dcd6a27482fb3faa3facd35e4d52e7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37887027"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234500"
 ---
 # <a name="customize-the-site"></a>사이트 사용자 지정
 
@@ -20,7 +21,7 @@ Microsoft 365 학습 경로 사이트는 SharePoint 통신 템플릿을 기반�
 
 ## <a name="customize-the-site-and-web-pages"></a>사이트 및 웹 페이지 사용자 지정
 
-학습 경로 사이트는 완전히 사용자 지정 가능 합니다. SharePoint 사이트 또는 웹 페이지를 사용자 지정 하는 방법에 대해 잘 모르는 경우에는 support.office.com에서 [sharepoint 사이트 사용자 지정](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) 문서를 검토 하는 것이 좋습니다. 
+학습 경로 사이트는 완전히 사용자 지정 가능 합니다. SharePoint 사이트 또는 웹 페이지를 사용자 지정 하는 방법에 대해 잘 모르는 경우에는 support.office.com에서 [sharepoint 사이트 사용자 지정](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) 문서를 검토 하는 것이 좋습니다. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>질문을 사용자 지정 하 고 도움말 보기
 
@@ -30,7 +31,7 @@ Microsoft 365 학습 경로 사이트는 SharePoint 통신 템플릿을 기반�
 2.  **편집** 단추를 클릭합니다.
 3.  도움말 옵션 이미지를 가리킨 다음 **웹 파트 편집**을 클릭 합니다.
 
-![cg-edithelp-.png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 4.  **링크** 상자에 내부 리소스의 URL을 입력 합니다. 
 5.  연결 되지 않은 나머지 두 이미지에 대해 3-4 단계를 반복 합니다.

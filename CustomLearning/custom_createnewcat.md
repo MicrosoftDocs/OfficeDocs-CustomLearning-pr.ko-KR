@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 새 하위 범주 만들기
 ms.date: 02/17/2019
 description: 학습 경로를 사용 하 여 새 하위 범주를 만듭니다.
-ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 5469845594cdc3da2b8905475caa560d47624bac
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327259"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234520"
 ---
 # <a name="create-a-subcategory"></a>하위 범주 만들기 
 경우에 따라 새 하위 범주를 만들 수도 있습니다. 예를 들어 조직에서 첫 번째 요일 하위 범주가 작동 하지 않는 경우 새 하위 범주를 만든 다음 조직의 필요에 맞게 재생 목록을 추가할 수 있습니다. 
@@ -19,7 +20,7 @@ ms.locfileid: "34327259"
 3. 페이지 아래로 스크롤한 후 
 3. **새 하위 범주 추가 +** 아이콘을 클릭 합니다.  
 
-![cg-newsubcategory-.png](media/cg-newsubcategory.png)
+![cg-newsubcategory.png](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Microsoft에서 제공 하는 하위 범주는 숨길 수 있지만 편집 하거나 삭제할 필요가 없습니다. 

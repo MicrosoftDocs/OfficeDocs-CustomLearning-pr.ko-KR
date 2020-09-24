@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 재생 목록에 대 한 SharePoint 페이지 만들기
 ms.date: 02/10/2019
 description: 재생 목록에 대 한 SharePoint 페이지 만들기
-ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 99425b9be685a8090394ecb446a7c82dee24fe5d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247543"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234510"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>사용자 지정 재생 목록에 대 한 SharePoint 페이지 만들기
 
@@ -22,7 +23,7 @@ ms.locfileid: "34247543"
 3. 왼쪽 열에서 +를 클릭 하 고 **Embed** 웹 파트를 클릭 합니다. 
 4. 오른쪽 열에서 +를 클릭 하 고 **텍스트** 웹 파트를 클릭 합니다. 페이지 모양은 다음과 같습니다.
 
-![cg-pagenewstart-.png](media/cg-pagenewstart.png)
+![cg-pagenewstart.png](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>YouTube에서 비디오 및 텍스트 추가
 
@@ -35,7 +36,7 @@ ms.locfileid: "34247543"
 7. SharePoint 페이지의 제목 영역에서 **웹 파트 편집** 아이콘을 선택 하 고 페이지 이름을 "사용자 지정 재생 목록 소개"로 지정한 다음 
 8. **레이아웃**에서 **일반**을 선택한 다음 **제목 영역** 속성 창을 닫습니다. 페이지의 모양은 다음과 같습니다. 
 
-![cg-pagenewfinish-.png](media/cg-pagenewfinish.png)
+![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>페이지 게시
 

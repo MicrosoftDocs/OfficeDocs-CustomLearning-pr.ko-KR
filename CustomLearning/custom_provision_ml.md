@@ -5,12 +5,13 @@ title: 새 학습 경로 다국어 솔루션 구축
 ms.date: 02/10/2019
 description: SharePoint 프로 비전 서비스를 통해 Microsoft 365 학습 경로 사이트 프로 비전
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: cd14ff62eb0b7db99f300b346d9d9fd5089fde0a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038998"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234060"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>새 학습 경로 다국어 솔루션 구축
 테 넌 트에 구축 된 학습 경로가 없는 조직에서는 SharePoint 프로 비전 서비스를 사용 하 여 다국어 학습 경로 솔루션을 추가할 수 있습니다. 이 옵션을 사용 하면 학습 경로 SharePoint 서식 파일은 9 개의 언어로 번역 되며 최소한의 수정 내용과 함께 사용할 수 있습니다. 
@@ -44,13 +45,13 @@ ms.locfileid: "45038998"
 
 이 프로 비전 서비스에는 테 넌 트 앱 카탈로그를 만들고 해당 응용 프로그램을 테 넌 트 앱 카탈로그에 설치 하 고 사이트 서식 파일을 프로 비전 하기 위해 이러한 권한이 필요 합니다. 테 넌 트에는 전체적으로 영향을 주지 않습니다. 이러한 사용 권한은 솔루션 설치의 목적에 명시적으로 사용 됩니다. 설치를 계속 하려면 이러한 사용 권한을 수락 해야 합니다.
 
-4. 설치에 적합 하도록 프로 비전 정보 페이지의 필드를 완성 합니다. 적어도 프로 비전 프로세스에 대 한 알림을 받을 전자 메일 주소와 사이트를 프로 비전 할 대상 URL을 입력 합니다.  
+4. 설치에 적합한 프로비저닝 정보 페이지의 필드 입력을 완료합니다. 최소한 프로비저닝 프로세스에 대한 알림을 받을 전자 메일 주소와 프로비저닝할 사이트의 대상 URL을 입력합니다.  
 > [!NOTE]
-> "/Sites/MyTraining" 또는 "/teams/LearnMicrosoft365"과 같은 직원에 게 친숙 한 사이트의 대상 URL을 만듭니다.
+> "/Sites/MyTraining" 또는 "/teams/LearnMicrosoft365"와 같이 직원들에게 친숙한 사이트의 대상 URL을 만듭니다.
 
 ![inst_options.png](media/inst_options.png)
 
-6. 사용자의 테 넌 트 환경에 학습 경로를 설치할 준비가 되 면 **프로 비전** 을 클릭 합니다.  구축 프로세스는 최대 15 분까지 소요 될 수 있습니다. 사이트가 준비 되 면 전자 메일을 통해 알림을 받게 됩니다. 
+6. 사용자의 테 넌 트 환경에 학습 경로를 설치할 준비가 되 면 **프로 비전** 을 클릭 합니다.  프로비저닝 프로세스는 최대 15분이 소요됩니다. 사이트가 준비되면 전자 메일로 알려드립니다. 
 
 > [!IMPORTANT]
 > 학습 경로 사이트를 프로 비전 하는 테 넌 트 관리자는 해당 사이트로 이동한 다음 **CustomLearningAdmin** 를 열어 학습 경로 관리 속성을 초기화 해야 합니다. 현재, 테 넌 트 관리자는 소유자를 사이트에도 할당 해야 합니다. 
@@ -59,7 +60,7 @@ ms.locfileid: "45038998"
 
 프로비저닝이 완료 되 면 사이트를 프로 비전 한 테 넌 트 관리자가 PnP 프로 비전 서비스에서 전자 메일을 받습니다. 전자 메일에 사이트에 대 한 링크가 포함 되어 있습니다. 이때 테 넌 트 관리자는 전자 메일에 제공 된 링크를 사용 하 여 사이트에 방문 하 고 처음 사용할 수 있도록 사이트를 설정 해야 합니다.
 
-- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`(으)로 이동합니다. **CustomLearningAdmin** 를 열면 처음 사용할 학습 경로를 설정 하는 **customconfig** 목록 항목이 초기화 됩니다. 다음과 같은 페이지가 표시 됩니다.
+- `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`으로 이동합니다. **CustomLearningAdmin.aspx**를 열면 처음 사용할 학습 경로를 설정하는 **CustomConfig** 목록 항목이 초기화됩니다. 다음과 같은 페이지가 표시 됩니다.
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

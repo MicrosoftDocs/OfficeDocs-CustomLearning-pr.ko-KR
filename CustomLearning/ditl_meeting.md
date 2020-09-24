@@ -1,7 +1,18 @@
 ---
-제목: office 설명: {github-id} # karuanag ms. 만든이와 함께 회의에 대비 되는 office description (일)에 대 한 자세한 내용은 # Quick a date} # karuanag ms. 작성일: {@date}           # 02/01/2019. 항목: 시작 하기 # 방법
+title: Office의 수명 365-모임 날짜
+description: Office 365을 사용 하 여 날짜를 즉시 준비 하기 위한 빠른 단계
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fb2820a6492c3f7c107442e5aacbe5bf60adc7c8
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233640"
 ---
-
 # <a name="meeting-at-the-office"></a>Office에서 모임
 
 ![Commute visual](media/ditl_meeting.png)
@@ -58,4 +69,4 @@ OneNote에서는 실시간 공동 작업 및 공동 작성을 가능 하 게 하
 ![Planner 작업](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>모임 종료
-회의록에 나와 있는 모든 내용을 토론 한 후에는 시간에 관계 없이 모임을 종료 합니다. 모든 참가자에 게 작업 항목을 할당 하 고 보냅니다. Microsoft 팀에서 공동 작업을 하는 경우 적절 한 채널에서 의결 항목을 쉽게 공유할 수 있습니다. 모임 중에 작업 항목을 Planner에서 입력 및 할당할 수도 있으며,이를 통해 [Microsoft 팀에서 액세스할](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)수 있는 완료를 빠르게 추적할 수 있습니다. 
+회의록에 나와 있는 모든 내용을 토론 한 후에는 시간에 관계 없이 모임을 종료 합니다. 모든 참가자에 게 작업 항목을 할당 하 고 보냅니다. Microsoft 팀에서 공동 작업을 하는 경우 적절 한 채널에서 의결 항목을 쉽게 공유할 수 있습니다. 모임 중에 작업 항목을 Planner에서 입력 및 할당할 수도 있으며,이를 통해 [Microsoft 팀에서 액세스할](https://support.office.com/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0)수 있는 완료를 빠르게 추적할 수 있습니다. 

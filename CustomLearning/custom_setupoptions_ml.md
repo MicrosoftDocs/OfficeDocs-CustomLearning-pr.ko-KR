@@ -5,12 +5,13 @@ title: 다국어 학습 경로의 설치 옵션
 ms.date: 07/6/2020
 description: 다국어 학습 경로의 설치 옵션
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 2e2e7a765a7d24ef83a04f0ca3ef6d049cc658e3
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 2fb18de310d87bf4f41724a874f587a628e4f68b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037220"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233960"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>다국어 학습 경로의 설치 옵션
 SharePoint Online communications sites 용 다국어 기능을 출시할 때 학습 경로는 이제 여러 언어를 지원 합니다. 조직의 요구 사항을 충족 하는 다양 한 방식으로 학습 경로를 설정할 수 있습니다. 조직에 가장 적합 한 경로를 결정 하는 데 도움이 되도록 설정 옵션을 설명 했습니다. 

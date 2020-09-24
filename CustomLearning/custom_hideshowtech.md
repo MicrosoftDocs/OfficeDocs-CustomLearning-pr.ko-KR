@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 기술 숨기기 및 표시
 ms.date: 05/20/2019
 description: 기술을 숨기 거 나 표시 하는 방법
-ms.openlocfilehash: e1e19bc29c84be9471939ab4c20a85207a828b61
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: 7644e4ee3c0f990cb31ccf30af261c0e137bf596
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886695"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234300"
 ---
 # <a name="hide-and-show-technology"></a>기술 숨기기 및 표시
 
@@ -22,12 +23,12 @@ ms.locfileid: "37886695"
 3. **관리** 페이지의 오른쪽 위 섹션에 있는 드롭다운 목록 상자에서 **기술을**선택 합니다.
 이 예제에서는 페이지의 왼쪽 창에서 **yammer** 를 클릭 하 고 yammer 옆에 있는 eyeball를 클릭 합니다.  
 
-![cg-hidetech-.png](media/cg-hidetech.png)
+![cg-hidetech.png](media/cg-hidetech.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>재생 목록이 숨겨져 있는지 확인
 - **Yammer** 기술이 숨겨져 있는지 확인 하려면 **권장 재생 목록** 페이지가 로드 된 브라우저 탭을 선택한 다음 페이지를 새로 고칩니다. Yammer를 사용 하 여 **조직 연결** 확인란이 숨겨져 있는 것을 확인할 수 있습니다. 
 
-![cg-hidetechrefresh-.png](media/cg-hidetechrefresh.png)
+![cg-hidetechrefresh.png](media/cg-hidetechrefresh.png)
 
 ## <a name="unhide-a-technology"></a>기술 숨기기
 

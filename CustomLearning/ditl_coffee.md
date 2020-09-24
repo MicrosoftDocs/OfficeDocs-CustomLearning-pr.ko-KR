@@ -1,11 +1,17 @@
 ---
-제목: ''
-ms.openlocfilehash: 8f2351e1767de9073870e79d1111370cbe4df2cd
-ms.sourcegitcommit: 821d6b16d8ae415ae8c55d3bf0691158e2c8e7f3
-ms.translationtype: HT
+title: Office 365 년 동안 아침의 일
+description: Office 365을 사용 하 여 날짜를 즉시 준비 하기 위한 빠른 단계
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 5da7b3eb0e7b66c81c0bf3586509719c912ab609
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "32056342"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233700"
 ---
 # <a name="during-morning-coffee"></a>모닝 커피를 마시며
 

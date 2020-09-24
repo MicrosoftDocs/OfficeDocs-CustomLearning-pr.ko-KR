@@ -1,15 +1,16 @@
 ---
 author: mikeholl
 ms.author: mikeholl
-title: 파트너에 대 한 질문과 대답
+title: 파트너 자주하는 질문
 ms.date: 3/9/2019
 description: Microsoft 365 학습 경로가 엔터프라이즈 교육 서비스를 제공 하는 회사에서 제공 하는 파트너 제품과 어떻게 비교 되나요?
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247803"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234150"
 ---
 # <a name="partner-frequently-asked-questions"></a>파트너에 대 한 질문과 대답
 
@@ -23,7 +24,7 @@ ms.locfileid: "34247803"
 SharePoint Online 프로 비전 서비스에서 바로 피드를 보완 하는 것은 불가능 하지만 파트너가 정렬 된 값 추가 서비스를 만들기 위해 사용할 수 있는 몇 가지 통합 모델이 있습니다.
 
 1. **고객 파트너를 대신해 서 배포 및 사용자 지정 서비스** 는 고객을 위한 솔루션 설치, 브랜딩 및 콘텐츠 사용자 지정을 수행할 수 있습니다. 또한 파트너는 자신이 만드는 가치 추가 교육 콘텐츠를 참조 하는 사용자 지정 재생 목록을 제공할 수 있습니다. 
-2. **사용자 지정, 다시 브랜딩, repackaging 및 배포 서비스 (대신** )-파트너는 고객 요구에 따라 사이트 서식 파일 및 콘텐츠 재생 목록을 사용자 지정 하 고 다음을 통해 고객 환경 내에서이를 다시 패키징 및 배포할 수 있습니다. 오픈 소스 SharePoint 패턴 및 연습 프레임 워크를 기반으로 작성 
+2. **사용자 지정, 다시 브랜딩, repackaging 및 배포 서비스 (대신** )-파트너는 고객 요구 사항에 따라 사이트 서식 파일 및 콘텐츠 재생 목록을 사용자 지정할 수 있으며, 공개 원본 SharePoint 패턴 및 연습용 프레임 워크를 작성 하 여 고객 환경 내에서이를 다시 패키징 및 배포할 수 있습니다. 
 
 ### <a name="how-does-this-solution-affect-my-adoption-change-management-practice"></a>이 솔루션이 채택 변경 관리 방법에 어떤 영향을 줍니까? 
 교육 서비스는 보다 폭넓은 채택 및 변경 관리 관행 공간의 한 구성 요소입니다. Microsoft 365 learning 경로 솔루션은 파트너 및 고객이 Microsoft 제공 교육 콘텐츠를 액세스 하 고 사용자 지정 하는 기능을 가속화 하는 특정 요구를 제공 합니다. Microsoft 365 학습 경로에는 사용자 지정 과정 디자인, 강사-led 디자인, gamification, 사용자 동작 분석, 광범위 한 통신 및 계약 기능 또는 live 지원이 포함 되지 않습니다. Microsoft는 채택 및 변경 관리 파트너에 의존 하 여 고객을 위해 이러한 서비스를 수행 합니다. 

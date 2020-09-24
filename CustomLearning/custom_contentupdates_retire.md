@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 2019 년 11 월 콘텐츠 업데이트
 ms.date: 10/20/2019
 description: Microsoft 365 learning 경로 콘텐츠 업데이트
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142200"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234710"
 ---
 # <a name="november-2019-content-updates"></a>2019 년 11 월 콘텐츠 업데이트
 Microsoft 365 학습 경로 콘텐츠 업데이트에 오신 것을 환영 합니다. 2019 년 11 월 부터는 업데이트 된 학습 경로 카탈로그의 인벤토리를 분기별 기준으로 제공 합니다. 2019 년 11 월 업데이트의 경우 학습 경로 카탈로그에 다음과 같은 새 콘텐츠 하위 범주 및 재생 목록이 추가 되었습니다. 콘텐츠 업데이트를 적용 하는 방법과 콘텐츠 업데이트를 관리 하는 방법에 대 한 자세한 내용은 [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)를 참조 하세요.    

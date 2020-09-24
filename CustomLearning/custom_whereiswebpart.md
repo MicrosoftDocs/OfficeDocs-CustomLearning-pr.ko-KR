@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Microsoft 365 학습 웹 파트
 ms.date: 02/15/2019
 description: 학습용 경로 사이트에서 학습 경로 웹 파트가 표시 되는 위치에 대해 알아봅니다.
-ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956563"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233750"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 학습 경로 웹 파트는 어디에 있나요? 
 
@@ -31,11 +32,11 @@ ms.locfileid: "37956563"
 
 - 학습 경로 홈 페이지에서 **Microsoft 팀 시작**을 선택 합니다.
 
-![cg-whereiswp-teams-.png](media/cg-whereiswp-teams.png)
+![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
 
 - 학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.
 
-![cg-homebtnmenu-.png](media/cg-homebtnmenu.png)
+![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
 
 ## <a name="view-the-six-simple-steps-playlist"></a>간단한 6 단계 재생 목록 보기
 
@@ -43,7 +44,7 @@ ms.locfileid: "37956563"
 
 - 학습 경로 홈 페이지에서 **6 가지 간단한 단계로 시작**을 클릭 합니다. 
 
-![cg-whereiswp-six-.png](media/cg-whereiswp-six.png)
+![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
 ## <a name="view-all-microsoft-365-training"></a>모든 Microsoft 365 교육 보기
 
@@ -51,7 +52,7 @@ ms.locfileid: "37956563"
 
 - 학습 경로 홈 페이지에서 **Microsoft 365 교육**을 클릭 합니다. 사용자 지정 학습 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 된 웹 파트가 포함 된 페이지가 나타납니다.
 
-![cg-whereiswp-o365-.png](media/cg-whereiswp-o365.png)
+![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
 - 학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.
 
@@ -61,7 +62,7 @@ ms.locfileid: "37956563"
 
 - 학습 경로 홈 페이지에서 **관리 성공 센터 시작**을 클릭 합니다. 단추. 
 
-![cg-adminsuccesscenterwebpart-.png](media/cg-adminsuccesscenterwebpart.png)
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
 - 학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.
 

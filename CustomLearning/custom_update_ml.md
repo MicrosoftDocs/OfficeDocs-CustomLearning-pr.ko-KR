@@ -5,12 +5,13 @@ title: 다국어 지원에 대 한 학습 경로 업데이트
 ms.date: 05/20/2019
 description: 다국어 지원에 대 한 학습 경로 업데이트
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
-ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.service: sharepoint online
+ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "46874979"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233830"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>다국어 지원에 대 한 학습 경로 업데이트
 기존 학습 경로 사이트가 있는 경우 다국어 지원을 위해 해당 사이트를 업데이트할 수 있습니다. 다국어 4.0 버전에 대 한 학습 경로를 업데이트 하려면 웹 파트 패키지, customlearning을 SharePoint 테 넌 트 앱 카탈로그에 업로드 합니다. 학습 경로를 업데이트할 때는 다음을 수행 합니다.  
@@ -49,7 +50,7 @@ ms.locfileid: "46874979"
 
 ### <a name="upload-the-web-part-package"></a>웹 파트 패키지 업로드
 1.  [GitHub 사용자 지정 학습 리포지토리로](https://github.com/pnp/custom-learning-office-365/tree/master/webpart)이동 하 여 **helloworld-webpart.sppkg** 를 선택한 다음 PC의 로컬 드라이브에 다운로드 합니다. 
-2.  아직 로그인 하지 않은 경우 테 넌 트 관리 또는 사이트 모음 관리자 계정을 사용 하 여 테 넌 트에 로그인 합니다. 
+2.  아직 로그인하지 않은 경우 테넌트 관리자 또는 사이트 모음 관리자 계정으로 테넌트에 로그인합니다. 
 3.  **관리**  >  **모든**  >  **SharePoint**  >  **추가 기능**표시를 클릭 합니다. 
 4.  **앱**에서 **열기**를 클릭 합니다. 
 5.  **앱 카탈로그**  >  **배포 앱 for SharePoint를**클릭 합니다. 

@@ -3,20 +3,21 @@ author: pkrebs
 ms.author: pkrebs
 title: 개요
 ms.date: 07/06/2020
-description: 언어 학습 경로에 대 한 다국어 지원
+description: 학습 경로에 대해 다국어 지원
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: d3b123d3e10794f7415526c07001171b9c08fbd6
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038968"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234160"
 ---
-# <a name="multilingual-support-for-learning-pathways"></a>언어 학습 경로에 대 한 다국어 지원
+# <a name="multilingual-support-for-learning-pathways"></a>학습 경로에 대해 다국어 지원
 
 조직이 다양 한 모집단을 사용 하는 경우 Microsoft 365 학습 경로를 여러 언어로 사용할 수 있습니다. 현재 학습 경로는 9 개의 언어를 지원 합니다. 영어가 기본 언어입니다. 지원 되는 언어는 다음과 같습니다.   
 
-- English    
+- 영어    
 - 중국어(간체)
 - 프랑스어
 - 독일어
@@ -24,7 +25,7 @@ ms.locfileid: "45038968"
 - 일본어 (일본)
 - 포르투갈어 (브라질)
 - 러시아어 (러시아어)
-- Spanish
+- 스페인어
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>SharePoint Online 다국어 기능에 대해 자세히 알아보세요.
 정보 교환 경로에 대 한 다국어 지원은 통신 사이트용 SharePoint Online 다국어 기능을 통해 사용 하도록 설정 됩니다.

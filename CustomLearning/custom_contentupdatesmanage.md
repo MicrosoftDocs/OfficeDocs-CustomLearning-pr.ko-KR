@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: 학습 경로 콘텐츠 업데이트 관리
 ms.date: 10/20/2019
 description: 학습 경로 콘텐츠 업데이트 관리
-ms.openlocfilehash: e59b05718192a5ace9ae6b8d999a26f5d7accbf9
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 171504fb3d3679f541bbf1cd9b2e3937d3aba1f7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956515"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234550"
 ---
 # <a name="manage-learning-pathways-content-updates"></a>학습 경로 콘텐츠 업데이트 관리
 Microsoft 365 학습 경로 카탈로그는 분기별로 업데이트 됩니다. Support.office.com에서 호스트 되는 학습 자산을 가리키는 JSON 메타 데이터 집합인 카탈로그 콘텐츠는 조직의 테 넌 트 내의 전역 캐시에 저장 됩니다. 전역 캐시는 학습 경로 사이트 모음 관리자 또는 소유자가 학습 경로 관리 페이지를 열 때 자동으로 업데이트 됩니다. 또한 학습 경로 전역 캐시는 24 시간 마다 업데이트 됩니다. 카탈로그에 대 한 콘텐츠 업데이트는 전역 캐시가 업데이트 될 때 학습 경로 사용자에 게 자동으로 표시 됩니다. 사용자가 새 콘텐츠를 사용할 수 있도록 하려는 경우에는 학습용 경로 관리자가 하위 범주 또는 재생 목록을 숨길 수 있습니다.

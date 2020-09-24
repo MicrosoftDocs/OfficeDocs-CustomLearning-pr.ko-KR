@@ -10,7 +10,7 @@ ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
 ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234640"
+ms.locfileid: "48234817"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning 경로 콘텐츠 업데이트
 학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 다음 목록에는 4 월 2020 콘텐츠가 업데이트 되어 있습니다.
