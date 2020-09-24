@@ -4,64 +4,65 @@ ms.author: pkrebs
 title: Microsoft 365 학습 웹 파트
 ms.date: 02/15/2019
 description: 학습용 경로 사이트에서 학습 경로 웹 파트가 표시 되는 위치에 대해 알아봅니다.
-ms.openlocfilehash: f84ce82233612c0b7892177defb2a8ca28618b68
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956563"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233750"
 ---
-# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a><span data-ttu-id="cfd4e-103">Microsoft 365 학습 경로 웹 파트는 어디에 있나요?</span><span class="sxs-lookup"><span data-stu-id="cfd4e-103">Where's the Microsoft 365 learning pathways web part?</span></span> 
+# <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a><span data-ttu-id="dbb5e-103">Microsoft 365 학습 경로 웹 파트는 어디에 있나요?</span><span class="sxs-lookup"><span data-stu-id="dbb5e-103">Where's the Microsoft 365 learning pathways web part?</span></span> 
 
-<span data-ttu-id="cfd4e-104">조직에서 학습 경로를 프로 비전 하는 경우에는 학습 경로 사이트 및 웹 파트가 조직의 SharePoint 테 넌 트에 추가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-104">When learning pathways is provisioned in your organization, the learning pathways site and web part are added to your organization’s SharePoint tenant.</span></span> <span data-ttu-id="cfd4e-105">프로 비전의 일부로 microsoft 365 학습 웹 파트가 Microsoft 365 학습 경로 사이트의 다음 페이지에 추가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-105">As part of the provisioning, the Microsoft 365 learning web part is added to the following pages of the Microsoft 365 learning pathways site:</span></span>
+<span data-ttu-id="dbb5e-104">조직에서 학습 경로를 프로 비전 하는 경우에는 학습 경로 사이트 및 웹 파트가 조직의 SharePoint 테 넌 트에 추가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-104">When learning pathways is provisioned in your organization, the learning pathways site and web part are added to your organization’s SharePoint tenant.</span></span> <span data-ttu-id="dbb5e-105">프로 비전의 일부로 microsoft 365 학습 웹 파트가 Microsoft 365 학습 경로 사이트의 다음 페이지에 추가 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-105">As part of the provisioning, the Microsoft 365 learning web part is added to the following pages of the Microsoft 365 learning pathways site:</span></span>
 
-- <span data-ttu-id="cfd4e-106">Start-with-Six-Simple-Steps .aspx</span><span class="sxs-lookup"><span data-stu-id="cfd4e-106">Start-with-Six-Simple-Steps.aspx</span></span> 
-- <span data-ttu-id="cfd4e-107">Recommended-Playlists .aspx</span><span class="sxs-lookup"><span data-stu-id="cfd4e-107">Recommended-Playlists.aspx</span></span>
-- <span data-ttu-id="cfd4e-108">Office 365 .aspx로 시작</span><span class="sxs-lookup"><span data-stu-id="cfd4e-108">Get-started with-Office 365.aspx</span></span>
-- <span data-ttu-id="cfd4e-109">Get-started-with-Microsoft-Teams .aspx</span><span class="sxs-lookup"><span data-stu-id="cfd4e-109">Get-started-with-Microsoft-Teams.aspx</span></span>
-- <span data-ttu-id="cfd4e-110">Get-started-with-OneDrive .aspx</span><span class="sxs-lookup"><span data-stu-id="cfd4e-110">Get-started-with-OneDrive.aspx</span></span>
-- <span data-ttu-id="cfd4e-111">Get-started-with-SharePoint .aspx</span><span class="sxs-lookup"><span data-stu-id="cfd4e-111">Get-started-with-SharePoint.aspx</span></span>
-- <span data-ttu-id="cfd4e-112">학습 경로 관리자의 성공한 .aspx</span><span class="sxs-lookup"><span data-stu-id="cfd4e-112">Learning pathways Admin Success Center.aspx</span></span>
+- <span data-ttu-id="dbb5e-106">Start-with-Six-Simple-Steps .aspx</span><span class="sxs-lookup"><span data-stu-id="dbb5e-106">Start-with-Six-Simple-Steps.aspx</span></span> 
+- <span data-ttu-id="dbb5e-107">Recommended-Playlists .aspx</span><span class="sxs-lookup"><span data-stu-id="dbb5e-107">Recommended-Playlists.aspx</span></span>
+- <span data-ttu-id="dbb5e-108">Office 365 .aspx로 시작</span><span class="sxs-lookup"><span data-stu-id="dbb5e-108">Get-started with-Office 365.aspx</span></span>
+- <span data-ttu-id="dbb5e-109">Get-started-with-Microsoft-Teams .aspx</span><span class="sxs-lookup"><span data-stu-id="dbb5e-109">Get-started-with-Microsoft-Teams.aspx</span></span>
+- <span data-ttu-id="dbb5e-110">Get-started-with-OneDrive .aspx</span><span class="sxs-lookup"><span data-stu-id="dbb5e-110">Get-started-with-OneDrive.aspx</span></span>
+- <span data-ttu-id="dbb5e-111">Get-started-with-SharePoint .aspx</span><span class="sxs-lookup"><span data-stu-id="dbb5e-111">Get-started-with-SharePoint.aspx</span></span>
+- <span data-ttu-id="dbb5e-112">학습 경로 관리자의 성공한 .aspx</span><span class="sxs-lookup"><span data-stu-id="dbb5e-112">Learning pathways Admin Success Center.aspx</span></span>
 
-<span data-ttu-id="cfd4e-113">각 페이지에서 웹 파트는 페이지의 의도를 지원 하기 위해 디자인 된 범주, 하위 범주, 재생 목록 또는 자산을 표시 하는 방식으로 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-113">For each page, the Web part is configured differently to show the categories, subcategories, playlists or asset designed to support the intent of the page.</span></span> <span data-ttu-id="cfd4e-114">나중 섹션에서 소개 하는 것 처럼 학습 경로 웹 파트를 SharePoint 페이지에만 추가 하 고 특정 범주, 하위 범주, 재생 목록 또는 자산만 표시 하도록 필터링 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-114">The learning pathways web part, as we’ll show you in later sections, can be added to just about any SharePoint page and filtered to show specific categories, subcategories, playlists, or just assets.</span></span> <span data-ttu-id="cfd4e-115">잠시 살펴보겠습니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-115">Let's take a look.</span></span> 
+<span data-ttu-id="dbb5e-113">각 페이지에서 웹 파트는 페이지의 의도를 지원 하기 위해 디자인 된 범주, 하위 범주, 재생 목록 또는 자산을 표시 하는 방식으로 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-113">For each page, the Web part is configured differently to show the categories, subcategories, playlists or asset designed to support the intent of the page.</span></span> <span data-ttu-id="dbb5e-114">나중 섹션에서 소개 하는 것 처럼 학습 경로 웹 파트를 SharePoint 페이지에만 추가 하 고 특정 범주, 하위 범주, 재생 목록 또는 자산만 표시 하도록 필터링 할 수 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-114">The learning pathways web part, as we’ll show you in later sections, can be added to just about any SharePoint page and filtered to show specific categories, subcategories, playlists, or just assets.</span></span> <span data-ttu-id="dbb5e-115">잠시 살펴보겠습니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-115">Let's take a look.</span></span> 
 
-## <a name="view-microsoft-teams-playlists"></a><span data-ttu-id="cfd4e-116">Microsoft 팀 재생 목록 보기</span><span class="sxs-lookup"><span data-stu-id="cfd4e-116">View Microsoft Teams playlists</span></span>
+## <a name="view-microsoft-teams-playlists"></a><span data-ttu-id="dbb5e-116">Microsoft 팀 재생 목록 보기</span><span class="sxs-lookup"><span data-stu-id="dbb5e-116">View Microsoft Teams playlists</span></span>
 
-<span data-ttu-id="cfd4e-117">다음은 팀에 대 한 학습 재생 목록을 보여 주기 위해 필터링 된 웹 파트를 사용 하 여 **Microsoft 팀에 시작** 페이지의 예입니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-117">Here’s an example of the **Get Started with Microsoft Teams** page with the Web part filtered to show the learning playlists for Teams.</span></span> 
+<span data-ttu-id="dbb5e-117">다음은 팀에 대 한 학습 재생 목록을 보여 주기 위해 필터링 된 웹 파트를 사용 하 여 **Microsoft 팀에 시작** 페이지의 예입니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-117">Here’s an example of the **Get Started with Microsoft Teams** page with the Web part filtered to show the learning playlists for Teams.</span></span> 
 
-- <span data-ttu-id="cfd4e-118">학습 경로 홈 페이지에서 **Microsoft 팀 시작**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-118">From the learning pathways Home page, select **Get started with Microsoft Teams**.</span></span>
+- <span data-ttu-id="dbb5e-118">학습 경로 홈 페이지에서 **Microsoft 팀 시작**을 선택 합니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-118">From the learning pathways Home page, select **Get started with Microsoft Teams**.</span></span>
 
-![cg-whereiswp-teams-.png](media/cg-whereiswp-teams.png)
+![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
 
-- <span data-ttu-id="cfd4e-120">학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-120">Click the **Home** menu on the learning pathways site menu to return to the site Home page.</span></span>
+- <span data-ttu-id="dbb5e-120">학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-120">Click the **Home** menu on the learning pathways site menu to return to the site Home page.</span></span>
 
-![cg-homebtnmenu-.png](media/cg-homebtnmenu.png)
+![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
 
-## <a name="view-the-six-simple-steps-playlist"></a><span data-ttu-id="cfd4e-122">간단한 6 단계 재생 목록 보기</span><span class="sxs-lookup"><span data-stu-id="cfd4e-122">View the Six Simple Steps playlist</span></span>
+## <a name="view-the-six-simple-steps-playlist"></a><span data-ttu-id="dbb5e-122">간단한 6 단계 재생 목록 보기</span><span class="sxs-lookup"><span data-stu-id="dbb5e-122">View the Six Simple Steps playlist</span></span>
 
-<span data-ttu-id="cfd4e-123">**Start-with-Six-Simple-Steps** 페이지의 웹 파트가 6 개의 간단한 단계 재생 목록의 첫 번째 자산을 표시 하도록 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-123">The web part on the **Start-with-Six-Simple-Steps.aspx** page is configured to show the first asset in the Six Simple Steps playlist.</span></span> 
+<span data-ttu-id="dbb5e-123">**Start-with-Six-Simple-Steps** 페이지의 웹 파트가 6 개의 간단한 단계 재생 목록의 첫 번째 자산을 표시 하도록 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-123">The web part on the **Start-with-Six-Simple-Steps.aspx** page is configured to show the first asset in the Six Simple Steps playlist.</span></span> 
 
-- <span data-ttu-id="cfd4e-124">학습 경로 홈 페이지에서 **6 가지 간단한 단계로 시작**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-124">From the learning pathways Home page,  click **Start with six simple steps**.</span></span> 
+- <span data-ttu-id="dbb5e-124">학습 경로 홈 페이지에서 **6 가지 간단한 단계로 시작**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-124">From the learning pathways Home page,  click **Start with six simple steps**.</span></span> 
 
-![cg-whereiswp-six-.png](media/cg-whereiswp-six.png)
+![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-microsoft-365-training"></a><span data-ttu-id="cfd4e-126">모든 Microsoft 365 교육 보기</span><span class="sxs-lookup"><span data-stu-id="cfd4e-126">View all Microsoft 365 training</span></span>
+## <a name="view-all-microsoft-365-training"></a><span data-ttu-id="dbb5e-126">모든 Microsoft 365 교육 보기</span><span class="sxs-lookup"><span data-stu-id="dbb5e-126">View all Microsoft 365 training</span></span>
 
-<span data-ttu-id="cfd4e-127">**Microsoft 365 교육** 페이지의 웹 파트는 학습 경로 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-127">The Web part on the **Microsoft 365 training** page is configured to show all the categories and subcategories available from the learning pathways catalog.</span></span> <span data-ttu-id="cfd4e-128">여기에는 조직에 대해 만든 하위 범주와 함께 Microsoft의 하위 범주가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-128">This includes subcategories from Microsoft along with any subcategories that you create for your organization.</span></span>
+<span data-ttu-id="dbb5e-127">**Microsoft 365 교육** 페이지의 웹 파트는 학습 경로 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-127">The Web part on the **Microsoft 365 training** page is configured to show all the categories and subcategories available from the learning pathways catalog.</span></span> <span data-ttu-id="dbb5e-128">여기에는 조직에 대해 만든 하위 범주와 함께 Microsoft의 하위 범주가 포함 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-128">This includes subcategories from Microsoft along with any subcategories that you create for your organization.</span></span>
 
-- <span data-ttu-id="cfd4e-129">학습 경로 홈 페이지에서 **Microsoft 365 교육**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-129">From the learning pathways Home page, click **Microsoft 365 training**.</span></span> <span data-ttu-id="cfd4e-130">사용자 지정 학습 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 된 웹 파트가 포함 된 페이지가 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-130">The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.</span></span>
+- <span data-ttu-id="dbb5e-129">학습 경로 홈 페이지에서 **Microsoft 365 교육**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-129">From the learning pathways Home page, click **Microsoft 365 training**.</span></span> <span data-ttu-id="dbb5e-130">사용자 지정 학습 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 된 웹 파트가 포함 된 페이지가 나타납니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-130">The page appears appears with the Web part configured to show all the categories and subcategories available from the Custom Learning catalog.</span></span>
 
-![cg-whereiswp-o365-.png](media/cg-whereiswp-o365.png)
+![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
 
-- <span data-ttu-id="cfd4e-132">학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-132">Click the **Home** menu on the learning pathways site menu to return to the site Home page.</span></span>
+- <span data-ttu-id="dbb5e-132">학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-132">Click the **Home** menu on the learning pathways site menu to return to the site Home page.</span></span>
 
-## <a name="view-the-web-part-on-the-admin-success-center-page"></a><span data-ttu-id="cfd4e-133">관리 성공 센터 페이지에서 웹 파트 보기</span><span class="sxs-lookup"><span data-stu-id="cfd4e-133">View the Web part on the Admin Success Center page</span></span>
+## <a name="view-the-web-part-on-the-admin-success-center-page"></a><span data-ttu-id="dbb5e-133">관리 성공 센터 페이지에서 웹 파트 보기</span><span class="sxs-lookup"><span data-stu-id="dbb5e-133">View the Web part on the Admin Success Center page</span></span>
 
-<span data-ttu-id="cfd4e-134">**관리 성공 센터** 페이지의 웹 파트가 관리 성공 센터에 사용할 수 있는 모든 재생 목록을 필터링 하도록 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-134">The Web part on the **Admin Success Center** page is configured to filter all the playlists available for the Admin Success Center.</span></span> <span data-ttu-id="cfd4e-135">다음 예제와 같이 웹 파트가 페이지에 추가 되어 관리 자원에 대 한 빠른 링크도 포함 되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-135">As shown in the following example, the Web part is added to a page that also contains Quick Links to Admin resources.</span></span> 
+<span data-ttu-id="dbb5e-134">**관리 성공 센터** 페이지의 웹 파트가 관리 성공 센터에 사용할 수 있는 모든 재생 목록을 필터링 하도록 구성 됩니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-134">The Web part on the **Admin Success Center** page is configured to filter all the playlists available for the Admin Success Center.</span></span> <span data-ttu-id="dbb5e-135">다음 예제와 같이 웹 파트가 페이지에 추가 되어 관리 자원에 대 한 빠른 링크도 포함 되어 있습니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-135">As shown in the following example, the Web part is added to a page that also contains Quick Links to Admin resources.</span></span> 
 
-- <span data-ttu-id="cfd4e-136">학습 경로 홈 페이지에서 **관리 성공 센터 시작**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-136">From the learning pathways Home page, click **Get started with the Admin Success Center**.</span></span> <span data-ttu-id="cfd4e-137">단추.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-137">button.</span></span> 
+- <span data-ttu-id="dbb5e-136">학습 경로 홈 페이지에서 **관리 성공 센터 시작**을 클릭 합니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-136">From the learning pathways Home page, click **Get started with the Admin Success Center**.</span></span> <span data-ttu-id="dbb5e-137">단추.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-137">button.</span></span> 
 
-![cg-adminsuccesscenterwebpart-.png](media/cg-adminsuccesscenterwebpart.png)
+![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
 
-- <span data-ttu-id="cfd4e-139">학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.</span><span class="sxs-lookup"><span data-stu-id="cfd4e-139">Click the **Home** menu on the learning pathways site menu to return to the site Home page.</span></span>
+- <span data-ttu-id="dbb5e-139">학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.</span><span class="sxs-lookup"><span data-stu-id="dbb5e-139">Click the **Home** menu on the learning pathways site menu to return to the site Home page.</span></span>
 
