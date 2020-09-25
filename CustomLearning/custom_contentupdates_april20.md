@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: 학습 경로 콘텐츠 업데이트
+title: 학습 경로 콘텐츠 업데이트 4 월
 ms.date: 3/30/2020
 description: 학습 경로 4 월 2020 콘텐츠 업데이트
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234817"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261680"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning 경로 콘텐츠 업데이트
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>4 월에 대 한 Microsoft 365 학습 경로 콘텐츠 업데이트
 학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 다음 목록에는 4 월 2020 콘텐츠가 업데이트 되어 있습니다.
 
 ## <a name="april-2020-content-updates"></a>2020 년 4 월 콘텐츠 업데이트
@@ -29,7 +29,7 @@ Office 365이 Microsoft 365에 다시 참가 했습니다. 이름 변경 내용�
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>원격으로 작업 (2 개의 새 재생 목록/11 개 새 자산)
 다음과 같은 재생 목록 및 자산을 제공 하는 학습 경로에 원격으로 새 작업에 하위 범주가 추가 되었습니다. 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![학습 경로 원격 재생 목록 작동](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>원격으로 작업 (5 개의 새 자산)
 - Office 365에서 원격으로 작업

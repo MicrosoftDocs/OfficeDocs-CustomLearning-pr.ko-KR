@@ -3,17 +3,144 @@ author: pkrebs
 ms.author: pkrebs
 title: 학습 경로 콘텐츠 업데이트
 ms.date: 3/30/2020
-description: 학습 경로 4 월 2020 콘텐츠 업데이트
+description: 학습 경로 콘텐츠 업데이트
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234640"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261697"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning 경로 콘텐츠 업데이트
-학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 다음 목록에는 4 월 2020 콘텐츠가 업데이트 되어 있습니다.
+학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 다음은 9 월 2020 콘텐츠가 업데이트 된 목록입니다.
+
+## <a name="september-2020-content-updates"></a>2020 년 9 월 콘텐츠 업데이트
+학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 콘텐츠 업데이트를 적용 하는 방법과 콘텐츠 업데이트를 관리 하는 방법에 대 한 자세한 내용은 [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)를 참조 하세요. 
+
+### <a name="security"></a>보안
+Office 및 가정에서 더 안전 하 게 작업할 수 있도록 지원 되는 재생 목록 및 자산에 새 보안 하위 범주가 추가 되었습니다. 
+
+![학습 경로 보안 재생 목록](media/cg-security-playlist.png)
+
+#### <a name="five-simple-steps-playlist"></a>"5 가지 간단한 단계" 재생 목록
+- 피싱 으로부터 자신을 보호 합니다.
+- 기술 지원 사기 방지
+- 보다 안전 하 게 작업
+- PC를 최신 상태로 유지 합니다.
+- Windows 보안으로 보호 된 상태로 유지
+
+#### <a name="security-at-home-playlist"></a>"가정에서 보안" 재생 목록
+- 데이터를 안전 하 게 유지 하는 팁
+- 가정에서 컴퓨터를 안전 하 게 유지
+- Windows 보안으로 가족을 보호 하는 방법에 대 한 자세한 정보를 확인 하세요.
+
+#### <a name="security-at-work-playlist"></a>"작업 중인 보안" 재생 목록
+- 회사 컴퓨터의 보안 유지
+- 다단계 인증 이란?
+- Windows 보안의 방화벽 및 네트워크 보호
+- 무단 보호로 인 한 보안 설정 변경 금지
+
+### <a name="get-started-with-teams-playlist"></a>"팀 작업 시작" 재생 목록
+사용자가 팀과 함께 작업 하 고 작업 하는 데 도움이 되는 "팀에 대 한 시작" 재생 목록이 "시작/첫 일" 하위 범주에 추가 되었습니다. 재생 목록에는 다음이 포함 됩니다.
+- Microsoft Teams에 오신 것을 환영합니다.  
+- 팀 준비 및 실행
+- 채널에서 작업  
+- 파일 업로드 및 공유 
+- 채팅 시작 및 고정  
+- 팀 모임 참가 
+- 모임 관리 
+ 
+### <a name="microsoft-365-basics"></a>Microsoft 365 기본 사항
+제품 범주에서 "Office 365 기본 항목" 하위 범주는 "Microsoft 365 기본 사항" 범주로 업데이트 되었습니다. "Office 365 기본 사항" 범주의 회수 된 자산은 사용자 지정 재생 목록에 추가 된 경우에도 계속 사용할 수 있습니다.
+
+#### <a name="get-started-playlist"></a>"시작 하기" 재생 목록
+- Microsoft 365란 무엇인가요?
+- 로그인
+- Office.com
+
+#### <a name="create-and-save-playlist"></a>"재생 목록 만들기 및 저장"
+- 데스크톱 앱 사용
+- Office.com 앱 사용
+- 클라우드에 파일 저장
+- 요청 시 파일을 OneDrive와 동기화
+
+#### <a name="share-and-collaborate-playlist"></a>"공유 및 공동 작업" 재생 목록
+- Microsoft 365에서 파일 공유
+- 공동 작성자
+- @Mentions 사용
+- 후속 작업
+
+#### <a name="work-with-microsoft-teams-playlist"></a>"Microsoft 팀에 작업" 재생 목록
+- Microsoft Teams에 오신 것을 환영합니다.
+- 팀 및 채널 개요
+- 게시물 만들기 및 서식 지정
+- 채팅 시작 및 고정
+- 전화 걸기
+- 팀 모임 참가
+- 더 나은 모임에 대 한 팁
+
+#### <a name="get-the-most-out-of-windows-playlist"></a>"Windows를 최대한 활용 하는 재생 목록 가져오기"
+- 검색을 사용 하 여 문서, 앱 및 기타 정보 찾기
+- Microsoft Edge
+- Microsoft Bing 검색
+
+#### <a name="work-from-anywhere-playlist"></a>"외부에서 작업" 재생 목록
+- OneDrive 모바일 앱
+- Outlook 모바일 앱
+
+#### <a name="cool-microsoft-365-features-playlist"></a>"유용한 Microsoft 365 기능" 재생 목록
+- PowerPoint Designer
+- Excel 아이디어
+- Word의 편집기
+- 콘텐츠에 액세스 가능 하도록 설정
+
+### <a name="create-a-chart-playlist-in-access"></a>Access의 "차트 만들기" 재생 목록
+"차트 재생 목록 만들기"가 "제품 \ 액세스" 하위 범주에 추가 되었습니다.  
+- 세로 막대형 차트 만들기
+- 가로 막대형 차트 만들기
+- 꺽은선형 차트 만들기
+- 원형 차트 만들기
+- 콤보 차트 만들기
+
+### <a name="teams-updates"></a>팀 업데이트
+"Product\Microsoft 팀" 하위 범주는 다음과 같은 자산으로 업데이트 되었습니다. 
+
+#### <a name="manage-meetings-playlist"></a>"모임 관리" 재생 목록
+- 팀 모임 참가
+#### <a name="work-with-posts-and-messages-playlist"></a>"게시물 및 메시지에 대 한 작업" 재생 목록
+- 게시물 만들기 및 서식 지정
+
+### <a name="planner"></a>Planner 
+다음 자산은 "제품 \ planner"의 "Planner 사용" 재생 목록에 추가 되었습니다.
+#### <a name="use-planner-playlist"></a>Planner 재생 목록 사용
+- Vs Planner를 수행 하려면
+- 작업을 수행 하려면 Planner 작업을 참조 하세요.
+- 팀의 작업 앱 사용
+
+### <a name="word"></a>Word
+"Word로 공유 및 공동 작성자" 재생 목록에서 다음 자산이 업데이트 되었습니다.
+
+#### <a name="share-and-co-author-with-word-playlist"></a>"Word와 함께 공유 및 공동 작성" 재생 목록
+- "실시간 공동 작성을 사용 하 여 Word 문서 공동 작업" 자산이 업데이트 되었습니다. 
+
+### <a name="office-for-the-web"></a>웹용 Office
+"Office for web: Word for web" 재생 목록에서 다음 자산이 업데이트 되었습니다.
+
+#### <a name="office-for-the-web-word-for-the-web-playlist"></a>"Office for web: Word for web" 재생 목록
+- 녹음/녹화 기록
+
+### <a name="powerpoint-new-updated"></a>PowerPoint (새로 만들기, 업데이트 됨)
+다음 자산이 업데이트 되거나 제품 \ PowerPoint 재생 목록에 추가 되었습니다. 
+
+#### <a name="text--tables-with-powerpoint-playlist"></a>"PowerPoint가 포함 된 텍스트 & 표" 재생 목록
+- PowerPoint에서 도형, 텍스트 또는 수식으로 필기로 잉크 변경 (새로 만들기)
+
+#### <a name="present-slideshows-playlist"></a>슬라이드 쇼 재생 목록 표시
+- 프레젠테이션 기록 (업데이트 됨)
+
+### <a name="office-quick-start-guides-updated"></a>Office 빠른 시작 가이드 (업데이트 됨)
+모든 Office 제품에 대 한 Office 빠른 시작 가이드가 업데이트 되었습니다. 
 
 ## <a name="april-2020-content-updates"></a>2020 년 4 월 콘텐츠 업데이트
  현재 이벤트에 대 한 응답으로, 4 월 2020 콘텐츠 업데이트는 조직에서 원격 작업을 사용 하기 위해 디자인 된 학습 재생 목록과 리소스를 제공 합니다. 새로운 작업을 원격으로 재생 목록 집합을 추가 하 고, Microsoft 팀 콘텐츠, 특히 팀 회의, 웹 재생 목록에 대 한 새로운 Office 집합 추가 및 새로운 Microsoft Forms 자산을 추가 했습니다. 업데이트의 일부로 관리자를 위한 원격 작업 리소스의 목록도 제공 했습니다.  
@@ -29,7 +156,7 @@ Office 365이 Microsoft 365에 다시 참가 했습니다. 이름 변경 내용�
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>원격으로 작업 (2 개의 새 재생 목록/11 개 새 자산)
 다음과 같은 재생 목록 및 자산을 제공 하는 학습 경로에 원격으로 새 작업에 하위 범주가 추가 되었습니다. 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![학습 보도 원격 재생 목록 작동](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>원격으로 작업 (5 개의 새 자산)
 - Office 365에서 원격으로 작업

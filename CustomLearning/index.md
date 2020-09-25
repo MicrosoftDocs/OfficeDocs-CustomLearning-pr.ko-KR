@@ -2,23 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Microsoft 365 학습 경로 개요
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: Microsoft 365의 학습 경로를 통해 조직에서 Microsoft 365 서비스의 사용 및 채택 속도를 향상 시키는 방법을 알아봅니다. 학습 경로에는 사용자 지정 SharePoint online 웹 파트 및 Microsoft 365 테 넌 트로 쉽게 프로 비전 되는 최신 SharePoint Online communications 교육 사이트가 포함 됩니다.
 ms.service: sharepoint online
-ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233490"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261660"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 
 Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용과 채택을 향상 시키기 위해 설계 된 맞춤형 주문형 학습 솔루션입니다.    
 
 > [!IMPORTANT]
-> 이제 고객 의견에 따라 학습 경로가 9 가지 언어로 다국어 지원을 제공 합니다. 학습 경로에 대해 다국어 지원을 사용 하도록 설정 하는 방법에 대 한 자세한 내용과 지침은 다음 항목을 참조 하십시오. 
->- [학습 경로에 대 한 다국어 지원 개요](custom_overview_ml.md) 
->- [학습 경로 옵션 설정](custom_setupoptions.md)  
+> 학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 9/24/2020 년 9 월 콘텐츠 업데이트에 대 한 학습 경로 콘텐츠가 업데이트 되었습니다. 9 월 2020 콘텐츠 업데이트에 대 한 자세한 내용은 [콘텐츠 업데이트](custom_contentupdates.md)를 참조 하세요. 콘텐츠 업데이트를 적용 하는 방법과 콘텐츠를 관리 하는 방법에 대 한 자세한 내용은 [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)를 참조 하세요.  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>주문형, Microsoft의 사용자 지정 교육
 
@@ -34,7 +32,7 @@ Microsoft 365 학습 경로는 다음과 같은 기능을 제공 합니다.
 ## <a name="sharepoint-look-book-service"></a>SharePoint 보기 서적 서비스
 SharePoint look book 서비스에서 학습 경로를 프로 비전 할 수 있습니다. Microsoft 365 학습 경로가 구축 되 면 조직에서는 온라인 교육 콘텐츠에 연결 된 학습 경로 웹 파트와 함께 기본 교육 포털로 설계 된 SharePoint Online 통신 사이트를 가져옵니다. 
 
-![cg-provision.png](media/cg-provision.png)
+![SharePoint 보기 책 프로 비전 페이지](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>간단한 4 단계
 이제 환경에 대 한 학습 경로 환경 만들기를 시작 해 보겠습니다.
