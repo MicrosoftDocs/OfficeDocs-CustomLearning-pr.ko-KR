@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: 학습 경로 콘텐츠 업데이트
 ms.date: 3/30/2020
 description: 학습 경로 콘텐츠 업데이트
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261697"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336406"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning 경로 콘텐츠 업데이트
 학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 다음은 9 월 2020 콘텐츠가 업데이트 된 목록입니다.
 
 ## <a name="september-2020-content-updates"></a>2020 년 9 월 콘텐츠 업데이트
 학습 경로는 분기별 콘텐츠 업데이트 사이클을 따르도록 합니다. 콘텐츠 업데이트를 적용 하는 방법과 콘텐츠 업데이트를 관리 하는 방법에 대 한 자세한 내용은 [콘텐츠 업데이트 관리](custom_contentupdatesmanage.md)를 참조 하세요. 
+
+> [!IMPORTANT]
+> 9 월 콘텐츠 업데이트가 영어로 출시 되었습니다. 중국어 (간체), 프랑스어, 독일어, 이탈리아어, 일본어, 포르투갈어 (브라질), 러시아어, 스페인어에 대 한 콘텐츠 업데이트가 곧 제공 될 예정입니다.  
 
 ### <a name="security"></a>보안
 Office 및 가정에서 더 안전 하 게 작업할 수 있도록 지원 되는 재생 목록 및 자산에 새 보안 하위 범주가 추가 되었습니다. 
