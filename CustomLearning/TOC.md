@@ -14,6 +14,7 @@
 ## [학습 경로 사용자 지정 재생 목록 번역](custom_translate_pl_ml.md)
 ## [사이트 이름, 탐색 및 바닥글 번역](custom_sitenamenav_ml.md)
 # [관리자 성공 센터](custom_successcenter.md)
+## [학습 경로가 있는 Teams용 어드바이저를 사용하여 Microsoft Teams 롤아웃 지원](custom_teamsadvisor.md)
 ## 학습 콘텐츠 계획 
 ### [학습 콘텐츠 계획](custom_plancontent.md)
 ### [원격 작업자 지원을 위한 리소스](custom_plancontent_remoteresources.md)
