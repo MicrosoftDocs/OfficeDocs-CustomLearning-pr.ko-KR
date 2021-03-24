@@ -5,12 +5,12 @@ title: 학습 경로 콘텐츠 업데이트
 ms.date: 3/30/2020
 description: 학습 경로 콘텐츠 업데이트
 ms.service: o365-solutions
-ms.openlocfilehash: 1cd46031ceb2ef1c88099d5556887aa7ea72cc80
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573420"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51163085"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 학습 경로 콘텐츠 업데이트
 학습 경로는 분기별 콘텐츠 업데이트 주기를 준수하기 위해 노력합니다. 콘텐츠 업데이트가 적용되는 방법 및 콘텐츠 업데이트를 관리하는 방법에 대한 자세한 내용은 [Manage Content Updates를 참조하세요.](custom_contentupdatesmanage.md) 
@@ -289,7 +289,7 @@ Office 365는 Microsoft 365로 다시 브랜드가 업데이트됩니다. 이름
 - 작업 파일 저장
 - 고급 대안
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Office 365와 공동 작업을 위한 모범 사례(새 자산 6개)
-- 시작
+- 시작하기
 - 공유
 - 공동 작성자
 - 파일 채팅
@@ -323,7 +323,7 @@ Teams 콘텐츠에 대한 다양한 업데이트가 적용된 경우
 ### <a name="office-for-the-web"></a>웹용 Office
 웹용 Office는 사용자가 웹에서 Office를 만들고, 공유하고, 공동 작업하려는 시나리오를 위한 재생 목록 집합을 제공합니다. 이 콘텐츠 집합은 Google G Suite에서 Microsoft 365로 전환하는 조직에도 가치가 있습니다.
 #### <a name="get-started-five-new-assets"></a>시작(새 자산 5개)
-- 시작
+- 시작하기
 - 검색을 사용하여 찾기
 - 새 문서 만들기
 - 직장으로 돌아가기
@@ -373,12 +373,12 @@ Teams 콘텐츠에 대한 다양한 업데이트가 적용된 경우
 
 ### <a name="resources-for-supporting-your-remote-workforce"></a>원격 작업자 지원을 위한 리소스
 학습 경로를 사용하여 원격 작업자를 지원하기 위한 학습 경로 사이트에서 방문 페이지를 만들 수 있습니다. 또는 학습 경로 사이트의 기존 지원 페이지에 학습 경로 웹 파트를 추가하고 웹 파트를 필터링하여 원격으로 작업 재생 목록을 표시할 수 있습니다. 다음은 조직에서 원격 작업을 지원하기 위한 Microsoft의 몇 가지 상위 리소스 목록입니다. 
-- [Microsoft Teams를 배포하는 방법](https://docs.microsoft.com/microsoftteams/how-to-roll-out-teams)
-- [Microsoft Teams에서의 모임 및 회의](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Microsoft Teams를 사용하여 원격 작업자 지원](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams)
-- [자주 묻는 질문(FAQ) - 원격 작업자 지원](https://docs.microsoft.com/microsoftteams/faq-support-remote-workforce)
+- [Microsoft Teams를 배포하는 방법](/microsoftteams/how-to-roll-out-teams)
+- [Microsoft Teams에서의 모임 및 회의](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [Microsoft Teams를 사용하여 원격 작업자 지원](/microsoftteams/support-remote-work-with-teams)
+- [자주 묻는 질문(FAQ) - 원격 작업자 지원](/microsoftteams/faq-support-remote-workforce)
 - [Microsoft IT가 직원을 위해 원격 작업을 사용하도록 설정하는 상위 9가지 방법](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Microsoft Teams 교육](https://docs.microsoft.com/microsoftteams/training-microsoft-teams-landing-page)
+- [Microsoft Teams 교육](/microsoftteams/training-microsoft-teams-landing-page)
 - [교육: Microsoft Education Center](https://education.microsoft.com) 
 - [교육: 원격 학습 시작](https://education.microsoft.com/resource/4c0c02c0)
 
@@ -445,4 +445,3 @@ OneDrive에 대해 추가된 비디오 자산은 다음과 같습니다.
 - 양식 만들기(하나의 자산)
 - 보고서 만들기(두 개의 자산)
 - 데이터베이스 보호(하나의 자산)
-
