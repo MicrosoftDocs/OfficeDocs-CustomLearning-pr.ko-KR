@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Microsoft 365 학습 경로 개요
 ms.date: 9/24/2020
 description: Microsoft 365 학습 경로가 조직에서 Microsoft 365 서비스의 사용 및 채택을 가속화하는 방법을 알아보습니다. 학습 경로에는 사용자 지정 SharePoint Online 웹 파트와 Microsoft 365 테넌트에 쉽게 프로비전되는 최신 SharePoint Online 통신 교육 사이트가 포함됩니다.
+audience: itpro
 ms.service: o365-solutions
-ms.openlocfilehash: 60a6775b1d128c3ed0b88df62dbf990c457fba33
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.topic: article
+ms.openlocfilehash: 240c0da6294d8b00f95fa5dcf7f66d4eea6814bb
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573410"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749356"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로 
 Microsoft 365 학습 경로는 조직에서 Microsoft 365 서비스의 사용 및 채택을 늘리기 위해 설계된 사용자 지정 가능한 주문형 학습 솔루션입니다.    

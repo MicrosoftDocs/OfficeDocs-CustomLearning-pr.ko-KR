@@ -1,88 +1,91 @@
 ---
+title: Microsoft 365 학습 경로 FAQ
 author: karuanag
 ms.author: karuanag
-title: Microsoft 365 학습 경로에 대 한 질문과 대답
 ms.date: 02/10/2019
-description: Microsoft 365 학습 경로에 대 한 질문과 대답 정보
-ms.service: sharepoint online
-ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.topic: article
+manager: alexb
+audience: itpro
+description: Microsoft 365 학습 경로에 대한 질문과 대답 정보
+ms.service: sharepoint-online
+ms.openlocfilehash: f791d6421740c3458be525a7e306b10edab58259
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233540"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749406"
 ---
-# <a name="frequently-asked-questions"></a>FAQ
+# <a name="frequently-asked-questions"></a>자주 묻는 질문
 
-### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>최근에 Office 365에 대 한 사용자 지정 학습을 Microsoft 365 학습 경로 라고 하는 블로그 게시물을 보았습니다. 이름 바꾸기 작업의 일부로 솔루션에 추가 되는 다른 변경 내용이 있습니까? 조직에서 솔루션을 업데이트 해야 하나요?
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>최근에 Office 365용 사용자 지정 학습이 Microsoft 365 학습 경로로 이름을 지정하는 블로그 게시물을 보했습니다. 이름 변경의 일환으로 솔루션에 추가되는 다른 변경 사항이 있나요? 조직에서 솔루션을 업데이트해야 하나요?
 
-Microsoft 365 learning 경로 릴리스는 Microsoft 365 브랜딩에 맞게 솔루션 이름을 변경 하는 데 사용 되는 다시 브랜딩 작업입니다. 현재 조직에서 실행 중인 Office 365에 대 한 사용자 지정 학습을 가진 경우에는 지금은 솔루션을 업데이트할 필요가 없습니다.  
+Microsoft 365 학습 경로 릴리스는 Microsoft 365 브랜디드에 맞게 솔루션 이름을 변경하는 데 전념하는 브랜드 변경입니다. 현재 조직에서 Office 365용 사용자 지정 학습이 성공적으로 실행되고 있는 경우 현재 솔루션을 업데이트할 필요가 없습니다.  
 
-### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>내 테 넌 트 환경에 Microsoft 365 학습 경로를 설치 하기 위한 요구 사항은 무엇 인가요?
+### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>테넌트 환경에 Microsoft 365 학습 경로를 설치하기 위한 요구 사항은 무엇입니까?
 
 - SharePoint Online 및 커뮤니케이션 사이트를 사용할 수 있습니다.
-- CLO365을 프로 비전 할 개인은 설치 대상 테 넌 트의 테 넌 트 관리자 여야 합니다.
-- SharePoint 관리 센터의 ' 앱 ' 옵션 내에서 테 넌 트 ' 앱 카탈로그 '를 사용할 수 있어야 합니다.
-- 새 앱 카탈로그를 만든 경우 앱 카탈로그를 완전히 프로 비전 하려면 대기 시간이 30 분 이상 이어야 합니다. 테 넌 트 앱 카탈로그를 만든 후 Microsoft 365 학습 경로를 직접 프로 비전 하려고 하면 학습 경로 솔루션의 프로 비전 오류가 발생 합니다. 
-- CLO365을 프로 비전 할 개인은 설치를 위해 대상 테 넌 트의 앱 카탈로그에 대 한 사이트 모음 관리자 여야 합니다.
+- CLO365를 프로비전할 개인은 설치할 대상 테넌트의 테넌트 관리자 되어야 합니다.
+- '앱 카탈로그' 테넌트는 SharePoint 관리 센터의 '앱' 옵션 내에서 사용할 수 있어야 합니다.
+- 새 앱 카탈로그를 만들 경우 앱 카탈로그를 완전히 프로비전하려면 30분 이상의 대기 시간이 필요합니다. 테넌트 앱 카탈로그를 만드는 직후 Microsoft 365 학습 경로를 프로비전하려고 하면 학습 경로 솔루션의 프로비전 오류가 발생합니다. 
+- CLO365를 프로비전할 개인은 설치할 대상 테넌트에서 앱 카탈로그의 사이트 모음 관리자 되어야 합니다.
 
-### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Microsoft 365 학습 경로를 설치할 때 Microsoft에서 테 넌 트 권한을 요구 하는 이유 
+### <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Microsoft가 Microsoft 365 학습 경로를 설치할 때 테넌트 권한을 요청하는 이유 
 
-- SharePoint Online 프로 비전 서비스는 사용 권한을 사용 하 여 학습 경로 SharePoint 사이트를 프로 비전 하 고, 사이트의 페이지를 만들고, 테 넌 트 내에서 Microsoft 365 Learning 경로 응용 프로그램을 설치 합니다. 이는 사용 권한을 요청 하는 유일한 이유입니다. 요청 된 사용 권한이 없으면 SharePoint 프로 비전 서비스가 학습 경로 사이트 서식 파일 및 웹 파트를 자동으로 설치 하는 명령을 실행할 수 없습니다. 
+- SharePoint Online 프로비저닝 서비스는 사용 권한을 사용하여 학습 경로 SharePoint 사이트를 프로비전하고, 사이트의 페이지를 만들고, 테넌트 내에 Microsoft 365 학습 경로 응용 프로그램을 설치합니다. 그 이유는 사용 권한을 요청하는 유일한 이유입니다. 요청된 사용 권한이 없는 경우 SharePoint 프로비전 서비스는 학습 경로 사이트 서식 파일 및 웹 파트를 자동으로 설치하는 명령을 실행할 수 없습니다. 
 
-### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>베타 미리 보기에 있는 Microsoft 365 학습 경로의 의미는 무엇 인가요? 
+### <a name="what-are-the-implications-of-microsoft-365-learning-pathways-being-in-a-beta-preview"></a>베타 미리 보기에서 Microsoft 365 학습 경로의 의미는 무엇입니까? 
 
-Microsoft 365 학습 경로는 현재 베타 미리 보기 상태입니다. Microsoft 365 학습 경로를 평가, 계획 및 구현 하는 경우 다음 사항을 고려 하세요.
+Microsoft 365 학습 경로는 현재 베타 미리 보기에 있습니다. Microsoft 365 학습 경로를 평가, 계획 및 구현할 때 다음을 고려합니다.
 
-- 모든 베타 솔루션과 마찬가지로 서비스 관리 팀은 서비스 및 해당 구성 요소를 변경할 수 있는 권한을 보유 합니다. 버그 및 UX 문제를 적극적으로 해결할 때 웹 파트를 업데이트 해야 할 수 있습니다.
-- 웹 파트를 업데이트 하려면 GitHub 리포지토리에서 다운로드 하 여 테 넌 트 앱 카탈로그에 업로드 해야 합니다. Microsoft 365 학습용 경로 [추가 정보](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) 파일의 "솔루션 업데이트" 섹션을 참조 하세요. 
+- 모든 베타 솔루션과 함께 서비스 관리 팀은 서비스 및 해당 구성 요소를 변경할 수 있는 권리가 있습니다. 버그 및 UX 문제를 적극적으로 해결하고 있는 경우 WebPart를 업데이트해야 할 수 있습니다.
+- 웹 파트를 업데이트하려면 GitHub 리포지토리에서 웹 파트를 다운로드하여 테넌트 앱 카탈로그에 업로드해야 합니다. Microsoft 365 학습 경로 읽기 파일의 "솔루션 업데이트" [섹션을 참조하세요.](https://github.com/pnp/custom-learning-office-365/blob/master/README.md) 
 
-### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 학습 경로는 어떤 언어로 제공 됩니까?
+### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>Microsoft 365 학습 경로를 사용할 수 있는 언어는 무엇입니까?
 
-Microsoft 365 학습 경로는 현재 영어로만 제공 됩니다. 자동 종단 간 프로비저닝을 영어 테 넌 트와 함께 작동 합니다. 2020의 2 사분기에 다음과 같은 언어에 대 한 다국어 지원을 배포 하는 방법을 계획 하 고 있습니다. 
+Microsoft 365 학습 경로는 현재 영어로만 제공됩니다. 자동 종단-종단 프로비전은 영어 테넌트에서만 작동합니다. 2020년 2분기에는 다음 언어에 대한 다국어 지원을 롤아웃할 계획입니다. 
 
 - 중국어(간체) 
 - 프랑스어  
 - 독일어 
 - 이탈리아어(이탈리아) 
-- 일본어 (일본)  
-- 포르투갈어 (브라질) 
-- 러시아어 (러시아어)  
+- 일본어(일본)  
+- 포르투갈어(브라질) 
+- 러시아어(러시아어)  
 - 스페인어 
 
-> 지원 되는 학습 경로에 대 한 여러 언어 지원 릴리스에는 네덜란드어 언어 지원이 포함 되지 않습니다. 나중에 새로운 언어 옵션을 계속 평가할 예정입니다.
+> 다가오는 학습 경로에 대한 다국어 지원 릴리스에는 네덜란드어 지원이 포함되지 않습니다. 향후에도 새로운 언어 옵션을 평가할 예정입니다.
 
-### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>테 넌 트 환경에 사이트를 설치 하는 데 소요 되는 시간이 얼마나 걸립니까?
+### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>테넌트 환경에 사이트를 설치하는 데 시간이 얼마나 걸릴까요?
 
-설치 테스트를 기반으로 15 분 미만 시간이 소요 됩니다. 여기에는 요구 사항에 맞게 사이트를 사용자 지정하는 데 필요한 시간은 포함되지 않습니다.
+설치 테스트에 따라 15분 미만이 걸립니다. 여기에는 요구 사항에 맞게 사이트를 사용자 지정하는 데 필요한 시간은 포함되지 않습니다.
 
-### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 학습 경로는 오픈 소스 솔루션 이며 의미는 무엇 인가요?
+### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 학습 경로가 오픈 소스 솔루션인가요? 그 의미는 무엇입니까?
 
-Microsoft 365 학습 경로는 oss (Open Source Software) 솔루션이 며, 이러한 솔루션은 germane에 따라 혜택 및 고려 사항 집합을 제공 합니다.
+Microsoft 365 학습 경로는 OSS(오픈 소스 소프트웨어) 솔루션으로, OSS에 다양한 이점과 고려 사항을 제공합니다.
 
 #### <a name="benefits"></a>이점 
-- **Microsoft 365 학습 경로는 무료 솔루션입니다.** 고객은 테 넌 트에서 솔루션을 설치 하 고, 사용자 지정 하 여 최종 사용자가 사용할 수 있도록 합니다.
-- **OSS를 사용 하면 신속한 개발과 공동 작업을 수행할 수 있습니다.**  모든 오픈 소스 솔루션은 다양 한 참가자 커뮤니티에서 사용할 수 있습니다.  Microsoft는 혁신을 추진 하는이 방법에 최선을 다하고 있습니다.  고객의 가장 넓은 집합에 도움이 되는 환경을 제공 하기 위해 핵심 서비스 관리 팀은 공식 빌드로 병합 되는 기고 물을 결정 하기 위한 권한을 예약 합니다.  
-- **OSS를 사용 하 여 파트너와 공동 작업을 수행할 수 있습니다.** Microsoft는 Microsoft 365 학습 경로에 대 한 향후 확장 및 기고를 지원 하기 위해 몇 가지 학습 파트너와 협력 하 고 있습니다. 이러한 요금제가 종료 될 때 추가 정보를 제공 합니다. 
+- **Microsoft 365 학습 경로는 무료 솔루션입니다.** 고객은 테넌트에 솔루션을 설치하고, 솔루션을 사용자 지정하고, 최종 사용자가 사용할 수 있도록 할 수 있습니다.
+- **OSS를 사용하면 신속한 개발 및 공동 작업을 가능하게 합니다.**  모든 오픈 소스 솔루션은 광범위한 참가자 커뮤니티에서 사용할 수 있습니다.  Microsoft는 이러한 혁신을 추진하기 위해 최선을 다하고 있습니다.  핵심 서비스 관리 팀은 가장 광범위한 고객에게 혜택을 제공하는 환경을 제공하도록 보장하기 위해 공식 빌드에 병합되는 기여를 결정할 수 있는 권리가 있습니다.  
+- **OSS를 사용하면 파트너와 공동 작업을 할 수 있습니다.** Microsoft는 여러 학습 파트너와 협력하여 향후 Microsoft 365 학습 경로에 대한 노력과 기여를 지원하고 있습니다. 이러한 계획이 마무리될 때 추가 정보를 제공할 것입니다. 
     
-#### <a name="implications"></a>상당한
-- **OSS는 상업적으로 사용할 수 없는 제품입니다.** 상용 제품에는 업데이트 및 패치가 포함 되며 유료 지원 계약에 포함 됩니다. 현재 Microsoft에서 제공 하는 microsoft 365 학습 경로에 대 한 설명서, 업데이트 및 패치는 이러한 특정 비즈니스 시나리오를 개선 하기 위한 노력을 기반으로 합니다. 이 계획은 학습 경로에 계속 투자 하는 것 이지만 고객은 서비스 관리 팀이 향후 전략을 변경할 수 있다는 점을 염두에 두어야 합니다. 이후에 Microsoft 365 학습 경로에 대 한 변경 내용이 적용 되기 전에 전달 됩니다. 
-- **OSS에서 microsoft 365 학습 경로는 GitHub의 온라인 문제 목록을 통해 지원 되며**microsoft 365 learning 경로는 기존 microsoft 지원 계약에 포함 되지 않습니다. 제출 된 문제는 Microsoft 365 learning 경로 서비스 소유자 및 커뮤니티에서 심사 됩니다. 문제 해결 서비스 수준은 유료 Microsoft 지원 계약과는 수준이 다릅니다.  
+#### <a name="implications"></a>의미
+- **OSS는 상업용 제품이 아니며,** 상업용 제품에는 업데이트 및 패치가 포함되고 유료 지원 계약에 포함됩니다. Microsoft는 현재 Microsoft 365 학습 경로에 대한 설명서, 업데이트 및 패치를 제공하면서 이러한 특정 비즈니스 시나리오를 개선하기 위한 노력의 기반이 됩니다. 당사의 계획은 학습 경로에 계속 투자할 계획입니다. 서비스 관리 팀은 향후 전략을 변경할 수 있습니다. Microsoft 365 학습 경로에 대한 향후 변경 사항은 적용에 앞서 전달됩니다. 
+- **OSS로 Microsoft 365** 학습 경로는 GitHub의 온라인 문제 목록을 통해 지원됩니다. Microsoft 365 학습 경로는 기존 Microsoft 지원 계약에 적용되지 않습니다. 제출된 문제는 Microsoft 365 학습 경로 서비스 소유자 및 커뮤니티에서 검토합니다. 문제 해결 서비스 수준은 유료 Microsoft 지원 계약과 수준이 동일하지 않습니다.  
 
-### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>Microsoft 365 학습 경로를 기본 SharePoint 사이트 모음의 하위 사이트를 만들 수 있나요?
+### <a name="can-we-make-the-microsoft-365-learning-pathways-a-subsite-of-our-primary-sharepoint-site-collection"></a>Microsoft 365 학습 경로를 기본 SharePoint 사이트 모음의 하위 사이트로 만들 수 있나요?
 
-아니요. 이 사이트는 항상 루트 사이트 모음으로 사용 되는 통신 사이트 서식 파일을 기반으로 합니다.
-
-> [!NOTE]
-> 최종 사용자가 사이트에 액세스 하는 데 필요한 사용 권한을 고려해 야 합니다. 대부분의 조직에서는 보안 또는 사용자 그룹을 정의 합니다. 직원 커뮤니티에 시작할 준비가 되 면 새 교육 포털에 적절 한 보안 그룹을 추가 해야 합니다.
-
-### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>사이트를 다시 설치 해야 합니다. 제가 뭘 해야 하나요?
-
-[여기](custom_provision.md)에 게시 된 설치 지침을 따릅니다.
+아니요. 이 사이트는 항상 루트 사이트 모음인 커뮤니케이션 사이트 서식 파일을 기반으로 합니다.
 
 > [!NOTE]
-> 이전 설치에서 원격 분석을 사용 하지 않도록 설정 했으며 원격 분석을 계속 사용 하지 않도록 설정 하려면 여기에서 원격 분석을 사용 하지 않도록 설정 하기 위한 지침을 따라야 합니다.
+> 최종 사용자가 사이트에 액세스하는 데 필요한 사용 권한을 고려해야 합니다. 대부분의 조직에서는 보안 또는 사용자 그룹을 정의했습니다. 직원 커뮤니티에 시작할 준비가 된 후 새 교육 포털에 적절한 보안 그룹을 추가해야 합니다.
 
-### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Microsoft 365 학습 경로 구현에 대 한 업데이트를 수행 했습니다. 사이트를 다시 설치 하는 경우 이러한 업데이트 (사이트 서식 파일, 재생 목록)가 손실 됩니까?
+### <a name="i-need-to-reinstall-the-site-what-should-i-do"></a>사이트를 다시 설치해야 합니다. 제가 뭘 해야 하나요?
 
-현재 설치 된 사이트를 다시 설치 하면 개별 페이지 및 사용자 지정 재생 목록에 대 한 사용자 지정 내용이 손실 됩니다.  
+여기에 게시된 설치 지침을 [따릅니다.](custom_provision.md)
+
+> [!NOTE]
+> 이전 설치에서 원격 분석 기능을 사용하지 않도록 설정한 경우 원격 분석 사용 안 을 계속하려면 여기에서 원격 분석 비활성화 지침을 따라야 합니다.
+
+### <a name="we-made-updates-to-our-implementation-of-microsoft-365-learning-pathways-will-we-lose-these-updates-made-to-site-template-playlists-if-we-reinstall-the-site"></a>Microsoft 365 학습 경로 구현을 업데이트했습니다. 사이트를 다시 설치하면 이러한 업데이트(사이트 서식 파일, 재생 목록에 적용)가 손실될 수 있나요?
+
+현재 설치를 통해 사이트를 다시 설치하면 개별 페이지 및 사용자 지정 재생 목록의 사용자 지정이 손실됩니다.  

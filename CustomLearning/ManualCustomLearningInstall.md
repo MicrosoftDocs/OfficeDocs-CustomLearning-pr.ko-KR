@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: 수동 설치 학습 경로
 ms.date: 02/18/2019
+manager: bpardi
 description: 수동 설치 학습 경로
-ms.service: sharepoint online
-ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+audience: itpro
+ms.service: o365-administration
+ms.topic: article
+ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162845"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749316"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Office 365용 사용자 지정 학습 수동 설치 및 구성
 
@@ -26,11 +29,11 @@ Microsoft 사용자 지정 학습 웹 파트는 [SharePoint Framework](/sharepoi
 
 ## <a name="prerequisites"></a>필수 구성 요소
 
-테넌트 전체 앱 카탈로그를 설정하고 구성해야 합니다. Office [365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) 테넌트 설정 및 앱 카탈로그 사이트 만들기 섹션을 참조하세요. 테넌트 전체 앱 카탈로그가 이미 프로비전된 경우 이 설치 프로세스를 완료하기 위해 패키지를 업로드할 권한이 있는 계정에 액세스해야 합니다. 일반적으로 이 계정은 SharePoint 관리자 역할이 있는 계정입니다. 해당 역할의 계정이 작동하지 않는 경우 SharePoint 관리 센터로 이동하여 앱 카탈로그 사이트 모음에 대한 사이트 모음 관리자를 찾은 다음 사이트 모음 관리자 중 하나로 로그인하거나 사이트 모음 관리자에게 실패한 SharePoint 관리자 계정을 추가합니다. 또한 SharePoint 테넌트 관리자인 계정에 대한 액세스 권한이 필요합니다.
+테넌트 전체 앱 카탈로그를 설정하고 구성해야 합니다. [Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) 테넌트 설정 및 앱 카탈로그 사이트 만들기 섹션을 참조하세요. 테넌트 전체 앱 카탈로그가 이미 프로비전된 경우 이 설치 프로세스를 완료하기 위해 패키지를 업로드할 권한이 있는 계정에 액세스해야 합니다. 일반적으로 이 계정에는 SharePoint 관리자 역할이 있습니다. 해당 역할의 계정이 작동하지 않는 경우 SharePoint 관리 센터로 이동하여 앱 카탈로그 사이트 모음에 대한 사이트 모음 관리자를 찾은 다음 사이트 모음 관리자 중 하나로 로그인하거나 사이트 모음 관리자에게 실패한 SharePoint 관리자 계정을 추가합니다. 또한 SharePoint 테넌트 관리자인 계정에 대한 액세스 권한이 필요합니다.
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>테넌트 앱 카탈로그에 웹 파트 업로드
 
-Office 365에 대한 사용자 지정 학습을 설정하려면 사용자 지정learning.sppkg 파일을 테넌트 전체 앱 카탈로그에 업로드하고 배포합니다. 앱 [카탈로그에](/sharepoint/use-app-catalog) 앱을 추가하는 방법에 대한 자세한 내용은 앱 카탈로그를 사용하여 SharePoint Online 환경에서 사용자 지정 비즈니스 앱을 사용할 수 있도록 만들기를 참조하세요.
+Office 365에 대한 사용자 지정 학습을 설정하려면 사용자 지정learning.sppkg 파일을 테넌트 전체 앱 카탈로그에 업로드하고 배포합니다. 앱 카탈로그에 앱을 추가하는 방법에 대한 자세한 내용은 앱 카탈로그를 사용하여 [SharePoint Online](/sharepoint/use-app-catalog) 환경에 사용자 지정 비즈니스 앱을 사용할 수 있도록 만들기를 참조하세요.
 
 ## <a name="provisionidentify-modern-communication-site"></a>최신 커뮤니케이션 사이트 프로비전/식별
 
@@ -48,7 +51,7 @@ Office 365에 대한 사용자 지정 학습을 설정하려면 사용자 지정
 
 ### <a name="disabling-telemetry-collection"></a>원격 분석 컬렉션을하지 않습니다.
 
-이 솔루션의 일부에는 기본적으로 설정되어 있는, 비동기화된 원격 분석 추적 옵트인이 포함되어 있습니다. 수동 설치를 수행하고 있으며 원격 분석 추적을 해제하려면 스크립트를 변경하여 $optInTelemetry 변수를 `CustomlearningConfiguration.ps1` $false.
+이 솔루션의 일부에는 기본적으로 설정되어 있는, 비동기화된 원격 분석 추적 옵트인이 포함되어 있습니다. 수동 설치를 수행하고 원격 분석 추적을 해제하려면 스크립트를 변경하여 $optInTelemetry 변수를 `CustomlearningConfiguration.ps1` $false.
 
 수동 설치를 수행하지 않는 경우 원격 분석 추적을 해제하려면 실행 시 원격 분석 추적을 사용하지 않도록 설정하는 별도의 `TelemetryOptOut.ps1` 스크립트가 포함되어 있습니다.
 
@@ -56,4 +59,4 @@ Office 365에 대한 사용자 지정 학습을 설정하려면 사용자 지정
 
 PowerShell 스크립트가 성공적으로 실행된 후 로 `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx` 이동합니다. 이렇게 하면 처음 사용할 사용자 지정 학습을 설정하는 CustomConfig 목록 항목이 초기화됩니다.
 
-이제 구성이 완료되어 Office 365용 사용자 지정 학습을 사용하여 진행할 수 있습니다. 자세한 내용은 사용자 설명서를 참조하세요.
+이제 구성이 완료되어 Office 365용 사용자 지정 학습을 사용하여 진행할 수 있습니다. 자세한 내용은 사용자 설명서를 참조하십시오.

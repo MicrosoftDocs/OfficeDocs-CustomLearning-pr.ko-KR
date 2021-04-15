@@ -2,15 +2,15 @@
 author: pkrebs
 ms.author: pkrebs
 title: 학습 경로 기능 업데이트
-ms.date: 10/20/2019
+ms.date: 4/13/2021
 description: 학습 경로 기능 업데이트
-ms.service: sharepoint online
-ms.openlocfilehash: dba6903553ef5b51bc6d1e727c0e61781f9db26a
-ms.sourcegitcommit: 349d9164eb268cb701a9c99c88053198ee3a032c
+ms.service: o365-solutions
+ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
+ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50573390"
+ms.lasthandoff: 04/14/2021
+ms.locfileid: "51755284"
 ---
 # <a name="learning-pathways-version-40-feature-updates"></a>학습 경로 버전 4.0 기능 업데이트
 다음은 학습 경로 버전 4.0에 대한 기능 업데이트입니다.  
@@ -48,7 +48,8 @@ ms.locfileid: "50573390"
 - 일본어(일본) 
 - 포르투갈어(브라질) 
 - 러시아어(러시아어) 
-- 스페인어 
+- 스페인어
+- 네덜란드어 
 
 
 자세한 내용은 학습 경로 [다국어 개요를 참조하세요.](custom_overview.md) 
@@ -65,9 +66,6 @@ ms.locfileid: "50573390"
 자세한 내용은 다음을 참조하세요.
 - [사용자 지정 재생 목록 만들기.](custom_createnewplaylist.md) 
 - [하위Category 만들기](custom_createnewcat.md)
-
-> [!NOTE]
-> 다가오는 학습 경로에 대한 다국어 지원 릴리스에는 네덜란드어 지원이 포함되지 않습니다. 향후에도 새로운 언어 옵션을 평가할 예정입니다.
 
 ## <a name="november-2019-version-30-feature-updates"></a>2019년 11월 버전 3.0 기능 업데이트
 고객 의견을 기반으로 Microsoft 365 학습 경로 버전 3.0에 다음과 같은 새로운 기능이 추가되었습니다.
