@@ -1,17 +1,17 @@
 ---
-title: Office 365 년 동안 아침의 일
-description: Office 365을 사용 하 여 날짜를 즉시 준비 하기 위한 빠른 단계
+title: Office 365를 통해 일상의 하루 - 모닝 커피
+description: Office 365를 통해 하루를 준비할 수 있는 빠른 단계
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 5da7b3eb0e7b66c81c0bf3586509719c912ab609
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: f0249a5f86e3ba99d1e53e7e9dc51d8cb5007c11
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233700"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000104"
 ---
 # <a name="during-morning-coffee"></a>모닝 커피를 마시며
 

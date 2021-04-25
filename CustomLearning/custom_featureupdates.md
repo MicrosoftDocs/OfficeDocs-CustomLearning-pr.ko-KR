@@ -1,17 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-title: 학습 경로 기능 업데이트
-ms.date: 4/13/2021
-description: 학습 경로 기능 업데이트
-ms.service: o365-solutions
-ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
-ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
-ms.translationtype: MT
-ms.contentlocale: ko-KR
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755284"
----
+작성자: pkrebs ms.author: pkrebs 제목: 학습 경로 기능 업데이트 ms.date: 2021년 4월 13일 설명: 학습 경로 기능 업데이트 ms.service: sharepoint-online
+
 # <a name="learning-pathways-version-40-feature-updates"></a>학습 경로 버전 4.0 기능 업데이트
 다음은 학습 경로 버전 4.0에 대한 기능 업데이트입니다.  
 

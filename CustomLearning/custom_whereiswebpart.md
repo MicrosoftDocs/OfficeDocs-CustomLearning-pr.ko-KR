@@ -1,68 +1,66 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Microsoft 365 학습 웹 파트
+title: Microsoft 365 학습 웹 파트는 어디인가
 ms.date: 02/15/2019
-description: 학습용 경로 사이트에서 학습 경로 웹 파트가 표시 되는 위치에 대해 알아봅니다.
-ms.service: sharepoint online
-ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: 학습 경로 사이트에 학습 경로 웹 파트가 나타나는 위치 학습
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 75d753a8f6b6dd65c5b723588bc83238ad63b35a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233750"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000224"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Microsoft 365 학습 경로 웹 파트는 어디에 있나요? 
 
-조직에서 학습 경로를 프로 비전 하는 경우에는 학습 경로 사이트 및 웹 파트가 조직의 SharePoint 테 넌 트에 추가 됩니다. 프로 비전의 일부로 microsoft 365 학습 웹 파트가 Microsoft 365 학습 경로 사이트의 다음 페이지에 추가 됩니다.
+조직에서 학습 경로를 프로비전하면 학습 경로 사이트 및 웹 파트가 조직의 SharePoint 테넌트에 추가됩니다. 프로비저닝의 일환으로 Microsoft 365 학습 웹 파트가 Microsoft 365 학습 경로 사이트의 다음 페이지에 추가됩니다.
 
-- Start-with-Six-Simple-Steps .aspx 
-- Recommended-Playlists .aspx
-- Office 365 .aspx로 시작
-- Get-started-with-Microsoft-Teams .aspx
-- Get-started-with-OneDrive .aspx
-- Get-started-with-SharePoint .aspx
-- 학습 경로 관리자의 성공한 .aspx
+- Start-with-Six-Simple-Steps.aspx 
+- Recommended-Playlists.aspx
+- Get-Office 365.aspx 시작
+- Get-started-with-Microsoft-Teams.aspx
+- Get-started-with-OneDrive.aspx
+- Get-started-with-SharePoint.aspx
+- 학습 경로 관리 성공 센터.aspx
 
-각 페이지에서 웹 파트는 페이지의 의도를 지원 하기 위해 디자인 된 범주, 하위 범주, 재생 목록 또는 자산을 표시 하는 방식으로 구성 됩니다. 나중 섹션에서 소개 하는 것 처럼 학습 경로 웹 파트를 SharePoint 페이지에만 추가 하 고 특정 범주, 하위 범주, 재생 목록 또는 자산만 표시 하도록 필터링 할 수 있습니다. 잠시 살펴보겠습니다. 
+각 페이지에 대해 웹 파트는 페이지의 의도를 지원하도록 설계된 범주, 하위 범주, 재생 목록 또는 자산을 표시하도록 다르게 구성됩니다. 학습 경로 웹 파트는 이후 섹션에서 보여 주겠지만, SharePoint 페이지에 추가하고 특정 범주, 하위 범주, 재생 목록 또는 자산만 표시하도록 필터링할 수 있습니다. 살펴보시겠어요. 
 
-## <a name="view-microsoft-teams-playlists"></a>Microsoft 팀 재생 목록 보기
+## <a name="view-microsoft-teams-playlists"></a>Microsoft Teams 재생 목록 보기
 
-다음은 팀에 대 한 학습 재생 목록을 보여 주기 위해 필터링 된 웹 파트를 사용 하 여 **Microsoft 팀에 시작** 페이지의 예입니다. 
+다음은 Teams에 대한 학습 재생 목록을 표시하기 위해 웹 파트가 필터링된 **Microsoft Teams** 시작 페이지의 예입니다. 
 
-- 학습 경로 홈 페이지에서 **Microsoft 팀 시작**을 선택 합니다.
+- 학습 경로 홈 페이지에서 Microsoft **Teams 시작을 선택합니다.**
+![Microsoft Teams 시작 화면](media/cg-whereiswp-teams.png)
 
-![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
+- 학습 경로 **사이트** 메뉴에서 홈 메뉴를 클릭하여 사이트 홈 페이지로 돌아갑니다.
+![홈을 선택하는 학습 경로 화면입니다.](media/cg-homebtnmenu.png)
 
-- 학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.
+## <a name="view-the-six-simple-steps-playlist"></a>6단계 간단한 재생 목록 보기
 
-![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
+**Start-with-Six-Simple-Steps.aspx** 페이지의 웹 파트는 6개의 간단한 단계 재생 목록에 첫 번째 자산을 표시하도록 구성됩니다. 
 
-## <a name="view-the-six-simple-steps-playlist"></a>간단한 6 단계 재생 목록 보기
-
-**Start-with-Six-Simple-Steps** 페이지의 웹 파트가 6 개의 간단한 단계 재생 목록의 첫 번째 자산을 표시 하도록 구성 됩니다. 
-
-- 학습 경로 홈 페이지에서 **6 가지 간단한 단계로 시작**을 클릭 합니다. 
-
-![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
+- 학습 경로 홈 페이지에서 6단계로 **시작을 클릭합니다.** 
+![6단계로 시작을 선택하는 Office 365 페이지](media/cg-whereiswp-six.png)
 
 ## <a name="view-all-microsoft-365-training"></a>모든 Microsoft 365 교육 보기
 
-**Microsoft 365 교육** 페이지의 웹 파트는 학습 경로 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 됩니다. 여기에는 조직에 대해 만든 하위 범주와 함께 Microsoft의 하위 범주가 포함 됩니다.
+**Microsoft 365** 교육 페이지의 웹 파트는 학습 경로 카탈로그에서 사용할 수 있는 모든 범주 및 하위 범주를 표시하도록 구성됩니다. 여기에는 조직을 위해 만든 모든 하위 하위와 함께 Microsoft의 하위 구성이 포함됩니다.
 
-- 학습 경로 홈 페이지에서 **Microsoft 365 교육**을 클릭 합니다. 사용자 지정 학습 카탈로그에서 사용 가능한 모든 범주와 하위 범주를 표시 하도록 구성 된 웹 파트가 포함 된 페이지가 나타납니다.
+- 학습 경로 홈 페이지에서 Microsoft **365 교육 을 클릭합니다.** 페이지가 사용자 지정 학습 카탈로그에서 사용할 수 있는 모든 범주 및 하위 범주를 표시하도록 구성된 웹 파트와 함께 나타납니다.
+![범주를 표시하는 경로 창입니다.](media/cg-whereiswp-o365.png)
 
-![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
-
-- 학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.
+- 학습 경로 **사이트** 메뉴에서 홈 메뉴를 클릭하여 사이트 홈 페이지로 돌아갑니다.
 
 ## <a name="view-the-web-part-on-the-admin-success-center-page"></a>관리 성공 센터 페이지에서 웹 파트 보기
 
-**관리 성공 센터** 페이지의 웹 파트가 관리 성공 센터에 사용할 수 있는 모든 재생 목록을 필터링 하도록 구성 됩니다. 다음 예제와 같이 웹 파트가 페이지에 추가 되어 관리 자원에 대 한 빠른 링크도 포함 되어 있습니다. 
+관리 성공 센터  페이지의 웹 파트는 관리 성공 센터에 사용할 수 있는 모든 재생 목록을 필터링하도록 구성됩니다. 다음 예제와 같이 웹 파트는 관리 리소스에 대한 빠른 링크도 포함된 페이지에 추가됩니다. 
 
-- 학습 경로 홈 페이지에서 **관리 성공 센터 시작**을 클릭 합니다. 단추. 
+- 학습 경로 홈 페이지에서 관리 성공 센터 **시작을 클릭합니다.** 단추. 
+![관리자 성공 센터 기본 페이지.](media/cg-adminsuccesscenterwebpart.png)
 
-![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
-
-- 학습 경로 사이트 메뉴에서 **홈** 메뉴를 클릭 하 여 사이트 홈 페이지로 돌아갑니다.
+- 학습 경로 **사이트** 메뉴에서 홈 메뉴를 클릭하여 사이트 홈 페이지로 돌아갑니다.
 

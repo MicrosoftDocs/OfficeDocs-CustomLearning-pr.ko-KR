@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: 파트너 온보딩 가이드
 ms.date: 3/9/2019
 description: Microsoft 365 학습 경로에 대한 파트너 온보더링 가이드
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163035"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999424"
 ---
 # <a name="partner-onboarding-guide"></a>파트너 온보딩 가이드
 아래 설명된 세 단계에 따라 학습 경로를 시작하세요. 세 단계를 통해 고객과 프레젠테이션을 참여하는 데 사용할 수 있는 매력적인 데모를 만들 수 있습니다. 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![5단계 온보더링 프로세스를 보여 주는 차트입니다.](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Microsoft 365 데모 환경 만들기
 이 demos.microsoft.com 사용하여 서비스를 프로비전하고 유효성을 검사한 후 고객에게 학습 경로를 제공하는 데 사용할 수 있는 데모 환경을 만들 수 있습니다. 모든 파트너는 이러한 목적으로 https://demos.microsoft.com 액세스할 수 있습니다. 데모 환경을 demos.microsoft.com 경우  시작 가이드를 사용할 수 있습니다.

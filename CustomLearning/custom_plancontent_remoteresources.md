@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 원격 작업자 지원을 위한 리소스
 ms.date: 3/31/2020
 description: 원격 작업자 지원을 위한 리소스
-ms.service: sharepoint online
-ms.openlocfilehash: b32defa9e60066db33d6d978f1894cea00da446c
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bc9490be06945a5945c1e0569abd94ecde17f30f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163015"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999414"
 ---
 # <a name="resources-for-supporting-your-remote-workforce"></a>원격 작업자 지원을 위한 리소스
 Covid-19 발생에 대응하여 2020년 4월 콘텐츠 업데이트는 조직에서 원격 작업을 사용하도록 설정하는 데 초점을 맞추는 학습 재생 목록 및 리소스를 제공합니다. Microsoft는 새로운 작업 원격 재생 목록 집합을 추가하고, 특히 Teams 모임의 경우 Microsoft Teams 콘텐츠를 대폭 업데이트하고, 웹 재생 목록용 Office의 새 집합을 추가했습니다. 

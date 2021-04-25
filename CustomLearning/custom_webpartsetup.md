@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 사용자 지정 학습 사이트 프로비전
 ms.date: 02/10/2019
 description: SharePoint 프로비전 엔진을 통해 Office 365용 사용자 지정 학습 사이트 프로비전
-ms.service: sharepoint online
-ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: f930eba5815366bcefd2730c88a3c2df3f246dd4
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162925"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000324"
 ---
 # <a name="provision-custom-learning"></a>사용자 지정 학습 프로비전
 
@@ -27,26 +30,22 @@ SharePoint Online 프로비저닝 서비스를 사용하여 Office 365 테넌트
 ### <a name="to-provision-custom-learning"></a>사용자 지정 학습을 프로비전하기 위해
 
 1. 으로 http://provisioning.sharepointpnp.com **이동하여 홈 페이지의** 오른쪽 위 모서리에서 로그인합니다.  사이트 서식 파일을 설치할 대상 테넌트의 자격 증명으로 로그인합니다.
-
-![pnphome.png](media/inst_signin.png)
+![프로비저닝 서비스 기본 페이지.](media/inst_signin.png)
 
 2. 조직을 대신하여 동의를 **지우고** 수락 을 **선택합니다.**
-
-![in](media/inst_perms.png)
+![동의 화면](media/inst_perms.png)
 
 3. 솔루션 **갤러리에서 Office 365용** 사용자 지정 학습을 선택합니다.
+![Office 365용 사용자 지정 학습을 선택하는 화면입니다.](media/inst_select.png)
 
-![in](media/inst_select.png)
-
-4. 솔루션 홈 페이지에서 **테넌트에 추가를 선택합니다.**
-
-![inst_select.png](media/inst_add.png)
+4. 솔루션 홈 페이지에서 테넌트에 추가를 선택하는 테넌트 화면에  
+ ![ 추가를 선택합니다.](media/inst_add.png)
 
 5. 설치에 적합한 프로비저닝 정보 페이지의 필드 입력을 완료합니다. 최소한 프로비저닝 프로세스에 대한 알림을 받을 전자 메일 주소와 프로비전할 사이트의 대상 URL을 입력합니다.  
-> [!NOTE]
-> "/sites/MyTraining" 또는 "/teams/LearnOffice365" 등 직원에게 친숙한 사이트의 대상 URL을 만드세요.
+   > [!NOTE]
+   > "/sites/MyTraining" 또는 "/teams/LearnOffice365" 등 직원에게 친숙한 사이트의 대상 URL을 만드세요.
 
-![inst_options.png](media/inst_options.png)
+   ![프로비저닝 세부 정보를 제공하는 화면입니다.](media/inst_options.png)
 
 6. **테넌트** 환경에 사용자 지정 학습을 설치할 준비가 되면 프로비전을 선택합니다.  프로비저닝 프로세스는 최대 15분이 소요됩니다. 사이트에 액세스할 준비가 되면 이메일(프로비저닝 페이지에 입력한 알림 이메일 주소로)을 통해 알립니다.
 
@@ -66,6 +65,3 @@ SharePoint Online 프로비저닝 서비스를 사용하여 Office 365 테넌트
 4. 이 **그룹에 새** 사용자  >  **추가를 클릭하고** 소유자가 될 사용자를 추가한 다음 공유를 **클릭합니다.**
 
 8. 페이지 오른쪽 **위** 모서리에서 다음 옵션을 클릭하여 사이트를 팔로우합니다.  
-
-### <a name="next-steps"></a>다음 단계
-- [웹Part에 포함된](sitecontent.md) 기본 콘텐츠를 살펴보겠습니다.

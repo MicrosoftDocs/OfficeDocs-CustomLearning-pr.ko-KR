@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: 학습 경로 사용자 지정 재생 목록 번역
 ms.date: 07/06/2020
 description: 학습 경로 사용자 지정 재생 목록 번역
-ms.service: sharepoint online
-ms.openlocfilehash: c5c4c3b34a721295bdcd2e89bad865bc6760d058
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: 2b36479facd2a119753f193b2c4bf90e0ad21b68
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162835"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000354"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>학습 경로 사용자 지정 재생 목록 번역
 학습 경로를 사용하는 경우 사용자 지정 재생 목록으로 작업하는 방식은 학습 경로를 설정하는 방법에 따라 달라 습니다.  
@@ -35,7 +38,7 @@ ms.locfileid: "51162835"
 6. 복사한 재생 목록 세부 정보를 보려면 기본 언어(이 경우 영어)의 오른쪽에 있는 언어를 클릭합니다. 새 언어에 대한 세부 정보는 복사된 원래 재생 목록을 반영하며 번역이 필요 합니다.
 7. 번역할 재생 목록 세부 정보를 번역자에게 알리기 위해 메모를 만들어야 합니다.  
 
-![custom_update_ml_pldetail.png](media/custom_update_ml_pldetail.png)
+![샘플 이탈리아어 페이지입니다.](media/custom_update_ml_pldetail.png)
 
 > [!IMPORTANT]
 > 번역기 알림은 사용자 지정 재생 목록에 기본 제공되지 않습니다. 번역자는 수동으로 알림을 해야합니다. 번역자는 기본 언어 세부 정보의 복사본을 지정된 언어로 수동으로 번역합니다. 재생 목록 세부 정보에 필요한 번역 내용을 번역자에게 알려야 합니다. 재생 목록 자산 추가, 편집 또는 삭제를 비롯한 모든 재생 목록 변경 내용을 완료한 다음 번역자에게 재생 목록 세부 정보 및 자산에 필요한 번역을 알리는 것이 좋습니다.
@@ -48,9 +51,9 @@ Microsoft에서 제공하는 재생 목록의 모든 자산은 편집할 수 있
 
 **자산을 만들 수 있습니다.**
 1. 5개의 간단한 단계 재생 목록의 **자산** 아래에서 **+ 새** 자산을 선택한 다음 자산에 대한 세부 정보를 입력합니다. 
-- **제목에**"Contoso에서 Microsoft 365 시작"을 입력합니다. 
-- 기술에서 **Microsoft 365를 선택합니다.** 
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+   - **제목에**"Contoso에서 Microsoft 365 시작"을 입력합니다. 
+   - 기술에서 **Microsoft 365를 선택합니다.** 
+![자산 세부 정보를 입력하는 양식입니다.](media/custom_ml_pl_createasset.png)
 2. 자산 **만들기 를** 선택한 다음 자산 **저장 을 선택합니다.**
 
 **자산을 열기 위해**
@@ -59,7 +62,7 @@ Microsoft에서 제공하는 재생 목록의 모든 자산은 편집할 수 있
 3. 번역 **을 클릭합니다.**
 4. 원하는 **언어에** 대해 만들기를 선택합니다. 이 예제에서는 이탈리아어를 선택합니다.
 5. 보기를 **선택합니다.** 이제 지원되는 언어에 따라 다음 예제와 비슷한 페이지가 표시됩니다.
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![샘플 재생 목록 자산 페이지.](media/custom_ml_pl_createasset.png)
 6. **게시** 를 클릭합니다.
 7. 만든 번역 페이지의 경우 브라우저에서 URL을 복사하고 학습 경로 관리 페이지로 돌아오세요.
 
@@ -67,7 +70,7 @@ Microsoft에서 제공하는 재생 목록의 모든 자산은 편집할 수 있
 1. 학습 경로 관리 페이지로 돌아가서 연필로 열고 "5단계" 자산의 편집 아이콘(연필)을 선택합니다. 
 2. 언어 **추가를** 클릭한 다음 언어를 선택합니다. 이 예제에서는 이탈리아어를 선택되었습니다. 
 3. 만든 번역된 페이지의 URL을 입력합니다. 다음 예제와 비슷한 페이지가 표시됩니다. 
-![custom_ml_pl_translateasseturl.png](media/custom_ml_pl_translateasseturl.png)
+![특정 언어 페이지의 URL을 입력하는 양식](media/custom_ml_pl_translateasseturl.png)
 4. 자산 **저장을 클릭합니다.**
 
 ## <a name="add-languages-for-existing-custom-playlists-and-assets"></a>기존 사용자 지정 재생 목록 및 자산에 대한 언어 추가
@@ -80,13 +83,13 @@ Microsoft에서 제공하는 재생 목록의 모든 자산은 편집할 수 있
 ### <a name="to-add-languages-for-an-existing-playlist"></a>기존 재생 목록의 언어를 추가하는 경우
 1.  학습 경로 홈  메뉴에서 학습 **경로 관리 를 클릭합니다.** 
 2.  사용자 지정 재생 목록을 선택합니다. 사용자 지정 재생 목록은 다음 예제와 같이 확인 표시가 있는 사용자 아이콘으로 식별됩니다.
-![custom_ml_pl_customselect.png](media/custom_ml_pl_customselect.png) 
+![샘플 사용자 지정 재생 목록입니다.](media/custom_ml_pl_customselect.png) 
 3. 세부 **정보 편집 을 선택합니다.** 세부 정보 편집 단추를 찾기 위해 아래로 **스크롤해야 할 수** 있습니다.   
 4. 언어 **추가를** 선택한 다음 언어를 선택합니다.  
 5. 자세히 **저장 을 선택합니다.**
  사용 가능한 언어는 사이트에 대해 선택된 지원되는 언어에 따라 달라 하게 됩니다. 추가 언어를 추가하려면 지원되는 언어를 사이트에 추가해야 합니다.   
 5. 복사한 재생 목록 세부 정보를 보려면 기본 언어(이 경우 영어)의 오른쪽에 있는 언어를 클릭합니다. 새 언어에 대한 세부 정보는 복사된 원래 재생 목록을 반영하며 번역이 필요 합니다.
-![custom_ml_pl_editdetailit.png](media/custom_ml_pl_editdetailit.png) 
+![이탈리아어 샘플 세부 정보 페이지](media/custom_ml_pl_editdetailit.png) 
 7. 번역할 재생 목록 세부 정보를 번역자에게 알리기 위해 메모를 만들어야 합니다.  
 
 **자산을 열기 위해**
@@ -95,7 +98,7 @@ Microsoft에서 제공하는 재생 목록의 모든 자산은 편집할 수 있
 3. 번역 **을 클릭합니다.**
 4. 원하는 **언어에** 대해 만들기를 선택합니다. 이 예제에서는 이탈리아어를 선택합니다.
 5. 보기를 **선택합니다.** 이제 지원되는 언어에 따라 다음 예제와 비슷한 페이지가 표시됩니다.
-![custom_ml_pl_createasset.png](media/custom_ml_pl_createasset.png)
+![보기를 선택하면 나타나는 샘플 페이지입니다.](media/custom_ml_pl_createasset.png)
 6. **게시** 를 클릭합니다.
 7. 만든 번역 페이지의 경우 브라우저에서 URL을 복사하고 학습 경로 관리 페이지로 돌아오세요.
 

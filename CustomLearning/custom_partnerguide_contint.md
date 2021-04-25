@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: 파트너 통합 모델
 ms.date: 3/9/2019
 description: 파트너 통합 모델
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162935"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999524"
 ---
 # <a name="partner-integration-models"></a>파트너 통합 모델
 SharePoint Online 프로비저닝 서비스의 Microsoft 365 학습 경로 콘텐츠를 직접 보완할 수 없는 경우 파트너가 활용할 수 있는 몇 가지 통합 모델이 있습니다. 위의 파트너 통합 모델은 복잡성과 투자 수준이 증가하는 순서로 표시됩니다. 따라서 당사의 지침은 비즈니스 모델을 기반으로 전문 지식을 구축하고 고급 수준으로 발전하는 것입니다.
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![흐름 차트는 활성화자, 통합자 및 재배포자 역할을 보여줍니다.](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>어떻게 시작해야 하나요? 
 시작을 위해 따라야 할 몇 가지 모범 사례는 다음과 같습니다.     
@@ -133,7 +136,7 @@ Microsoft는 매니페스트 파일 및 이미지에 대해 GitHub 페이지를 
 
 자체 콘텐츠 팩을 통해 학습 경로 솔루션을 확장하기로 선택한 경우 Microsoft와 동일한 버전 관리 구조를 유지해야 합니다. 웹 파트가 지원하는 매니페스트 버전이 해당 버전에 구워지며 CDN URL에 자동으로 추가되어 CDN 끝점에 버전 폴더가 포함되어 있지 않습니다. 매니페스트 파일을 개정할 때 매니페스트 파일의 새 인스턴스를 만들 시간을 줄 것입니다.
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![Screenshot shows sample structure.](media/cg-part-json-folder.png) 
 
 CDN 원본으로 GitHub 페이지를 활용하는 데 대한 자세한 내용은 다음 도움말 설명서를 [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) 참조하세요. .
 
@@ -158,11 +161,11 @@ JSON을 수정하고 CDN을 정의한 후 학습 경로에 연락처 팩을 추�
 2. 관리 **페이지에서** ... **페이지의 오른쪽 위** 모서리에 콘텐츠 팩을 추가합니다.
 3. 사용자 지정 콘텐츠 팩을 클릭한 다음 콘텐츠 팩의 이름을 입력한 다음 JSON 파일이 있는 CDN을 지정합니다.
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![이름과 경로를 입력하는 화면입니다.](media/cg-part-addconpack.png)
 
 4. **저장** 을 클릭합니다. 이제 사용자 지정 콘텐츠 팩의 콘텐츠가 관리 페이지에 표시됩니다. 예를 들면 다음과 같습니다. 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![관리 페이지 예제입니다.](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>웹 파트의 콘텐츠 팩으로 필터링
 학습 경로를 사용하여 학습 경로 웹 파트를 페이지에 추가하고, 웹 파트를 필터링하여 사용자 지정 콘텐츠 팩 원본을 지정한 다음 웹 파트를 원하는 범주, 하위 범주, 재생 목록 및 자산으로 필터링할 수 있습니다. 
@@ -175,4 +178,4 @@ JSON을 수정하고 CDN을 정의한 후 학습 경로에 연락처 팩을 추�
 6. 웹 파트를 클릭한 다음 편집 **아이콘을** 클릭합니다.
 7. 학습 **원본 선택 상자에서** 사용자 지정 콘텐츠 팩을 선택한 다음 웹 파트를 원하는 콘텐츠로 필터링합니다. 다음은 사용자 지정 콘텐츠 팩의 재생 목록으로 필터링된 웹 파트의 예를 제공하는 예제입니다.
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![사용자 지정 콘텐츠 팩의 재생 목록으로 필터링된 샘플 웹 파트의 스크린샷](media/cg-part-conpackfilter.png)

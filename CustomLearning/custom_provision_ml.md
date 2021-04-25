@@ -5,13 +5,16 @@ title: 새 학습 경로 다국어 솔루션 프로비전
 ms.date: 02/10/2019
 description: SharePoint 프로비전 서비스를 통해 Microsoft 365 학습 경로 사이트 프로비전
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 19de14ba0785fa394dfe65e50ba8c4f27864cccf
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 40371138db2ec01e0e4a6558175f68cfa06fba51
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163005"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999384"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>새 학습 경로 다국어 솔루션 프로비전
 테넌트에 프로비전된 학습 경로가 없는 조직은 SharePoint 프로비전 서비스를 사용하여 다국어 학습 경로 솔루션을 추가할 수 있습니다. 이 옵션을 사용하면 학습 경로 SharePoint 서식 파일을 9개 언어로 번역할 수 있으며 최소한의 수정과 함께 사용할 수 있습니다. 

@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: 학습 경로 콘텐츠 업데이트
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: 학습 경로 콘텐츠 업데이트
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163085"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000114"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 학습 경로 콘텐츠 업데이트
 학습 경로는 분기별 콘텐츠 업데이트 주기를 준수하기 위해 노력합니다. 콘텐츠 업데이트가 적용되는 방법 및 콘텐츠 업데이트를 관리하는 방법에 대한 자세한 내용은 [Manage Content Updates를 참조하세요.](custom_contentupdatesmanage.md) 
@@ -284,10 +287,10 @@ Office 365는 Microsoft 365로 다시 브랜드가 업데이트됩니다. 이름
 
 ##### <a name="work-remotely-five-new-assets"></a>원격으로 작업(새 자산 5개)
 - Office 365를 사용하여 원격으로 작업
-- 시작 Office.com
+- Office.com에서 시작
 - 통신 또는 충족
 - 작업 파일 저장
-- 고급 대안
+- 고급 대체
 ##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Office 365와 공동 작업을 위한 모범 사례(새 자산 6개)
 - 시작하기
 - 공유
@@ -434,7 +437,7 @@ OneDrive에 대해 추가된 비디오 자산은 다음과 같습니다.
 - Sway에 콘텐츠 추가(11개 자산)
 - Sway 사용자 지정(5개의 자산)
 
-### <a name="access"></a>Access
+### <a name="access"></a>액세스
 - 빠른 시작 액세스(4개의 자산)
 - Access(3개의 자산)
 - Access 데이터베이스 만들기(두 개의 자산)

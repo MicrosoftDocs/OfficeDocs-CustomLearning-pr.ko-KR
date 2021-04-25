@@ -1,26 +1,26 @@
 ---
-title: 챔피언 프로그램 모범 사례-실제 세계 지침
-description: 챔피언 프로그램 모범 사례와 함께 Office 365의 드라이브 채택
+title: 챔피언 프로그램 모범 사례 - 실제 지침
+description: 챔피언 프로그램 모범 사례를 통해 Office 365 채택 주도
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
-ms.service: sharepoint online
-ms.openlocfilehash: 4a86a067f23e68f8b89294a9dd69f4ac06e93c1b
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: cb36c3685d0e561441970ca0bcf09ccedab3df39
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233410"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999884"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>Champions 프로그램에 대 한 실제 지침
+# <a name="real-world-guidance-for-your-champions-program"></a>챔피언 프로그램에 대한 실제 지침
 
-Champions 프로그램을 작성 하는 실제 지침을 보려면 다음 비디오를 시청 하세요.  
+챔피언 프로그램을 구축하기 위한 실제 지침의 이 비디오를 시청하세요.  
 
-Simon Denton, Mott의 비즈니스 설계자 MacDonald
+Simon Denton, Mott MacDonald의 비즈니스 설계자
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Microsoft IT의 pouneh & Sara 덤 불 Microsoft IT의 Champions 프로그램 구축 논의
+Pouneh Kaufman & Sara Bush가 Microsoft에서 챔피언 프로그램 구축에 대해 논의합니다.
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]
