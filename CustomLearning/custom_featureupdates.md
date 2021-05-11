@@ -1,5 +1,5 @@
 ---
-작성자: pkrebs ms.author: pkrebs 제목: 학습 경로 기능 업데이트 ms.date: 2021년 4월 13일 설명: 학습 경로 기능 업데이트 ms.service: sharepoint-online
+작성자: pkrebs ms.author: pkrebs 제목: 학습 경로 기능 업데이트 ms.date: 2021년 4월 13일 설명: 학습 경로 기능 업데이트 ms.service: sharepoint-online 관리자: bpardi ms.topic: 문서
 
 # <a name="learning-pathways-version-40-feature-updates"></a>학습 경로 버전 4.0 기능 업데이트
 다음은 학습 경로 버전 4.0에 대한 기능 업데이트입니다.  
@@ -25,7 +25,7 @@
 
 ## <a name="july-2020-version-40-feature-updates"></a>2020년 7월 버전 4.0 기능 업데이트 
 
-다음과 같은 새로운 기능이 Microsoft 365 학습 경로 버전 4.0에 추가되었습니다. 
+학습 경로 버전 4.Microsoft 365 다음과 같은 새로운 기능이 추가되었습니다. 
 
 ### <a name="multilingual-support-for-learning-pathways"></a>학습 경로에 대해 다국어 지원 
 이제 학습 경로에 대한 다국어 지원에 네덜란드어가 포함되어 있습니다. 
@@ -57,13 +57,13 @@
 - [하위Category 만들기](custom_createnewcat.md)
 
 ## <a name="november-2019-version-30-feature-updates"></a>2019년 11월 버전 3.0 기능 업데이트
-고객 의견을 기반으로 Microsoft 365 학습 경로 버전 3.0에 다음과 같은 새로운 기능이 추가되었습니다.
+고객 의견에 따라 다음과 같은 새로운 기능이 Microsoft 365 경로 버전 3.0에 추가되었습니다.
 
 ### <a name="content-updates-and-editorial-calendar"></a>콘텐츠 업데이트 및 편집 일정
 학습 경로의 약속 중 하나는 최신 콘텐츠입니다. 이를 위해 다양한 새로운 하위 종류, 재생 목록 및 자산으로 첫 2019년 11월 분기별 콘텐츠 업데이트를 제공했습니다. 콘텐츠 업데이트는 What's New/What's Changed playlist의 콘텐츠 업데이트 문서에서 전달됩니다. 분기별 콘텐츠 업데이트 학습 경로도 찾을 수 있습니다. 일반적인 Office 도움말은 [2019년 11월](custom_contentupdates.md)콘텐츠 업데이트를 참조하세요.
 
 ### <a name="learning-pathways-admin-success-center"></a>학습 경로 관리 성공 센터
-관리자와 사이트 모음 소유자가 학습 경로를 가장 잘 활용하는 데 도움이 되는 Microsoft 365 학습 경로 관리 성공 센터가 추가되었습니다. 관리 성공 센터는 계획 및 채택 리소스에 대한 링크를 제공하며 학습 경로의 계획, 사용자 지정, 채택을 진행하고 영향을 측정하는 방법에 대한 지침을 제공합니다. 자세한 내용은 관리 성공 [센터 를 참조하세요.](custom_successcenter.md)
+관리자와 사이트 모음 소유자가 학습 경로를 가장 활용하는 데 도움이 되는 Microsoft 365 학습 경로 관리 성공 센터를 추가했습니다. 관리 성공 센터는 계획 및 채택 리소스에 대한 링크를 제공하며 학습 경로의 계획, 사용자 지정, 채택을 진행하고 영향을 측정하는 방법에 대한 지침을 제공합니다. 자세한 내용은 관리 성공 [센터 를 참조하세요.](custom_successcenter.md)
 
 ## <a name="playlist-navigation"></a>재생 목록 탐색
 고객 피드백에 따라 다음 및 이전 단추를 사용하여 탐색을 보다 분명하게 만들 수 있습니다. 또한 사용자가 재생 목록의 전체 항목 목록을 쉽게 보고 재생 목록의 자산으로 직접 이동할 수 있도록 탐색 영역 내에 콘텐츠 표를 추가했습니다.
@@ -75,5 +75,5 @@
 많은 고객이 완전히 새로운 재생 목록을 만들 필요 없이 Microsoft에서 제공하는 재생 목록에서 몇 가지 간단한 것만 수정할 필요가 없다고 말했습니다. 예를 들어 일반적인 고객 요청은 6단계로 시작 재생 목록에서 단계를 제거하는 것입니다. 이제 Microsoft 카탈로그의 재생 목록을 포함하여 기존 재생 목록에서 재생 목록을 복사한 다음 해당 재생 목록을 수정할 수 있습니다. 예를 들어 이제 6개의 간단한 단계를 복사하고 3단계를 삭제한 다음 재생 목록을 3단계로 전환할 수 있습니다. 자세한 내용은 재생 목록 [복사를 참조하세요.](custom_copyplaylist.md)
 
 ## <a name="multi-content-pack-support"></a>다중 콘텐츠 팩 지원
-Microsoft 365 학습 경로 파트너 및 관리자에게 웹 콘텐츠 관리 경험이 있는 관리자를 위해 설계된 다중 콘텐츠 지원을 통해 파트너 또는 관리자는 사용자 지정 콘텐츠 집합을 Microsoft 365 학습 경로에 통합할 수 있습니다. 자세한 내용은 파트너 [가이드를 참조하세요.](custom_partnerguide.md)
+웹 Microsoft 365 관리 경험이 있는 파트너 및 관리자를 위해 설계된 다중 콘텐츠 지원을 통해 파트너 또는 관리자는 사용자 지정 콘텐츠 집합을 학습 경로에 통합할 Microsoft 365 있습니다. 자세한 내용은 파트너 [가이드를 참조하세요.](custom_partnerguide.md)
 

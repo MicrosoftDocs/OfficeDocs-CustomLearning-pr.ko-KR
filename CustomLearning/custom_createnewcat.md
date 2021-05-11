@@ -5,18 +5,20 @@ title: 새 하위 작업 만들기
 ms.date: 02/17/2019
 description: 학습 경로가 있는 새 하위 하위 작업 만들기
 ms.service: sharepoint-online
-ms.openlocfilehash: cf50403eee4fac0494298a84354eb142e7957790
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 4cf22317096bba2f4eacb64ce7ca838219d6b390
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999089"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310422"
 ---
 # <a name="create-a-subcategory"></a>하위 범주 만들기 
 경우에 따라 새 하위Category를 만들 수 있습니다. 예를 들어 조직에서 첫 번째 일 하위 목록이 작동하지 않는 경우 새 하위 목록을 만든 다음 조직의 요구에 따라 재생 목록을 추가할 수 있습니다. 
 
-1. Microsoft 365 학습 경로  홈 페이지에서 **Microsoft 365 교육을** 클릭하고 웹 파트에서 시스템 메뉴를 클릭한 다음 재생 목록 **관리 를 클릭합니다.**  
-2. 범주 **를 선택합니다.** 이 예제에서 시작 **을 선택합니다.**  
+1. Microsoft 365 학습 경로 홈 페이지에서  Microsoft 365 **교육을** 클릭하고 웹 파트에서  시스템 메뉴를 클릭한 다음 재생 목록 **관리 를 클릭합니다.** 
+2. 범주 **를 선택합니다.** 이 예제에서는 를 **시작.**  
 3. 페이지 아래로 스크롤합니다. 
 3. 새 **하위 구성 추가 + 아이콘을** 클릭합니다.  
 
