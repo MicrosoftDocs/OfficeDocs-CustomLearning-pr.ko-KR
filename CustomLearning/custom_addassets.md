@@ -5,12 +5,14 @@ title: 재생 목록에 자산 추가
 ms.date: 02/17/2019
 description: 학습 경로 재생 목록에 새 자산 및 기존 자산 추가
 ms.service: sharepoint-online
-ms.openlocfilehash: abd4500faccf8d4e8008f72dc800855035d8a2c9
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 409a1dab13d00c3592f565675475cf2446da9908
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999834"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334552"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>사용자 지정 재생 목록에 자산 추가
 
@@ -36,14 +38,14 @@ ms.locfileid: "51999834"
 2. 재생 목록에 새 자산을 추가하려면 새 자산 **을 클릭합니다.** 
 3. 제목을 입력합니다. 이 예제에서는 "재생 목록에 자산 추가"를 입력한 다음 자산 페이지 **만들기를 클릭합니다.**
 
-![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
+   ![창에 높은 자산 페이지 만들기 단추가 표시됩니다.](media/cg-addassetcreatenewpage.png)
 
 4. 페이지 **열기 를 클릭합니다.**
 5. 편집 **아이콘을** 클릭한 다음 제목 **영역의 웹 파트** 편집을 클릭합니다.
 6. **레이아웃에서** 일반 을 **클릭합니다.** 
 7. 한 열로 구성한 섹션을 새로 추가한 다음 페이지에 예제 텍스트를 추가하여 다음 예제와 같이 표시됩니다. 
 
-![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
+   ![자산 대화 상자를 추가합니다.](media/cg-addassetcreatenewpageedit.png)
 
 7. **게시** 를 클릭합니다.
 8. 사용자 지정 **학습 관리 페이지로** 돌아오십시오. 
@@ -56,11 +58,11 @@ URL **입력 옵션을** 사용하여 자산 제목을 입력한 다음 **URL** 
 2. 재생 목록에 새 자산을 추가하려면 새 자산 **을 클릭합니다.** 
 3. 제목을 입력합니다. 이 예에서는 "사용자 지정 재생 목록 소개"를 입력한 다음 **URL 입력 을 클릭합니다.** 
 
-![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
+   ![새 제목이 추가되는 재생 목록 자산 대화 상자입니다.](media/cg-newplaylistasseturl.png)
 
 4. 이전 사용자 지정 재생 목록용 SharePoint 페이지 만들기 섹션에서 만든 [SharePoint ](custom_createnewpage.md) 페이지의 URL을 입력한 다음 다음 그림과 같이 필드의 나머지 부분을 입력합니다.
 
-![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
+   ![재생 목록 소개 정보를 입력하기 위한 양식입니다.](media/cg-newplaylistassetdetails.png)
 
 5. 자산 **저장을 클릭합니다.** 
 
@@ -70,12 +72,12 @@ URL **입력 옵션을** 사용하여 자산 제목을 입력한 다음 **URL** 
 
 - 검색 **상자에** 검색 구를 입력한 다음 검색 결과에서 자산을 선택합니다. 이 예제에서는 "Excel이 무엇입니까?"를 입력합니다. 을(를) 추가합니다.
 
-![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
+![새 자산 대화 상자입니다.](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>자산 편집, 이동 및 삭제
 만든 사용자 지정 자산을 편집할 수 있지만 Microsoft의 자산은 편집할 수 없습니다. 그러나 재생 목록에서 모든 자산을 제거하고 주문 자산을 변경할 수 있습니다. 
 
-![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
+![항목을 제거하거나 편집하는 옵션이 있는 재생 목록 자산 대화 상자입니다.](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>자산 편집
 - 자산에 대한 편집 단추를 클릭하고 자산을 수정한 다음 자산 저장을 클릭합니다. 
@@ -94,4 +96,4 @@ URL **입력 옵션을** 사용하여 자산 제목을 입력한 다음 **URL** 
 3. 페이지를 새로 고치고 시작 에서 첫 **번째 일** **을 클릭합니다.**
 4. 학습 **경로 시작 키트를** 클릭하여 첫 번째 재생 목록을 볼 수 있습니다. 
 
-![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)
+![샘플 소개 페이지.](media/cg-addassetcheckwork.png)

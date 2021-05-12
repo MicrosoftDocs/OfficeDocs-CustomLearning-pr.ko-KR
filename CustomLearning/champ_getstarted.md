@@ -1,19 +1,20 @@
 ---
-title: 챔피언 프로그램 모범 사례
-description: 챔피언 프로그램 모범 사례를 통해 Office 365 채택 주도
+title: '챔피언 프로그램 모범 사례: 사용자 채택을 위한 챔피언 설정'
+description: 챔피언 프로그램 모범 사례는 Office 365의 채택을 구동하는 데 도움이 됩니다.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 2eab242302ed952141a256f3c9c1e6265044bf8f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 691b6535be07028bb02d6340cdfddeba841274a2
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999934"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334592"
 ---
-# <a name="establish-champions-for-user-adoption"></a>사용자 채택을 위한 챔피언 설정 
+# <a name="champion-program-best-practices-establish-champions-for-user-adoption"></a>챔피언 프로그램 모범 사례: 사용자 채택을 위한 챔피언 설정
 
 조직 변경 관리는 대상 사용자 그룹의 동작을 변경하는 아트입니다. 이 사례를 지원하는 많은 과학 및 연구가 있습니다. 이 문서에서는 회사의 비즈니스 결과를 도출하는 주요 서비스의 채택을 주도하는 데 도움을 줄 것입니다.  모범 사례에 따라 Office 365에서 평가 가능한 가치를 얻기 위한 시간을 단축할 수 있습니다.  
 
@@ -24,7 +25,7 @@ ms.locfileid: "51999934"
 
 ## <a name="who-are-champions-and-what-makes-them-tick"></a>챔피언이 누구고 어떤 틱을 이행할 수 있나요?
 
-챔피언은 자신의 일에 열렬할 뿐만 아니라 자신의 지식을 공유하고 협력자가 보다 효과적인 해결 방법을 배우는 데 도움을 줄 수 있습니다. 챔피언은 열광적이기 때문에 기존 도구로 좌절하는 경우가 종종 있습니다. 이들이 워터풀러 챌린지에서 이길 수 있습니다!  
+챔피언은 자신의 일에 열렬할 뿐만 아니라 자신의 지식을 공유하고 협력자가 보다 효과적인 해결 방법을 배우는 데 도움을 줄 수 있습니다. 챔피언은 열광적이기 때문에 기존 도구로 좌절하는 경우가 종종 있습니다. 물이 더 시원해지기 챌린지에서 이길 수 있습니다!  
 
 의미 있는 방식으로 챔피언에게 보상을 받는 것이 중요합니다. 몇 가지 제안 사항이 있습니다.
 
@@ -44,7 +45,7 @@ ms.locfileid: "51999934"
 
 챔피언은 핵심 프로젝트 팀의 리소스에 대한 부담을 줄이고 커뮤니티 전체에서 참여를 유도하는 데 도움이 됩니다. 또한 다음을 할 수 있습니다.
 
-1. 개선된 작업 방식의 채택을 증가시키는 열의를 샘하기 위한 근거를 만들 수 있습니다.
+1. 개선된 작업 방식의 채택을 확장하는 지면에 부드러진 oif 열의 만들기
 1. 팀 간 영향력 원 구축
 1. 팀 전체에서 ot 수명을 작업하는 새로운 방법 가져오기
 1. 비즈니스 문제 및 가능한 해결 방법 식별

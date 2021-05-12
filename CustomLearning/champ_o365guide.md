@@ -1,17 +1,18 @@
 ---
 title: 챔피언 프로그램 모범 사례 - Microsoft 365 최종 사용자 채택 가이드
-description: 챔피언 프로그램 모범 사례를 통해 Office 365 채택 주도
+description: 챔피언 프로그램 모범 사례 및 Microsoft 365 최종 사용자 채택 가이드를 통해 Office 365의 채택을 주도합니다.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: f158dece60fef9e91bf16e8594d8b3b3ed2af6e8
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 6e62361e9aa4328e06844747f1bbbcab5cca1596
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999924"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334602"
 ---
 # <a name="microsoft-365-end-user-adoption-guide"></a>Microsoft 365 최종 사용자 채택 가이드
 

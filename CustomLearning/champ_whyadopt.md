@@ -1,17 +1,18 @@
 ---
-title: 챔피언 프로그램 모범 사례
+title: '챔피언 프로그램 모범 사례: 채택을 이행하기 위한 노력을 기울이는 이유'
 description: 채택을 주도하는 이유는 무엇일까요?
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 8ddc1d1992a539b10d24f1503901ae76beb6eb97
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 7751ab7afd3a4ff78d385aee15d3e9b978c6241e
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999894"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334482"
 ---
 # <a name="why-put-effort-into-driving-adoption"></a>채택을 주도하는 이유는 무엇일까요?  
 

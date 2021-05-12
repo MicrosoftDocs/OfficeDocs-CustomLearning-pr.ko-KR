@@ -1,17 +1,18 @@
 ---
 title: 챔피언 프로그램 모범 사례 - 피드백 수집
-description: 챔피언 프로그램 모범 사례를 통해 Office 365 채택 주도
+description: Office 365의 채택을 주도하는 모범 사례
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: afa2a593572af8fca059274e0bc36b1275870384
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: a4839b026037aa724aea9953d2a031558f01d30a
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000004"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334622"
 ---
 # <a name="collect-feedback-from-your-employees"></a>직원으로부터 피드백 수집
 
@@ -30,4 +31,4 @@ ms.locfileid: "52000004"
 ## <a name="highlight-the-wins-share-showcases"></a>Wins: Share Showcases 강조 표시
 이 여정을 계속 진행하면 Office 365에서 독창성을 발휘하는 직원의 쇼케이스가 놀라고 즐거움을 선사할 것입니다. 이러한 쇼케이스를 광범위하게 공유하는 것이 좋습니다. 이를 통해 다른 사용자가 혁신을 이루고, 채택 곡선에 앞서 있을 수 있는 사용자를 교육하고, 자신의 환경에서 Office 365를 가장 잘 사용하는 방법을 고민해 본 사용자에게 보상을 받을 수 있습니다. 매 분기마다 쇼케이스 수가 설정된 수를 식별하는 데 목표를 세우면 채택 모멘텀을 유지하는 데 도움이 됩니다.
 
-커뮤니티에서 이러한 쇼케이스를 공유하여 다른 직원에게 영감을 주며 Office 365의 이점을 배우는 데 도움을 줄 수 있습니다.
+공개 커뮤니티에서 이러한 쇼케이스를 공유하여 다른 직원에게 영감을 주며 Office 365의 이점을 배우는 데 도움을 줄 수 있습니다.
